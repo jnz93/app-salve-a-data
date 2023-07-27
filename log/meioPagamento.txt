@@ -1,0 +1,986 @@
+Array
+(
+    [0] => Array
+        (
+            [descricao] => 
+            [token] => 5cdbae78-d409-44f9-a968-761957ee355c
+            [default] => 1
+            [interUser] => DE85F56A5F5841A08C15D617482BFBD9
+            [accessToken] => 2D90C50A40297EC7A38FED19D2167EA33198AD2448BDB1C5A04CC2443561D30A
+        )
+
+    [1] => Array
+        (
+            [errors] => Array
+                (
+                    [description] => Array
+                        (
+                            [0] => não pode ficar em branco
+                        )
+
+                )
+
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [descricao] => andreyleocadiodev@gmail.com1659374537
+            [token] => c61a71b9-6ba4-4c67-9e1d-021abc7c81ea
+            [default] => 1
+            [interUser] => DE85F56A5F5841A08C15D617482BFBD9
+            [accessToken] => 2D90C50A40297EC7A38FED19D2167EA33198AD2448BDB1C5A04CC2443561D30A
+        )
+
+    [1] => Array
+        (
+            [id] => D53EB7F6B15B41648877B8172266E2BD
+            [description] => andreyleocadiodev@gmail.com1659374537
+            [item_type] => credit_card
+            [customer_id] => DE85F56A5F5841A08C15D617482BFBD9
+            [data] => Array
+                (
+                    [bin] => 411111
+                    [year] => 2025
+                    [month] => 10
+                    [brand] => Visa
+                    [holder_name] => ANDREY LEOCADIO
+                    [display_number] => XXXX-XXXX-XXXX-1111
+                    [fingerprint] => f5cc0d03-3332-885c-6685-f4236f29bb7e
+                    [remote_ip] => 
+                    [billing_address] => 
+                    [issuer] => Informação não disponivel
+                    [issuer_code] => 
+                    [card_type] => Multiplo
+                    [foreign_card] => t
+                )
+
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [descricao] => andreyleocadiodev@gmail.com1659374877
+            [token] => 3b0104c6-fedc-471a-a9e6-dba43f2387c8
+            [default] => 1
+            [interUser] => DE85F56A5F5841A08C15D617482BFBD9
+            [accessToken] => 2D90C50A40297EC7A38FED19D2167EA33198AD2448BDB1C5A04CC2443561D30A
+        )
+
+    [1] => Array
+        (
+            [id] => D78929D8FB58483D9C14AEEA150D19BD
+            [description] => andreyleocadiodev@gmail.com1659374877
+            [item_type] => credit_card
+            [customer_id] => DE85F56A5F5841A08C15D617482BFBD9
+            [data] => Array
+                (
+                    [bin] => 411111
+                    [year] => 2025
+                    [month] => 10
+                    [brand] => Visa
+                    [holder_name] => ANDREY LEOCADIO
+                    [display_number] => XXXX-XXXX-XXXX-1111
+                    [fingerprint] => f5cc0d03-3332-885c-6685-f4236f29bb7e
+                    [remote_ip] => 
+                    [billing_address] => 
+                    [issuer] => Informação não disponivel
+                    [issuer_code] => 
+                    [card_type] => Multiplo
+                    [foreign_card] => t
+                )
+
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [descricao] => andreyleocadiodev@gmail.com1659374931
+            [token] => 783948b4-da8c-4f93-a89e-e0c9c97ab2e2
+            [default] => 1
+            [interUser] => DE85F56A5F5841A08C15D617482BFBD9
+            [accessToken] => 2D90C50A40297EC7A38FED19D2167EA33198AD2448BDB1C5A04CC2443561D30A
+        )
+
+    [1] => Array
+        (
+            [id] => E3808B7D7DDA4A18B3369C6FF5EE3708
+            [description] => andreyleocadiodev@gmail.com1659374931
+            [item_type] => credit_card
+            [customer_id] => DE85F56A5F5841A08C15D617482BFBD9
+            [data] => Array
+                (
+                    [bin] => 411111
+                    [year] => 2025
+                    [month] => 10
+                    [brand] => Visa
+                    [holder_name] => ANDREY LEOCADIO
+                    [display_number] => XXXX-XXXX-XXXX-1111
+                    [fingerprint] => f5cc0d03-3332-885c-6685-f4236f29bb7e
+                    [remote_ip] => 
+                    [billing_address] => 
+                    [issuer] => Informação não disponivel
+                    [issuer_code] => 
+                    [card_type] => Multiplo
+                    [foreign_card] => t
+                )
+
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [descricao] => andreyleocadiodev@gmail.com1659374959
+            [token] => 188bf321-f98a-4efa-85d2-515c87afa473
+            [default] => 1
+            [interUser] => DE85F56A5F5841A08C15D617482BFBD9
+            [accessToken] => 2D90C50A40297EC7A38FED19D2167EA33198AD2448BDB1C5A04CC2443561D30A
+        )
+
+    [1] => Array
+        (
+            [id] => 61FB348C34A740349988063988CC6A23
+            [description] => andreyleocadiodev@gmail.com1659374959
+            [item_type] => credit_card
+            [customer_id] => DE85F56A5F5841A08C15D617482BFBD9
+            [data] => Array
+                (
+                    [bin] => 411111
+                    [year] => 2025
+                    [month] => 10
+                    [brand] => Visa
+                    [holder_name] => ANDREY LEOCADIO
+                    [display_number] => XXXX-XXXX-XXXX-1111
+                    [fingerprint] => f5cc0d03-3332-885c-6685-f4236f29bb7e
+                    [remote_ip] => 
+                    [billing_address] => 
+                    [issuer] => Informação não disponivel
+                    [issuer_code] => 
+                    [card_type] => Multiplo
+                    [foreign_card] => t
+                )
+
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [descricao] => andreyleocadiodev@gmail.com1659374989
+            [token] => d80fad9f-35af-4e0c-9331-9cd88fac3c88
+            [default] => 1
+            [interUser] => DE85F56A5F5841A08C15D617482BFBD9
+            [accessToken] => 2D90C50A40297EC7A38FED19D2167EA33198AD2448BDB1C5A04CC2443561D30A
+        )
+
+    [1] => Array
+        (
+            [id] => 67F7917C92B74250A2EFBF6C81303202
+            [description] => andreyleocadiodev@gmail.com1659374989
+            [item_type] => credit_card
+            [customer_id] => DE85F56A5F5841A08C15D617482BFBD9
+            [data] => Array
+                (
+                    [bin] => 411111
+                    [year] => 2025
+                    [month] => 10
+                    [brand] => Visa
+                    [holder_name] => ANDREY LEOCADIO
+                    [display_number] => XXXX-XXXX-XXXX-1111
+                    [fingerprint] => f5cc0d03-3332-885c-6685-f4236f29bb7e
+                    [remote_ip] => 
+                    [billing_address] => 
+                    [issuer] => Informação não disponivel
+                    [issuer_code] => 
+                    [card_type] => Multiplo
+                    [foreign_card] => t
+                )
+
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [descricao] => andreyleocadiodev@gmail.com1659375046
+            [token] => 76eebd43-746f-4207-8d4c-aba7ea15bdcf
+            [default] => 1
+            [interUser] => DE85F56A5F5841A08C15D617482BFBD9
+            [accessToken] => 2D90C50A40297EC7A38FED19D2167EA33198AD2448BDB1C5A04CC2443561D30A
+        )
+
+    [1] => Array
+        (
+            [id] => B5BF25AA9AF04732B43719B9CF8B58F7
+            [description] => andreyleocadiodev@gmail.com1659375046
+            [item_type] => credit_card
+            [customer_id] => DE85F56A5F5841A08C15D617482BFBD9
+            [data] => Array
+                (
+                    [bin] => 411111
+                    [year] => 2025
+                    [month] => 10
+                    [brand] => Visa
+                    [holder_name] => ANDREY LEOCADIO
+                    [display_number] => XXXX-XXXX-XXXX-1111
+                    [fingerprint] => f5cc0d03-3332-885c-6685-f4236f29bb7e
+                    [remote_ip] => 
+                    [billing_address] => 
+                    [issuer] => Informação não disponivel
+                    [issuer_code] => 
+                    [card_type] => Multiplo
+                    [foreign_card] => t
+                )
+
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [descricao] => andreyleocadiodev@gmail.com1659375107
+            [token] => b41c1168-86ec-4172-8dba-359438bd03a4
+            [default] => 1
+            [interUser] => DE85F56A5F5841A08C15D617482BFBD9
+            [accessToken] => 2D90C50A40297EC7A38FED19D2167EA33198AD2448BDB1C5A04CC2443561D30A
+        )
+
+    [1] => Array
+        (
+            [id] => 56147CA5E83A4180AC173DF3E78EB26F
+            [description] => andreyleocadiodev@gmail.com1659375107
+            [item_type] => credit_card
+            [customer_id] => DE85F56A5F5841A08C15D617482BFBD9
+            [data] => Array
+                (
+                    [bin] => 411111
+                    [year] => 2025
+                    [month] => 10
+                    [brand] => Visa
+                    [holder_name] => ANDREY LEOCADIO
+                    [display_number] => XXXX-XXXX-XXXX-1111
+                    [fingerprint] => f5cc0d03-3332-885c-6685-f4236f29bb7e
+                    [remote_ip] => 
+                    [billing_address] => 
+                    [issuer] => Informação não disponivel
+                    [issuer_code] => 
+                    [card_type] => Multiplo
+                    [foreign_card] => t
+                )
+
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [descricao] => andrey@cakedigital.com.br1659375431
+            [token] => a57b9f44-41bf-47f5-8db3-cf0988aa28ce
+            [default] => 1
+            [interUser] => 58A1FD4968094489B828EC93FB0C2A22
+            [accessToken] => 2D90C50A40297EC7A38FED19D2167EA33198AD2448BDB1C5A04CC2443561D30A
+        )
+
+    [1] => Array
+        (
+            [id] => 5500BB63B1084924902DF2A0E8F3DC0B
+            [description] => andrey@cakedigital.com.br1659375431
+            [item_type] => credit_card
+            [customer_id] => 58A1FD4968094489B828EC93FB0C2A22
+            [data] => Array
+                (
+                    [bin] => 411111
+                    [year] => 2025
+                    [month] => 10
+                    [brand] => Visa
+                    [holder_name] => ANDREY LEOCADIO
+                    [display_number] => XXXX-XXXX-XXXX-1111
+                    [fingerprint] => f5cc0d03-3332-885c-6685-f4236f29bb7e
+                    [remote_ip] => 
+                    [billing_address] => 
+                    [issuer] => Informação não disponivel
+                    [issuer_code] => 
+                    [card_type] => Multiplo
+                    [foreign_card] => t
+                )
+
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [descricao] => andrey@cakedigital.com.br1659375564
+            [token] => cdeceb22-d189-46c8-bb07-f2abe774a79f
+            [default] => 1
+            [interUser] => 58A1FD4968094489B828EC93FB0C2A22
+            [accessToken] => 2D90C50A40297EC7A38FED19D2167EA33198AD2448BDB1C5A04CC2443561D30A
+        )
+
+    [1] => Array
+        (
+            [id] => F1C18668688045A086C64644240EF2C1
+            [description] => andrey@cakedigital.com.br1659375564
+            [item_type] => credit_card
+            [customer_id] => 58A1FD4968094489B828EC93FB0C2A22
+            [data] => Array
+                (
+                    [bin] => 411111
+                    [year] => 2025
+                    [month] => 10
+                    [brand] => Visa
+                    [holder_name] => ANDREY LEOCADIO
+                    [display_number] => XXXX-XXXX-XXXX-1111
+                    [fingerprint] => f5cc0d03-3332-885c-6685-f4236f29bb7e
+                    [remote_ip] => 
+                    [billing_address] => 
+                    [issuer] => Informação não disponivel
+                    [issuer_code] => 
+                    [card_type] => Multiplo
+                    [foreign_card] => t
+                )
+
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [descricao] => andrey@cakedigital.com.br1659375694
+            [token] => 0fdd9c8d-0c2b-4076-bbe8-42178999a05e
+            [default] => 1
+            [interUser] => 58A1FD4968094489B828EC93FB0C2A22
+            [accessToken] => 2D90C50A40297EC7A38FED19D2167EA33198AD2448BDB1C5A04CC2443561D30A
+        )
+
+    [1] => Array
+        (
+            [id] => 23482D1030304974A65EA5FBE35BF74C
+            [description] => andrey@cakedigital.com.br1659375694
+            [item_type] => credit_card
+            [customer_id] => 58A1FD4968094489B828EC93FB0C2A22
+            [data] => Array
+                (
+                    [bin] => 411111
+                    [year] => 2025
+                    [month] => 10
+                    [brand] => Visa
+                    [holder_name] => ANDREY LEOCADIO
+                    [display_number] => XXXX-XXXX-XXXX-1111
+                    [fingerprint] => f5cc0d03-3332-885c-6685-f4236f29bb7e
+                    [remote_ip] => 
+                    [billing_address] => 
+                    [issuer] => Informação não disponivel
+                    [issuer_code] => 
+                    [card_type] => Multiplo
+                    [foreign_card] => t
+                )
+
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [descricao] => andrey@cakedigital.com.br1659375865
+            [token] => a73188c3-3169-49ac-aaed-037a3d40be0e
+            [default] => 1
+            [interUser] => 58A1FD4968094489B828EC93FB0C2A22
+            [accessToken] => 9341B4F5070ADB7A92926434D2592726E372F3A89479AD4742DF1B8326A84A59
+        )
+
+    [1] => Array
+        (
+            [errors] => Customer Not Found
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [descricao] => andreyleocadiodev@gmail.com1659375910
+            [token] => b5880348-f6f7-48a2-8084-8afb9a4e5dfb
+            [default] => 1
+            [interUser] => DE85F56A5F5841A08C15D617482BFBD9
+            [accessToken] => 9341B4F5070ADB7A92926434D2592726E372F3A89479AD4742DF1B8326A84A59
+        )
+
+    [1] => Array
+        (
+            [errors] => Customer Not Found
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [descricao] => andreyleocadio@cakedigital.com.br1659375985
+            [token] => ee6b2ff9-1bed-4912-a85e-64a3b464e1d4
+            [default] => 1
+            [interUser] => 2FE6F4DB034647158B5ADB65B84D1889
+            [accessToken] => 9341B4F5070ADB7A92926434D2592726E372F3A89479AD4742DF1B8326A84A59
+        )
+
+    [1] => Array
+        (
+            [id] => 03D0180E4C5A4BE59EF7FF00F0499DCF
+            [description] => andreyleocadio@cakedigital.com.br1659375985
+            [item_type] => credit_card
+            [customer_id] => 2FE6F4DB034647158B5ADB65B84D1889
+            [data] => Array
+                (
+                    [brand] => Visa
+                    [holder_name] => ANDREY LEOCADIO
+                    [display_number] => XXXX-XXXX-XXXX-1111
+                    [bin] => 411111
+                    [year] => 2025
+                    [month] => 10
+                    [last_digits] => 1111
+                    [first_digits] => 411111
+                    [masked_number] => XXXX-XXXX-XXXX-1111
+                )
+
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [descricao] => andreyleocadio@cakedigital.com.br1659376191
+            [token] => f97440af-1db5-4344-8783-68ebe32e1daf
+            [default] => 1
+            [interUser] => 2FE6F4DB034647158B5ADB65B84D1889
+            [accessToken] => 9341B4F5070ADB7A92926434D2592726E372F3A89479AD4742DF1B8326A84A59
+        )
+
+    [1] => Array
+        (
+            [id] => 31FE918FBFDE4380AA68B4B8E8109536
+            [description] => andreyleocadio@cakedigital.com.br1659376191
+            [item_type] => credit_card
+            [customer_id] => 2FE6F4DB034647158B5ADB65B84D1889
+            [data] => Array
+                (
+                    [brand] => Visa
+                    [holder_name] => ANDREY LEOCADIO
+                    [display_number] => XXXX-XXXX-XXXX-1111
+                    [bin] => 411111
+                    [year] => 2025
+                    [month] => 10
+                    [last_digits] => 1111
+                    [first_digits] => 411111
+                    [masked_number] => XXXX-XXXX-XXXX-1111
+                )
+
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [descricao] => andreyleocadio@cakedigital.com.br1659376335
+            [token] => ecf8d1df-7616-4fe9-9285-b2bc578bb34b
+            [default] => 1
+            [interUser] => 2FE6F4DB034647158B5ADB65B84D1889
+            [accessToken] => 9341B4F5070ADB7A92926434D2592726E372F3A89479AD4742DF1B8326A84A59
+        )
+
+    [1] => Array
+        (
+            [id] => 3AA1CA21EF9C4D0BAA899ECCDA27825A
+            [description] => andreyleocadio@cakedigital.com.br1659376335
+            [item_type] => credit_card
+            [customer_id] => 2FE6F4DB034647158B5ADB65B84D1889
+            [data] => Array
+                (
+                    [brand] => Visa
+                    [holder_name] => ANDREY LEOCADIO
+                    [display_number] => XXXX-XXXX-XXXX-1111
+                    [bin] => 411111
+                    [year] => 2025
+                    [month] => 10
+                    [last_digits] => 1111
+                    [first_digits] => 411111
+                    [masked_number] => XXXX-XXXX-XXXX-1111
+                )
+
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [descricao] => andreyleocadio@cakedigital.com.br1659376941
+            [token] => 41e00330-ef1b-481a-8b93-9d910a4fa61b
+            [default] => 1
+            [interUser] => 2FE6F4DB034647158B5ADB65B84D1889
+            [accessToken] => 9341B4F5070ADB7A92926434D2592726E372F3A89479AD4742DF1B8326A84A59
+        )
+
+    [1] => Array
+        (
+            [id] => 608E46B8D5094F5C8DA28848D1F0AD66
+            [description] => andreyleocadio@cakedigital.com.br1659376941
+            [item_type] => credit_card
+            [customer_id] => 2FE6F4DB034647158B5ADB65B84D1889
+            [data] => Array
+                (
+                    [brand] => Visa
+                    [holder_name] => ANDREY LEOCADIO
+                    [display_number] => XXXX-XXXX-XXXX-1111
+                    [bin] => 411111
+                    [year] => 2025
+                    [month] => 10
+                    [last_digits] => 1111
+                    [first_digits] => 411111
+                    [masked_number] => XXXX-XXXX-XXXX-1111
+                )
+
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [descricao] => andreyleocadio@cakedigital.com.br1659377155
+            [token] => 9bb8918f-1ea8-4f97-b978-8fdbc1164f48
+            [default] => 1
+            [interUser] => 2FE6F4DB034647158B5ADB65B84D1889
+            [accessToken] => 9341B4F5070ADB7A92926434D2592726E372F3A89479AD4742DF1B8326A84A59
+        )
+
+    [1] => Array
+        (
+            [id] => F36CC7DBDB8E47BBA23E4DB92C6F82CB
+            [description] => andreyleocadio@cakedigital.com.br1659377155
+            [item_type] => credit_card
+            [customer_id] => 2FE6F4DB034647158B5ADB65B84D1889
+            [data] => Array
+                (
+                    [brand] => Visa
+                    [holder_name] => ANDREY LEOCADIO
+                    [display_number] => XXXX-XXXX-XXXX-1111
+                    [bin] => 411111
+                    [year] => 2025
+                    [month] => 10
+                    [last_digits] => 1111
+                    [first_digits] => 411111
+                    [masked_number] => XXXX-XXXX-XXXX-1111
+                )
+
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [descricao] => andreyleocadio@cakedigital.com.br1659377175
+            [token] => 95c6284f-080b-4c2c-9e13-72c66beee841
+            [default] => 1
+            [interUser] => 2FE6F4DB034647158B5ADB65B84D1889
+            [accessToken] => 9341B4F5070ADB7A92926434D2592726E372F3A89479AD4742DF1B8326A84A59
+        )
+
+    [1] => Array
+        (
+            [id] => 9E7A7A1EA1E541939706DC146F7FFCFF
+            [description] => andreyleocadio@cakedigital.com.br1659377175
+            [item_type] => credit_card
+            [customer_id] => 2FE6F4DB034647158B5ADB65B84D1889
+            [data] => Array
+                (
+                    [brand] => Visa
+                    [holder_name] => ANDREY LEOCADIO
+                    [display_number] => XXXX-XXXX-XXXX-1111
+                    [bin] => 411111
+                    [year] => 2025
+                    [month] => 10
+                    [last_digits] => 1111
+                    [first_digits] => 411111
+                    [masked_number] => XXXX-XXXX-XXXX-1111
+                )
+
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [descricao] => andreyleocadio@cakedigital.com.br1659377267
+            [token] => f59b20f8-0d01-4adc-9aa9-81fd6dd387a8
+            [default] => 1
+            [interUser] => 2FE6F4DB034647158B5ADB65B84D1889
+            [accessToken] => 9341B4F5070ADB7A92926434D2592726E372F3A89479AD4742DF1B8326A84A59
+        )
+
+    [1] => Array
+        (
+            [id] => E382CDA342554A9F95242CA1E0CE112F
+            [description] => andreyleocadio@cakedigital.com.br1659377267
+            [item_type] => credit_card
+            [customer_id] => 2FE6F4DB034647158B5ADB65B84D1889
+            [data] => Array
+                (
+                    [brand] => Visa
+                    [holder_name] => ANDREY LEOCADIO
+                    [display_number] => XXXX-XXXX-XXXX-1111
+                    [bin] => 411111
+                    [year] => 2025
+                    [month] => 10
+                    [last_digits] => 1111
+                    [first_digits] => 411111
+                    [masked_number] => XXXX-XXXX-XXXX-1111
+                )
+
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [descricao] => andreyleocadio@cakedigital.com.br1659377343
+            [token] => e70c1222-0e76-4d28-8667-c8c1a6df5fd8
+            [default] => 1
+            [interUser] => 2FE6F4DB034647158B5ADB65B84D1889
+            [accessToken] => 9341B4F5070ADB7A92926434D2592726E372F3A89479AD4742DF1B8326A84A59
+        )
+
+    [1] => Array
+        (
+            [id] => D01B58B997BE4E8FA457F7081960EE6F
+            [description] => andreyleocadio@cakedigital.com.br1659377343
+            [item_type] => credit_card
+            [customer_id] => 2FE6F4DB034647158B5ADB65B84D1889
+            [data] => Array
+                (
+                    [brand] => Visa
+                    [holder_name] => ANDREY LEOCADIO
+                    [display_number] => XXXX-XXXX-XXXX-1111
+                    [bin] => 411111
+                    [year] => 2025
+                    [month] => 10
+                    [last_digits] => 1111
+                    [first_digits] => 411111
+                    [masked_number] => XXXX-XXXX-XXXX-1111
+                )
+
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [descricao] => andrey@teste.com.br1663449141
+            [token] => ab6f01f9-a270-4de6-8d61-6a49008c4fd5
+            [default] => 1
+            [interUser] => 77D09EC14FA34AC1B4DEA9BB41239A26
+            [accessToken] => 3DBEB9545146A921D1A8B08B5A22D88DC45AE7DB84959DB7092D56246917EF01
+        )
+
+    [1] => Array
+        (
+            [id] => FEC31CA0B2BD47B48947DAA26854481D
+            [description] => andrey@teste.com.br1663449141
+            [item_type] => credit_card
+            [customer_id] => 77D09EC14FA34AC1B4DEA9BB41239A26
+            [data] => Array
+                (
+                    [brand] => Visa
+                    [holder_name] => ANDREY LEOCADIO
+                    [display_number] => XXXX-XXXX-XXXX-1111
+                    [bin] => 411111
+                    [year] => 2025
+                    [month] => 10
+                    [last_digits] => 1111
+                    [first_digits] => 411111
+                    [masked_number] => XXXX-XXXX-XXXX-1111
+                )
+
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [descricao] => andrey@teste.com.br1663449187
+            [token] => 50f60edc-9258-40cc-9b1f-8ba646117f8c
+            [default] => 1
+            [interUser] => B8D1FFAB31A949A8AF8D7769EBF37ABA
+            [accessToken] => 3DBEB9545146A921D1A8B08B5A22D88DC45AE7DB84959DB7092D56246917EF01
+        )
+
+    [1] => Array
+        (
+            [id] => EF6060E6704F44E3BAF1C471C87270AA
+            [description] => andrey@teste.com.br1663449187
+            [item_type] => credit_card
+            [customer_id] => B8D1FFAB31A949A8AF8D7769EBF37ABA
+            [data] => Array
+                (
+                    [brand] => Visa
+                    [holder_name] => ANDREY LEOCADIO
+                    [display_number] => XXXX-XXXX-XXXX-1111
+                    [bin] => 411111
+                    [year] => 2025
+                    [month] => 10
+                    [last_digits] => 1111
+                    [first_digits] => 411111
+                    [masked_number] => XXXX-XXXX-XXXX-1111
+                )
+
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [descricao] => andrey@teste.com.br1663449209
+            [token] => 3675b049-33b2-4fc8-8455-cfea852f95e0
+            [default] => 1
+            [interUser] => 453FAC5780314C7585A909B7C0098666
+            [accessToken] => 3DBEB9545146A921D1A8B08B5A22D88DC45AE7DB84959DB7092D56246917EF01
+        )
+
+    [1] => Array
+        (
+            [id] => 88D5A07BA4944C328799A0A60EFF3CC9
+            [description] => andrey@teste.com.br1663449209
+            [item_type] => credit_card
+            [customer_id] => 453FAC5780314C7585A909B7C0098666
+            [data] => Array
+                (
+                    [brand] => Visa
+                    [holder_name] => ANDREY LEOCADIO
+                    [display_number] => XXXX-XXXX-XXXX-1111
+                    [bin] => 411111
+                    [year] => 2025
+                    [month] => 10
+                    [last_digits] => 1111
+                    [first_digits] => 411111
+                    [masked_number] => XXXX-XXXX-XXXX-1111
+                )
+
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [descricao] => andrey@teste.com.br1663449274
+            [token] => 0c24b62d-5dd8-4907-88b8-eefc9fb3d66c
+            [default] => 1
+            [interUser] => 59821E545BCA49EBB12FBD8FFF5FE000
+            [accessToken] => 3DBEB9545146A921D1A8B08B5A22D88DC45AE7DB84959DB7092D56246917EF01
+        )
+
+    [1] => Array
+        (
+            [id] => 1E8B4F37B3FC41569DF15C700E91EAF9
+            [description] => andrey@teste.com.br1663449274
+            [item_type] => credit_card
+            [customer_id] => 59821E545BCA49EBB12FBD8FFF5FE000
+            [data] => Array
+                (
+                    [brand] => Visa
+                    [holder_name] => ANDREY LEOCADIO
+                    [display_number] => XXXX-XXXX-XXXX-1111
+                    [bin] => 411111
+                    [year] => 2025
+                    [month] => 10
+                    [last_digits] => 1111
+                    [first_digits] => 411111
+                    [masked_number] => XXXX-XXXX-XXXX-1111
+                )
+
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [descricao] => andrey@teste.com.br1663449351
+            [token] => 25c556bf-c49c-4616-ac7e-35583753b474
+            [default] => 1
+            [interUser] => CEB19A06889344508582DEDEBB7AF8BC
+            [accessToken] => 3DBEB9545146A921D1A8B08B5A22D88DC45AE7DB84959DB7092D56246917EF01
+        )
+
+    [1] => Array
+        (
+            [id] => DCE2BBE4A6DE426F995D261C7878601E
+            [description] => andrey@teste.com.br1663449351
+            [item_type] => credit_card
+            [customer_id] => CEB19A06889344508582DEDEBB7AF8BC
+            [data] => Array
+                (
+                    [brand] => Visa
+                    [holder_name] => ANDREY LEOCADIO
+                    [display_number] => XXXX-XXXX-XXXX-1111
+                    [bin] => 411111
+                    [year] => 2025
+                    [month] => 10
+                    [last_digits] => 1111
+                    [first_digits] => 411111
+                    [masked_number] => XXXX-XXXX-XXXX-1111
+                )
+
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [descricao] => andrey@teste.com.br1663449568
+            [token] => 96319bf8-e5d3-4f46-8d64-29e48988a189
+            [default] => 1
+            [interUser] => 238784C5064D489495C791E89C1E36D9
+            [accessToken] => 3DBEB9545146A921D1A8B08B5A22D88DC45AE7DB84959DB7092D56246917EF01
+        )
+
+    [1] => Array
+        (
+            [id] => D3233ADBE45542A5A1F1F7787030F269
+            [description] => andrey@teste.com.br1663449568
+            [item_type] => credit_card
+            [customer_id] => 238784C5064D489495C791E89C1E36D9
+            [data] => Array
+                (
+                    [brand] => Visa
+                    [holder_name] => ANDREY LEOCADIO
+                    [display_number] => XXXX-XXXX-XXXX-1111
+                    [bin] => 411111
+                    [year] => 2025
+                    [month] => 10
+                    [last_digits] => 1111
+                    [first_digits] => 411111
+                    [masked_number] => XXXX-XXXX-XXXX-1111
+                )
+
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [descricao] => andrey@teste.com.br1663449632
+            [token] => 38d07212-9e14-4474-942e-9634b79a4de5
+            [default] => 1
+            [interUser] => 89DC8F65F3E54D1AA49125F082DD1F28
+            [accessToken] => 3DBEB9545146A921D1A8B08B5A22D88DC45AE7DB84959DB7092D56246917EF01
+        )
+
+    [1] => Array
+        (
+            [id] => 5E335523F7F640F3BB1547FA07D5394B
+            [description] => andrey@teste.com.br1663449632
+            [item_type] => credit_card
+            [customer_id] => 89DC8F65F3E54D1AA49125F082DD1F28
+            [data] => Array
+                (
+                    [brand] => Visa
+                    [holder_name] => ANDREY LEOCADIO
+                    [display_number] => XXXX-XXXX-XXXX-1111
+                    [bin] => 411111
+                    [year] => 2025
+                    [month] => 10
+                    [last_digits] => 1111
+                    [first_digits] => 411111
+                    [masked_number] => XXXX-XXXX-XXXX-1111
+                )
+
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [descricao] => andrey@teste.com.br1663449694
+            [token] => 9b535955-d852-409d-ba13-7e8aae02c593
+            [default] => 1
+            [interUser] => FB5C191644E040288B87E8015E2FEC32
+            [accessToken] => 3DBEB9545146A921D1A8B08B5A22D88DC45AE7DB84959DB7092D56246917EF01
+        )
+
+    [1] => Array
+        (
+            [id] => 0C0B8E4E886247DCA65C0111FD31F156
+            [description] => andrey@teste.com.br1663449694
+            [item_type] => credit_card
+            [customer_id] => FB5C191644E040288B87E8015E2FEC32
+            [data] => Array
+                (
+                    [brand] => Visa
+                    [holder_name] => ANDREY LEOCADIO
+                    [display_number] => XXXX-XXXX-XXXX-1111
+                    [bin] => 411111
+                    [year] => 2025
+                    [month] => 10
+                    [last_digits] => 1111
+                    [first_digits] => 411111
+                    [masked_number] => XXXX-XXXX-XXXX-1111
+                )
+
+        )
+
+)
+

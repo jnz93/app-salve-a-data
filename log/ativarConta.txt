@@ -1,0 +1,125 @@
+Array
+(
+    [0] => Array
+        (
+            [success] => 
+            [erro] => {"errors":"Apenas dispon\u00edvel para o ambiente produ\u00e7\u00e3o"}
+        )
+
+)
+
+Array
+(
+    [0] => 
+)
+
+Array
+(
+    [0] => Array
+        (
+            [errors] => Not Found
+        )
+
+)
+
+Array
+(
+    [0] => 
+)
+
+Array
+(
+    [0] => Array
+        (
+            [errors] => Not Found
+        )
+
+)
+
+Array
+(
+    [0] => 
+)
+
+Array
+(
+    [0] => Array
+        (
+            [errors] => Array
+                (
+                    [cpf] => Array
+                        (
+                            [0] => é obrigatório
+                            [1] => não é válido
+                        )
+
+                    [address] => Array
+                        (
+                            [0] => é obrigatório
+                        )
+
+                )
+
+        )
+
+)
+
+Array
+(
+    [0] => 
+)
+
+Array
+(
+    [0] => Array
+        (
+            [errors] => Array
+                (
+                    [address] => Array
+                        (
+                            [0] => é obrigatório
+                        )
+
+                )
+
+        )
+
+)
+
+Array
+(
+    [0] => 
+)
+
+Array
+(
+    [0] => Array
+        (
+            [errors] => Array
+                (
+                    [address] => Array
+                        (
+                            [0] => é obrigatório
+                        )
+
+                )
+
+        )
+
+)
+
+Array
+(
+    [0] => 
+)
+
+Array
+(
+    [0] => 
+)
+
+Array
+(
+    [0] => 
+)
+

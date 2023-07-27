@@ -1,0 +1,52 @@
+Array
+(
+    [0] => Array
+        (
+            [id] => D224DF1CB7A743B7B08747990B6FBC08
+            [email] => andrey@teste.com.br
+            [name] => Andrey Leocadio Ribeiro Camargo de França
+            [notes] => 
+            [created_at] => 2022-09-17T18:45:34-03:00
+            [updated_at] => 2022-09-17T18:45:34-03:00
+            [cc_emails] => 
+            [cpf_cnpj] => 088.016.639-86
+            [zip_code] => 82710-000
+            [number] => 3560
+            [complement] => 3560
+            [phone] => 996770938
+            [phone_prefix] => 41
+            [default_payment_method_id] => 
+            [proxy_payments_from_customer_id] => 
+            [city] => Curitiba
+            [state] => PR
+            [district] => Barreirinha
+            [street] => Rua Theodoro Makiolka
+            [custom_variables] => Array
+                (
+                )
+
+            [payment_methods] => Array
+                (
+                )
+
+        )
+
+    [1] => Array
+        (
+            [cpf_cnpj] => 088.016.639-86
+            [nome] => Andrey Leocadio Ribeiro Camargo de França
+            [prefixo] => 41
+            [telefone] => 996770938
+            [email] => andrey@teste.com.br
+            [numero] => 3560
+            [cep] => 82710-000
+            [rua] => Rua Theodoro Makiolka
+            [cidade] => Curitiba
+            [bairro] => Barreirinha
+            [estado] => PR
+            [pais] => 
+            [complemento] => 3560
+            [accessToken] => 3DBEB9545146A921D1A8B08B5A22D88DC45AE7DB84959DB7092D56246917EF01
+        )
+
+)

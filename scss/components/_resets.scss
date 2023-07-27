@@ -1,0 +1,20 @@
+@import "../config/variables";
+
+body{
+    background-color: #F1F8FA !important;
+    
+    .header-wrapper .header-bottom .main-menu ul.nav.metismenu>li a{
+        color: $secondary;
+    }
+
+    .header-wrapper .header-bottom .main-menu ul.nav.metismenu>li a:hover{
+        color: $primary;
+    }
+    
+    .header-wrapper .header-bottom .main-menu>ul>li>a:hover i{
+        color: $primary;
+    }
+    #modalShopify .modal-content{
+        background-color: #292929;
+    }
+}

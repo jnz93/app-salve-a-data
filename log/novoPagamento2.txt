@@ -1,0 +1,4119 @@
+Array
+(
+    [0] => Array
+        (
+            [errors] => Array
+                (
+                    [base] => Array
+                        (
+                            [0] => Faturas pendentes necessitam de pelo menos um item
+                        )
+
+                    [total] => Array
+                        (
+                            [0] => deve ser maior que 1
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [errors] => token não é válido
+        )
+
+    [2] => Array
+        (
+            [desconto] => 0
+            [diasVencimento] => 1
+            [interUser] => DE85F56A5F5841A08C15D617482BFBD9
+            [formaPagamento] => credit_card
+            [external_reference] => 2_1
+            [accessToken] => 2D90C50A40297EC7A38FED19D2167EA33198AD2448BDB1C5A04CC2443561D30A
+            [notification_url] => http://localhost/salveadata/Checkout/retornoPagamento
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [errors] => Array
+                (
+                    [base] => Array
+                        (
+                            [0] => Faturas pendentes necessitam de pelo menos um item
+                        )
+
+                    [total] => Array
+                        (
+                            [0] => deve ser maior que 1
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [errors] => token não é válido
+        )
+
+    [2] => Array
+        (
+            [desconto] => 0
+            [diasVencimento] => 1
+            [interUser] => DE85F56A5F5841A08C15D617482BFBD9
+            [formaPagamento] => credit_card
+            [external_reference] => 2_1
+            [accessToken] => 2D90C50A40297EC7A38FED19D2167EA33198AD2448BDB1C5A04CC2443561D30A
+            [notification_url] => http://localhost/salveadata/Checkout/retornoPagamento
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [errors] => Array
+                (
+                    [base] => Array
+                        (
+                            [0] => Faturas pendentes necessitam de pelo menos um item
+                        )
+
+                    [total] => Array
+                        (
+                            [0] => deve ser maior que 1
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [errors] => Essa conta não suporta parcelamento
+        )
+
+    [2] => Array
+        (
+            [desconto] => 0
+            [diasVencimento] => 1
+            [interUser] => DE85F56A5F5841A08C15D617482BFBD9
+            [formaPagamento] => credit_card
+            [external_reference] => 2_1
+            [accessToken] => 2D90C50A40297EC7A38FED19D2167EA33198AD2448BDB1C5A04CC2443561D30A
+            [notification_url] => http://localhost/salveadata/Checkout/retornoPagamento
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [errors] => Array
+                (
+                    [base] => Array
+                        (
+                            [0] => Conta do destinatário deve estar no mesmo contexto
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [errors] => Essa conta não suporta parcelamento
+        )
+
+    [2] => Array
+        (
+            [desconto] => 0
+            [diasVencimento] => 1
+            [interUser] => DE85F56A5F5841A08C15D617482BFBD9
+            [formaPagamento] => credit_card
+            [external_reference] => 2_1
+            [accessToken] => 2D90C50A40297EC7A38FED19D2167EA33198AD2448BDB1C5A04CC2443561D30A
+            [notification_url] => http://localhost/salveadata/Checkout/retornoPagamento
+            [line_items] => Array
+                (
+                    [0] => Array
+                        (
+                            [description] => Bolinho bonito
+                            [quantity] => 10
+                            [price_cents] => 10384
+                        )
+
+                )
+
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [errors] => Array
+                (
+                    [base] => Array
+                        (
+                            [0] => Conta do destinatário deve estar no mesmo contexto
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [errors] => Essa conta não suporta parcelamento
+        )
+
+    [2] => Array
+        (
+            [desconto] => 0
+            [diasVencimento] => 1
+            [interUser] => DE85F56A5F5841A08C15D617482BFBD9
+            [formaPagamento] => credit_card
+            [external_reference] => 2_1
+            [accessToken] => 2D90C50A40297EC7A38FED19D2167EA33198AD2448BDB1C5A04CC2443561D30A
+            [notification_url] => http://localhost/salveadata/Checkout/retornoPagamento
+            [line_items] => Array
+                (
+                    [0] => Array
+                        (
+                            [description] => Bolinho bonito
+                            [quantity] => 10
+                            [price_cents] => 10384
+                        )
+
+                )
+
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [errors] => Array
+                (
+                    [base] => Array
+                        (
+                            [0] => Conta do destinatário deve estar no mesmo contexto
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [errors] => Essa conta não suporta parcelamento
+        )
+
+    [2] => Array
+        (
+            [desconto] => 0
+            [diasVencimento] => 1
+            [interUser] => DE85F56A5F5841A08C15D617482BFBD9
+            [formaPagamento] => credit_card
+            [external_reference] => 2_1
+            [accessToken] => 2D90C50A40297EC7A38FED19D2167EA33198AD2448BDB1C5A04CC2443561D30A
+            [notification_url] => http://localhost/salveadata/Checkout/retornoPagamento
+            [line_items] => Array
+                (
+                    [0] => Array
+                        (
+                            [description] => Bolinho bonito
+                            [quantity] => 10
+                            [price_cents] => 10384
+                        )
+
+                )
+
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [errors] => Array
+                (
+                    [base] => Array
+                        (
+                            [0] => Conta do destinatário deve estar no mesmo contexto
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [errors] => Essa conta não suporta parcelamento
+        )
+
+    [2] => Array
+        (
+            [desconto] => 0
+            [diasVencimento] => 1
+            [interUser] => DE85F56A5F5841A08C15D617482BFBD9
+            [formaPagamento] => credit_card
+            [external_reference] => 2_1
+            [accessToken] => 2D90C50A40297EC7A38FED19D2167EA33198AD2448BDB1C5A04CC2443561D30A
+            [notification_url] => http://localhost/salveadata/Checkout/retornoPagamento
+            [line_items] => Array
+                (
+                    [0] => Array
+                        (
+                            [description] => Bolinho bonito
+                            [quantity] => 10
+                            [price_cents] => 10384
+                        )
+
+                )
+
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [errors] => Array
+                (
+                    [base] => Array
+                        (
+                            [0] => Conta do destinatário deve estar no mesmo contexto
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [errors] => Array
+                (
+                    [base] => Array
+                        (
+                            [0] => Faturas pendentes necessitam de pelo menos um item
+                        )
+
+                    [total] => Array
+                        (
+                            [0] => deve ser maior que 1
+                        )
+
+                )
+
+        )
+
+    [2] => Array
+        (
+            [desconto] => 0
+            [diasVencimento] => 1
+            [interUser] => DE85F56A5F5841A08C15D617482BFBD9
+            [formaPagamento] => credit_card
+            [external_reference] => 2_1
+            [accessToken] => 2D90C50A40297EC7A38FED19D2167EA33198AD2448BDB1C5A04CC2443561D30A
+            [notification_url] => http://localhost/salveadata/Checkout/retornoPagamento
+            [line_items] => Array
+                (
+                    [0] => Array
+                        (
+                            [description] => Bolinho bonito
+                            [quantity] => 10
+                            [price_cents] => 10384
+                        )
+
+                )
+
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [errors] => Array
+                (
+                    [base] => Array
+                        (
+                            [0] => Conta do destinatário deve estar no mesmo contexto
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [errors] => Array
+                (
+                    [base] => Array
+                        (
+                            [0] => Faturas pendentes necessitam de pelo menos um item
+                        )
+
+                    [total] => Array
+                        (
+                            [0] => deve ser maior que 1
+                        )
+
+                )
+
+        )
+
+    [2] => Array
+        (
+            [desconto] => 0
+            [diasVencimento] => 1
+            [interUser] => DE85F56A5F5841A08C15D617482BFBD9
+            [formaPagamento] => credit_card
+            [external_reference] => 2_1
+            [accessToken] => 2D90C50A40297EC7A38FED19D2167EA33198AD2448BDB1C5A04CC2443561D30A
+            [notification_url] => http://localhost/salveadata/Checkout/retornoPagamento
+            [line_items] => Array
+                (
+                    [0] => Array
+                        (
+                            [description] => Bolinho bonito
+                            [quantity] => 10
+                            [price_cents] => 10384
+                        )
+
+                )
+
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [errors] => Array
+                (
+                    [base] => Array
+                        (
+                            [0] => Conta do destinatário deve estar no mesmo contexto
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [errors] => Array
+                (
+                    [base] => Array
+                        (
+                            [0] => Faturas pendentes necessitam de pelo menos um item
+                        )
+
+                    [total] => Array
+                        (
+                            [0] => deve ser maior que 1
+                        )
+
+                )
+
+        )
+
+    [2] => Array
+        (
+            [desconto] => 0
+            [diasVencimento] => 1
+            [interUser] => 58A1FD4968094489B828EC93FB0C2A22
+            [formaPagamento] => credit_card
+            [external_reference] => 2_2
+            [accessToken] => 2D90C50A40297EC7A38FED19D2167EA33198AD2448BDB1C5A04CC2443561D30A
+            [notification_url] => http://localhost/salveadata/Checkout/retornoPagamento
+            [line_items] => Array
+                (
+                    [0] => Array
+                        (
+                            [description] => Bolinho bonito
+                            [quantity] => 10
+                            [price_cents] => 10384
+                        )
+
+                )
+
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [errors] => Array
+                (
+                    [base] => Array
+                        (
+                            [0] => Recipient Account must in the same context
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [errors] => Array
+                (
+                    [base] => Array
+                        (
+                            [0] => Faturas pendentes necessitam de pelo menos um item
+                        )
+
+                    [total] => Array
+                        (
+                            [0] => deve ser maior que 1
+                        )
+
+                )
+
+        )
+
+    [2] => Array
+        (
+            [email] => andrey@cakedigital.com.br
+            [desconto] => 0
+            [diasVencimento] => 1
+            [interUser] => 58A1FD4968094489B828EC93FB0C2A22
+            [formaPagamento] => credit_card
+            [external_reference] => 2_2
+            [accessToken] => 2D90C50A40297EC7A38FED19D2167EA33198AD2448BDB1C5A04CC2443561D30A
+            [notification_url] => http://localhost/salveadata/Checkout/retornoPagamento
+            [line_items] => Array
+                (
+                    [0] => Array
+                        (
+                            [description] => Bolinho bonito
+                            [quantity] => 10
+                            [price_cents] => 10384
+                        )
+
+                )
+
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [id] => 33A286CE63A4420EA442261941C16482
+            [due_date] => 2022-08-02
+            [currency] => BRL
+            [discount_cents] => 0
+            [email] => andrey@cakedigital.com.br
+            [items_total_cents] => 103840
+            [notification_url] => http://localhost/salveadata/Checkout/retornoPagamento
+            [return_url] => 
+            [status] => pending
+            [tax_cents] => 
+            [total_cents] => 103840
+            [total_paid_cents] => 0
+            [taxes_paid_cents] => 
+            [paid_at] => 
+            [paid_cents] => 
+            [cc_emails] => 
+            [financial_return_date] => 
+            [payable_with] => credit_card
+            [overpaid_cents] => 
+            [ignore_due_email] => 
+            [ignore_canceled_email] => 
+            [advance_fee_cents] => 
+            [commission_cents] => 
+            [early_payment_discount] => 
+            [order_id] => 
+            [updated_at] => 2022-08-01T14:41:35-03:00
+            [credit_card_brand] => 
+            [credit_card_bin] => 
+            [credit_card_last_4] => 
+            [credit_card_captured_at] => 
+            [credit_card_tid] => 
+            [external_reference] => 2_2
+            [max_installments_value] => 
+            [payer_name] => Andrey Leocadio Ribeiro Camargo de França
+            [payer_email] => andrey@cakedigital.com.br
+            [payer_cpf_cnpj] => 09308316914
+            [payer_phone] => 996770938
+            [payer_phone_prefix] => 41
+            [payer_address_zip_code] => 82710-000
+            [payer_address_street] => Rua Theodoro Makiolka
+            [payer_address_district] => Barreirinha
+            [payer_address_city] => Curitiba
+            [payer_address_state] => PR
+            [payer_address_number] => 3560
+            [payer_address_complement] => 3560
+            [payer_address_country] => 
+            [late_payment_fine] => 0
+            [late_payment_fine_cents] => 
+            [split_id] => B5AF67F43FF447369A2BB30FE2DAE6C3
+            [account_id] => F614ED4626D54A38B10B13EA93BF5E27
+            [account_name] => Andrey Leocádio
+            [secure_id] => 33a286ce-63a4-420e-a442-261941c16482-c397
+            [secure_url] => https://faturas.iugu.com/33a286ce-63a4-420e-a442-261941c16482-c397
+            [customer_id] => 58A1FD4968094489B828EC93FB0C2A22
+            [customer_ref] => Andrey Leocadio Ribeiro Camargo de França
+            [customer_name] => Andrey Leocadio Ribeiro Camargo de França
+            [user_id] => 
+            [total] => R$ 1.038,40
+            [taxes_paid] => R$ 0,00
+            [total_paid] => R$ 0,00
+            [total_overpaid] => R$ 0,00
+            [total_refunded] => R$ 0,00
+            [commission] => R$ 0,00
+            [fines_on_occurrence_day] => R$ 0,00
+            [total_on_occurrence_day] => R$ 0,00
+            [fines_on_occurrence_day_cents] => 0
+            [total_on_occurrence_day_cents] => 0
+            [refunded_cents] => 0
+            [remaining_captured_cents] => 0
+            [advance_fee] => 
+            [paid] => R$ 0,00
+            [original_payment_id] => 
+            [double_payment_id] => 
+            [per_day_interest] => 
+            [per_day_interest_value] => 
+            [interest] => 
+            [discount] => 
+            [duplicated_invoice_id] => 
+            [created_at] => 01/08, 14:41
+            [created_at_iso] => 2022-08-01T14:41:35-03:00
+            [authorized_at] => 
+            [authorized_at_iso] => 
+            [expired_at] => 
+            [expired_at_iso] => 
+            [refunded_at] => 
+            [refunded_at_iso] => 
+            [canceled_at] => 
+            [canceled_at_iso] => 
+            [protested_at] => 
+            [protested_at_iso] => 
+            [chargeback_at] => 
+            [chargeback_at_iso] => 
+            [occurrence_date] => 
+            [refundable] => 
+            [installments] => 
+            [transaction_number] => 
+            [payment_method] => 
+            [financial_return_dates] => 
+            [bank_slip] => 
+            [pix] => Array
+                (
+                    [qrcode] => 
+                    [qrcode_text] => 
+                    [status] => 
+                    [payer_cpf_cnpj] => 
+                    [payer_name] => 
+                    [end_to_end_id] => 
+                    [end_to_end_refund_id] => 
+                )
+
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 2B272AE736A54EA08F4A8257C1D4A519
+                            [description] => Bolinho bonito
+                            [price_cents] => 10384
+                            [quantity] => 10
+                            [created_at] => 2022-08-01T14:41:35-03:00
+                            [updated_at] => 2022-08-01T14:41:35-03:00
+                            [price] => R$ 103,84
+                        )
+
+                )
+
+            [early_payment_discounts] => Array
+                (
+                )
+
+            [split_rules] => Array
+                (
+                    [0] => Array
+                        (
+                            [bank_slip_cents] => 110
+                            [bank_slip_percent] => 
+                            [cents] => 
+                            [created_at] => 2022-08-01T14:41:35-03:00
+                            [credit_card_10x_cents] => 
+                            [credit_card_10x_percent] => 8.53
+                            [credit_card_11x_cents] => 
+                            [credit_card_11x_percent] => 8.93
+                            [credit_card_12x_cents] => 
+                            [credit_card_12x_percent] => 9.33
+                            [credit_card_1x_cents] => 
+                            [credit_card_1x_percent] => 0.93
+                            [credit_card_2x_cents] => 
+                            [credit_card_2x_percent] => 2.93
+                            [credit_card_3x_cents] => 
+                            [credit_card_3x_percent] => 3.93
+                            [credit_card_4x_cents] => 
+                            [credit_card_4x_percent] => 4.93
+                            [credit_card_5x_cents] => 
+                            [credit_card_5x_percent] => 5.93
+                            [credit_card_6x_cents] => 
+                            [credit_card_6x_percent] => 6.63
+                            [credit_card_7x_cents] => 
+                            [credit_card_7x_percent] => 6.83
+                            [credit_card_8x_cents] => 
+                            [credit_card_8x_percent] => 7.73
+                            [credit_card_9x_cents] => 
+                            [credit_card_9x_percent] => 8.13
+                            [credit_card_cents] => 
+                            [credit_card_percent] => 
+                            [id] => 53E1FC1F8D0C462DB6AC1CCA58AF2360
+                            [percent] => 0.93
+                            [permit_aggregated] => 
+                            [pix_cents] => 70
+                            [pix_percent] => 
+                            [recipient_account_id] => A562B3FF8DC4485F95A07DBEA2A4CE2A
+                            [split_id] => B5AF67F43FF447369A2BB30FE2DAE6C3
+                            [updated_at] => 2022-08-01T14:41:35-03:00
+                        )
+
+                )
+
+            [variables] => Array
+                (
+                    [0] => Array
+                        (
+                            [variable] => payer.address.city
+                            [value] => Curitiba
+                        )
+
+                    [1] => Array
+                        (
+                            [variable] => payer.address.city
+                            [value] => Curitiba
+                        )
+
+                    [2] => Array
+                        (
+                            [variable] => payer.address.complement
+                            [value] => 3560
+                        )
+
+                    [3] => Array
+                        (
+                            [variable] => payer.address.complement
+                            [value] => 3560
+                        )
+
+                    [4] => Array
+                        (
+                            [variable] => payer.address.district
+                            [value] => Barreirinha
+                        )
+
+                    [5] => Array
+                        (
+                            [variable] => payer.address.district
+                            [value] => Barreirinha
+                        )
+
+                    [6] => Array
+                        (
+                            [variable] => payer.address.number
+                            [value] => 3560
+                        )
+
+                    [7] => Array
+                        (
+                            [variable] => payer.address.number
+                            [value] => 3560
+                        )
+
+                    [8] => Array
+                        (
+                            [variable] => payer.address.state
+                            [value] => PR
+                        )
+
+                    [9] => Array
+                        (
+                            [variable] => payer.address.state
+                            [value] => PR
+                        )
+
+                    [10] => Array
+                        (
+                            [variable] => payer.address.street
+                            [value] => Rua Theodoro Makiolka
+                        )
+
+                    [11] => Array
+                        (
+                            [variable] => payer.address.street
+                            [value] => Rua Theodoro Makiolka
+                        )
+
+                    [12] => Array
+                        (
+                            [variable] => payer.address.zip_code
+                            [value] => 82710-000
+                        )
+
+                    [13] => Array
+                        (
+                            [variable] => payer.address.zip_code
+                            [value] => 82710-000
+                        )
+
+                    [14] => Array
+                        (
+                            [variable] => payer.cpf_cnpj
+                            [value] => 09308316914
+                        )
+
+                    [15] => Array
+                        (
+                            [variable] => payer.cpf_cnpj
+                            [value] => 09308316914
+                        )
+
+                    [16] => Array
+                        (
+                            [variable] => payer.email
+                            [value] => andrey@cakedigital.com.br
+                        )
+
+                    [17] => Array
+                        (
+                            [variable] => payer.email
+                            [value] => andrey@cakedigital.com.br
+                        )
+
+                    [18] => Array
+                        (
+                            [variable] => payer.name
+                            [value] => Andrey Leocadio Ribeiro Camargo de França
+                        )
+
+                    [19] => Array
+                        (
+                            [variable] => payer.name
+                            [value] => Andrey Leocadio Ribeiro Camargo de França
+                        )
+
+                    [20] => Array
+                        (
+                            [variable] => payer.phone
+                            [value] => 996770938
+                        )
+
+                    [21] => Array
+                        (
+                            [variable] => payer.phone
+                            [value] => 996770938
+                        )
+
+                    [22] => Array
+                        (
+                            [variable] => payer.phone_prefix
+                            [value] => 41
+                        )
+
+                    [23] => Array
+                        (
+                            [variable] => payer.phone_prefix
+                            [value] => 41
+                        )
+
+                )
+
+            [custom_variables] => Array
+                (
+                )
+
+            [logs] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 71D011D0A3524C14825A5DC7AFB0A578
+                            [description] => Email de Lembrete enviado!
+                            [notes] => Lembrete enviado com sucesso para: andrey@cakedigital.com.br
+                            [created_at] => 01/08, 14:41
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 5C060805712C467382967F7B6C11BDC1
+                            [description] => Fatura criada com sucesso!
+                            [notes] => Fatura criada!
+                            [created_at] => 01/08, 14:41
+                        )
+
+                )
+
+            [credit_card_transaction] => 
+        )
+
+    [1] => Array
+        (
+            [message] => Transação negada
+            [errors] => Array
+                (
+                )
+
+            [status] => unauthorized
+            [info_message] => Transação negada
+            [reversible] => 
+            [token] => 0fdd9c8d-0c2b-4076-bbe8-42178999a05e
+            [brand] => Visa
+            [bin] => 411111
+            [success] => 
+            [url] => https://faturas.iugu.com/33a286ce-63a4-420e-a442-261941c16482-c397
+            [pdf] => https://faturas.iugu.com/33a286ce-63a4-420e-a442-261941c16482-c397.pdf
+            [identification] => 
+            [invoice_id] => 33A286CE63A4420EA442261941C16482
+            [LR] => 57
+        )
+
+    [2] => Array
+        (
+            [email] => andrey@cakedigital.com.br
+            [desconto] => 0
+            [diasVencimento] => 1
+            [interUser] => 58A1FD4968094489B828EC93FB0C2A22
+            [formaPagamento] => credit_card
+            [external_reference] => 2_2
+            [accessToken] => 2D90C50A40297EC7A38FED19D2167EA33198AD2448BDB1C5A04CC2443561D30A
+            [notification_url] => http://localhost/salveadata/Checkout/retornoPagamento
+            [line_items] => Array
+                (
+                    [0] => Array
+                        (
+                            [description] => Bolinho bonito
+                            [quantity] => 10
+                            [price_cents] => 10384
+                        )
+
+                )
+
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [id] => B9C3ADBBBC004AA48DDB9FE97BE2B67A
+            [due_date] => 2022-08-02
+            [currency] => BRL
+            [discount_cents] => 0
+            [email] => andreyleocadio@cakedigital.com.br
+            [items_total_cents] => 103840
+            [notification_url] => http://localhost/salveadata/Checkout/retornoPagamento
+            [return_url] => 
+            [status] => pending
+            [tax_cents] => 
+            [total_cents] => 103840
+            [total_paid_cents] => 0
+            [taxes_paid_cents] => 
+            [paid_at] => 
+            [paid_cents] => 
+            [cc_emails] => 
+            [financial_return_date] => 
+            [payable_with] => credit_card
+            [overpaid_cents] => 
+            [ignore_due_email] => 
+            [ignore_canceled_email] => 
+            [advance_fee_cents] => 
+            [commission_cents] => 
+            [early_payment_discount] => 
+            [order_id] => 
+            [updated_at] => 2022-08-01T14:46:26-03:00
+            [credit_card_brand] => 
+            [credit_card_bin] => 
+            [credit_card_last_4] => 
+            [credit_card_captured_at] => 
+            [credit_card_tid] => 
+            [external_reference] => 2_3
+            [max_installments_value] => 
+            [payer_name] => Andrey Leocadio Ribeiro Camargo de França
+            [payer_email] => andreyleocadio@cakedigital.com.br
+            [payer_cpf_cnpj] => 08801663986
+            [payer_phone] => 996770938
+            [payer_phone_prefix] => 41
+            [payer_address_zip_code] => 82710-000
+            [payer_address_street] => Rua Theodoro Makiolka
+            [payer_address_district] => Barreirinha
+            [payer_address_city] => Curitiba
+            [payer_address_state] => PR
+            [payer_address_number] => 3560
+            [payer_address_complement] => 3560
+            [payer_address_country] => 
+            [late_payment_fine] => 0
+            [late_payment_fine_cents] => 
+            [split_id] => C9777B601AB2438EB550C44F75C413EE
+            [account_id] => F614ED4626D54A38B10B13EA93BF5E27
+            [account_name] => Andrey Leocádio
+            [secure_id] => b9c3adbb-bc00-4aa4-8ddb-9fe97be2b67a-7984
+            [secure_url] => https://faturas.iugu.com/b9c3adbb-bc00-4aa4-8ddb-9fe97be2b67a-7984
+            [customer_id] => 2FE6F4DB034647158B5ADB65B84D1889
+            [customer_ref] => Andrey Leocadio Ribeiro Camargo de França
+            [customer_name] => Andrey Leocadio Ribeiro Camargo de França
+            [user_id] => 
+            [total] => R$ 1.038,40
+            [taxes_paid] => R$ 0,00
+            [total_paid] => R$ 0,00
+            [total_overpaid] => R$ 0,00
+            [total_refunded] => R$ 0,00
+            [commission] => R$ 0,00
+            [fines_on_occurrence_day] => R$ 0,00
+            [total_on_occurrence_day] => R$ 0,00
+            [fines_on_occurrence_day_cents] => 0
+            [total_on_occurrence_day_cents] => 0
+            [refunded_cents] => 0
+            [remaining_captured_cents] => 0
+            [advance_fee] => 
+            [paid] => R$ 0,00
+            [original_payment_id] => 
+            [double_payment_id] => 
+            [per_day_interest] => 
+            [per_day_interest_value] => 
+            [interest] => 
+            [discount] => 
+            [duplicated_invoice_id] => 
+            [created_at] => 01/08, 14:46
+            [created_at_iso] => 2022-08-01T14:46:26-03:00
+            [authorized_at] => 
+            [authorized_at_iso] => 
+            [expired_at] => 
+            [expired_at_iso] => 
+            [refunded_at] => 
+            [refunded_at_iso] => 
+            [canceled_at] => 
+            [canceled_at_iso] => 
+            [protested_at] => 
+            [protested_at_iso] => 
+            [chargeback_at] => 
+            [chargeback_at_iso] => 
+            [occurrence_date] => 
+            [refundable] => 
+            [installments] => 
+            [transaction_number] => 1111
+            [payment_method] => 
+            [financial_return_dates] => 
+            [bank_slip] => 
+            [pix] => Array
+                (
+                    [qrcode] => 
+                    [qrcode_text] => 
+                    [status] => 
+                    [payer_cpf_cnpj] => 
+                    [payer_name] => 
+                    [end_to_end_id] => 
+                    [end_to_end_refund_id] => 
+                )
+
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 618C2FFBE43D47749FD78B7A4C668D7B
+                            [description] => Bolinho bonito
+                            [price_cents] => 10384
+                            [quantity] => 10
+                            [created_at] => 2022-08-01T14:46:26-03:00
+                            [updated_at] => 2022-08-01T14:46:26-03:00
+                            [price] => R$ 103,84
+                        )
+
+                )
+
+            [early_payment_discounts] => Array
+                (
+                )
+
+            [split_rules] => Array
+                (
+                    [0] => Array
+                        (
+                            [bank_slip_cents] => 110
+                            [bank_slip_percent] => 
+                            [cents] => 
+                            [created_at] => 2022-08-01T14:46:26-03:00
+                            [credit_card_10x_cents] => 
+                            [credit_card_10x_percent] => 8.53
+                            [credit_card_11x_cents] => 
+                            [credit_card_11x_percent] => 8.93
+                            [credit_card_12x_cents] => 
+                            [credit_card_12x_percent] => 9.33
+                            [credit_card_1x_cents] => 
+                            [credit_card_1x_percent] => 0.93
+                            [credit_card_2x_cents] => 
+                            [credit_card_2x_percent] => 2.93
+                            [credit_card_3x_cents] => 
+                            [credit_card_3x_percent] => 3.93
+                            [credit_card_4x_cents] => 
+                            [credit_card_4x_percent] => 4.93
+                            [credit_card_5x_cents] => 
+                            [credit_card_5x_percent] => 5.93
+                            [credit_card_6x_cents] => 
+                            [credit_card_6x_percent] => 6.63
+                            [credit_card_7x_cents] => 
+                            [credit_card_7x_percent] => 6.83
+                            [credit_card_8x_cents] => 
+                            [credit_card_8x_percent] => 7.73
+                            [credit_card_9x_cents] => 
+                            [credit_card_9x_percent] => 8.13
+                            [credit_card_cents] => 
+                            [credit_card_percent] => 
+                            [id] => E5F9EC256E664B86B618319010DFA278
+                            [percent] => 0.93
+                            [permit_aggregated] => 
+                            [pix_cents] => 70
+                            [pix_percent] => 
+                            [recipient_account_id] => A562B3FF8DC4485F95A07DBEA2A4CE2A
+                            [split_id] => C9777B601AB2438EB550C44F75C413EE
+                            [updated_at] => 2022-08-01T14:46:26-03:00
+                        )
+
+                )
+
+            [variables] => Array
+                (
+                    [0] => Array
+                        (
+                            [variable] => payer.address.city
+                            [value] => Curitiba
+                        )
+
+                    [1] => Array
+                        (
+                            [variable] => payer.address.city
+                            [value] => Curitiba
+                        )
+
+                    [2] => Array
+                        (
+                            [variable] => payer.address.complement
+                            [value] => 3560
+                        )
+
+                    [3] => Array
+                        (
+                            [variable] => payer.address.complement
+                            [value] => 3560
+                        )
+
+                    [4] => Array
+                        (
+                            [variable] => payer.address.district
+                            [value] => Barreirinha
+                        )
+
+                    [5] => Array
+                        (
+                            [variable] => payer.address.district
+                            [value] => Barreirinha
+                        )
+
+                    [6] => Array
+                        (
+                            [variable] => payer.address.number
+                            [value] => 3560
+                        )
+
+                    [7] => Array
+                        (
+                            [variable] => payer.address.number
+                            [value] => 3560
+                        )
+
+                    [8] => Array
+                        (
+                            [variable] => payer.address.state
+                            [value] => PR
+                        )
+
+                    [9] => Array
+                        (
+                            [variable] => payer.address.state
+                            [value] => PR
+                        )
+
+                    [10] => Array
+                        (
+                            [variable] => payer.address.street
+                            [value] => Rua Theodoro Makiolka
+                        )
+
+                    [11] => Array
+                        (
+                            [variable] => payer.address.street
+                            [value] => Rua Theodoro Makiolka
+                        )
+
+                    [12] => Array
+                        (
+                            [variable] => payer.address.zip_code
+                            [value] => 82710-000
+                        )
+
+                    [13] => Array
+                        (
+                            [variable] => payer.address.zip_code
+                            [value] => 82710-000
+                        )
+
+                    [14] => Array
+                        (
+                            [variable] => payer.cpf_cnpj
+                            [value] => 08801663986
+                        )
+
+                    [15] => Array
+                        (
+                            [variable] => payer.cpf_cnpj
+                            [value] => 08801663986
+                        )
+
+                    [16] => Array
+                        (
+                            [variable] => payer.email
+                            [value] => andreyleocadio@cakedigital.com.br
+                        )
+
+                    [17] => Array
+                        (
+                            [variable] => payer.email
+                            [value] => andreyleocadio@cakedigital.com.br
+                        )
+
+                    [18] => Array
+                        (
+                            [variable] => payer.name
+                            [value] => Andrey Leocadio Ribeiro Camargo de França
+                        )
+
+                    [19] => Array
+                        (
+                            [variable] => payer.name
+                            [value] => Andrey Leocadio Ribeiro Camargo de França
+                        )
+
+                    [20] => Array
+                        (
+                            [variable] => payer.phone
+                            [value] => 996770938
+                        )
+
+                    [21] => Array
+                        (
+                            [variable] => payer.phone
+                            [value] => 996770938
+                        )
+
+                    [22] => Array
+                        (
+                            [variable] => payer.phone_prefix
+                            [value] => 41
+                        )
+
+                    [23] => Array
+                        (
+                            [variable] => payer.phone_prefix
+                            [value] => 41
+                        )
+
+                )
+
+            [custom_variables] => Array
+                (
+                )
+
+            [logs] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 7ECF10D9D9464137B6B7B73AAF02B271
+                            [description] => Email de Lembrete enviado!
+                            [notes] => Lembrete enviado com sucesso para: andreyleocadio@cakedigital.com.br
+                            [created_at] => 01/08, 14:46
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 9B298CF1ED7343D0BF1E5E4B60F32DED
+                            [description] => Fatura criada com sucesso!
+                            [notes] => Fatura criada!
+                            [created_at] => 01/08, 14:46
+                        )
+
+                )
+
+            [credit_card_transaction] => 
+        )
+
+    [1] => Array
+        (
+            [message] => Autorizado
+            [errors] => Array
+                (
+                )
+
+            [status] => captured
+            [info_message] => Transação capturada
+            [reversible] => 
+            [token] => 000000000000000000000000000000000000001
+            [brand] => Visa
+            [bin] => 411111
+            [success] => 1
+            [url] => https://faturas.iugu.com/b9c3adbb-bc00-4aa4-8ddb-9fe97be2b67a-7984
+            [pdf] => https://faturas.iugu.com/b9c3adbb-bc00-4aa4-8ddb-9fe97be2b67a-7984.pdf
+            [identification] => 
+            [invoice_id] => B9C3ADBBBC004AA48DDB9FE97BE2B67A
+            [LR] => 00
+        )
+
+    [2] => Array
+        (
+            [email] => andreyleocadio@cakedigital.com.br
+            [desconto] => 0
+            [diasVencimento] => 1
+            [interUser] => 2FE6F4DB034647158B5ADB65B84D1889
+            [formaPagamento] => credit_card
+            [external_reference] => 2_3
+            [accessToken] => 9341B4F5070ADB7A92926434D2592726E372F3A89479AD4742DF1B8326A84A59
+            [notification_url] => http://localhost/salveadata/Checkout/retornoPagamento
+            [line_items] => Array
+                (
+                    [0] => Array
+                        (
+                            [description] => Bolinho bonito
+                            [quantity] => 10
+                            [price_cents] => 10384
+                        )
+
+                )
+
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [id] => F7B75B542DBD41B0A0BE07C8148E5A40
+            [due_date] => 2022-08-02
+            [currency] => BRL
+            [discount_cents] => 0
+            [email] => andreyleocadio@cakedigital.com.br
+            [items_total_cents] => 105050
+            [notification_url] => http://localhost/salveadata/Checkout/retornoPagamento
+            [return_url] => 
+            [status] => pending
+            [tax_cents] => 
+            [total_cents] => 105050
+            [total_paid_cents] => 0
+            [taxes_paid_cents] => 
+            [paid_at] => 
+            [paid_cents] => 
+            [cc_emails] => 
+            [financial_return_date] => 
+            [payable_with] => credit_card
+            [overpaid_cents] => 
+            [ignore_due_email] => 
+            [ignore_canceled_email] => 
+            [advance_fee_cents] => 
+            [commission_cents] => 
+            [early_payment_discount] => 
+            [order_id] => 
+            [updated_at] => 2022-08-01T14:49:59-03:00
+            [credit_card_brand] => 
+            [credit_card_bin] => 
+            [credit_card_last_4] => 
+            [credit_card_captured_at] => 
+            [credit_card_tid] => 
+            [external_reference] => 2_3
+            [max_installments_value] => 
+            [payer_name] => Andrey Leocadio Ribeiro Camargo de França
+            [payer_email] => andreyleocadio@cakedigital.com.br
+            [payer_cpf_cnpj] => 08801663986
+            [payer_phone] => 996770938
+            [payer_phone_prefix] => 41
+            [payer_address_zip_code] => 82710-000
+            [payer_address_street] => Rua Theodoro Makiolka
+            [payer_address_district] => Barreirinha
+            [payer_address_city] => Curitiba
+            [payer_address_state] => PR
+            [payer_address_number] => 3560
+            [payer_address_complement] => 3560
+            [payer_address_country] => 
+            [late_payment_fine] => 0
+            [late_payment_fine_cents] => 
+            [split_id] => 84BB0BC829CB4991A14A043FC6237DCC
+            [account_id] => F614ED4626D54A38B10B13EA93BF5E27
+            [account_name] => Andrey Leocádio
+            [secure_id] => f7b75b54-2dbd-41b0-a0be-07c8148e5a40-d95a
+            [secure_url] => https://faturas.iugu.com/f7b75b54-2dbd-41b0-a0be-07c8148e5a40-d95a
+            [customer_id] => 2FE6F4DB034647158B5ADB65B84D1889
+            [customer_ref] => Andrey Leocadio Ribeiro Camargo de França
+            [customer_name] => Andrey Leocadio Ribeiro Camargo de França
+            [user_id] => 
+            [total] => 1,050.50 BRL
+            [taxes_paid] => 0.00 BRL
+            [total_paid] => 0.00 BRL
+            [total_overpaid] => 0.00 BRL
+            [total_refunded] => 0.00 BRL
+            [commission] => 0.00 BRL
+            [fines_on_occurrence_day] => 0.00 BRL
+            [total_on_occurrence_day] => 0.00 BRL
+            [fines_on_occurrence_day_cents] => 0
+            [total_on_occurrence_day_cents] => 0
+            [refunded_cents] => 0
+            [remaining_captured_cents] => 0
+            [advance_fee] => 
+            [paid] => 0.00 BRL
+            [original_payment_id] => 
+            [double_payment_id] => 
+            [per_day_interest] => 
+            [per_day_interest_value] => 
+            [interest] => 
+            [discount] => 
+            [duplicated_invoice_id] => 
+            [created_at] => 01/08, 14:49
+            [created_at_iso] => 2022-08-01T14:49:59-03:00
+            [authorized_at] => 
+            [authorized_at_iso] => 
+            [expired_at] => 
+            [expired_at_iso] => 
+            [refunded_at] => 
+            [refunded_at_iso] => 
+            [canceled_at] => 
+            [canceled_at_iso] => 
+            [protested_at] => 
+            [protested_at_iso] => 
+            [chargeback_at] => 
+            [chargeback_at_iso] => 
+            [occurrence_date] => 
+            [refundable] => 
+            [installments] => 
+            [transaction_number] => 1111
+            [payment_method] => 
+            [financial_return_dates] => 
+            [bank_slip] => 
+            [pix] => Array
+                (
+                    [qrcode] => 
+                    [qrcode_text] => 
+                    [status] => 
+                    [payer_cpf_cnpj] => 
+                    [payer_name] => 
+                    [end_to_end_id] => 
+                    [end_to_end_refund_id] => 
+                )
+
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 6FD045AEA7064B4499451108920CCF03
+                            [description] => Bolinho bonito
+                            [price_cents] => 10505
+                            [quantity] => 10
+                            [created_at] => 2022-08-01T14:49:59-03:00
+                            [updated_at] => 2022-08-01T14:49:59-03:00
+                            [price] => 105.05 BRL
+                        )
+
+                )
+
+            [early_payment_discounts] => Array
+                (
+                )
+
+            [split_rules] => Array
+                (
+                    [0] => Array
+                        (
+                            [bank_slip_cents] => 110
+                            [bank_slip_percent] => 
+                            [cents] => 
+                            [created_at] => 2022-08-01T14:49:59-03:00
+                            [credit_card_10x_cents] => 
+                            [credit_card_10x_percent] => 8.53
+                            [credit_card_11x_cents] => 
+                            [credit_card_11x_percent] => 8.93
+                            [credit_card_12x_cents] => 
+                            [credit_card_12x_percent] => 9.33
+                            [credit_card_1x_cents] => 
+                            [credit_card_1x_percent] => 0.93
+                            [credit_card_2x_cents] => 
+                            [credit_card_2x_percent] => 2.93
+                            [credit_card_3x_cents] => 
+                            [credit_card_3x_percent] => 3.93
+                            [credit_card_4x_cents] => 
+                            [credit_card_4x_percent] => 4.93
+                            [credit_card_5x_cents] => 
+                            [credit_card_5x_percent] => 5.93
+                            [credit_card_6x_cents] => 
+                            [credit_card_6x_percent] => 6.63
+                            [credit_card_7x_cents] => 
+                            [credit_card_7x_percent] => 6.83
+                            [credit_card_8x_cents] => 
+                            [credit_card_8x_percent] => 7.73
+                            [credit_card_9x_cents] => 
+                            [credit_card_9x_percent] => 8.13
+                            [credit_card_cents] => 
+                            [credit_card_percent] => 
+                            [id] => 7A4E684B0B894C18B91DEFFCABFDEA45
+                            [percent] => 0.93
+                            [permit_aggregated] => 
+                            [pix_cents] => 70
+                            [pix_percent] => 
+                            [recipient_account_id] => A562B3FF8DC4485F95A07DBEA2A4CE2A
+                            [split_id] => 84BB0BC829CB4991A14A043FC6237DCC
+                            [updated_at] => 2022-08-01T14:49:59-03:00
+                        )
+
+                )
+
+            [variables] => Array
+                (
+                    [0] => Array
+                        (
+                            [variable] => payer.address.city
+                            [value] => Curitiba
+                        )
+
+                    [1] => Array
+                        (
+                            [variable] => payer.address.city
+                            [value] => Curitiba
+                        )
+
+                    [2] => Array
+                        (
+                            [variable] => payer.address.complement
+                            [value] => 3560
+                        )
+
+                    [3] => Array
+                        (
+                            [variable] => payer.address.complement
+                            [value] => 3560
+                        )
+
+                    [4] => Array
+                        (
+                            [variable] => payer.address.district
+                            [value] => Barreirinha
+                        )
+
+                    [5] => Array
+                        (
+                            [variable] => payer.address.district
+                            [value] => Barreirinha
+                        )
+
+                    [6] => Array
+                        (
+                            [variable] => payer.address.number
+                            [value] => 3560
+                        )
+
+                    [7] => Array
+                        (
+                            [variable] => payer.address.number
+                            [value] => 3560
+                        )
+
+                    [8] => Array
+                        (
+                            [variable] => payer.address.state
+                            [value] => PR
+                        )
+
+                    [9] => Array
+                        (
+                            [variable] => payer.address.state
+                            [value] => PR
+                        )
+
+                    [10] => Array
+                        (
+                            [variable] => payer.address.street
+                            [value] => Rua Theodoro Makiolka
+                        )
+
+                    [11] => Array
+                        (
+                            [variable] => payer.address.street
+                            [value] => Rua Theodoro Makiolka
+                        )
+
+                    [12] => Array
+                        (
+                            [variable] => payer.address.zip_code
+                            [value] => 82710-000
+                        )
+
+                    [13] => Array
+                        (
+                            [variable] => payer.address.zip_code
+                            [value] => 82710-000
+                        )
+
+                    [14] => Array
+                        (
+                            [variable] => payer.cpf_cnpj
+                            [value] => 08801663986
+                        )
+
+                    [15] => Array
+                        (
+                            [variable] => payer.cpf_cnpj
+                            [value] => 08801663986
+                        )
+
+                    [16] => Array
+                        (
+                            [variable] => payer.email
+                            [value] => andreyleocadio@cakedigital.com.br
+                        )
+
+                    [17] => Array
+                        (
+                            [variable] => payer.email
+                            [value] => andreyleocadio@cakedigital.com.br
+                        )
+
+                    [18] => Array
+                        (
+                            [variable] => payer.name
+                            [value] => Andrey Leocadio Ribeiro Camargo de França
+                        )
+
+                    [19] => Array
+                        (
+                            [variable] => payer.name
+                            [value] => Andrey Leocadio Ribeiro Camargo de França
+                        )
+
+                    [20] => Array
+                        (
+                            [variable] => payer.phone
+                            [value] => 996770938
+                        )
+
+                    [21] => Array
+                        (
+                            [variable] => payer.phone
+                            [value] => 996770938
+                        )
+
+                    [22] => Array
+                        (
+                            [variable] => payer.phone_prefix
+                            [value] => 41
+                        )
+
+                    [23] => Array
+                        (
+                            [variable] => payer.phone_prefix
+                            [value] => 41
+                        )
+
+                )
+
+            [custom_variables] => Array
+                (
+                )
+
+            [logs] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 260159FBE98F41969317338D47F2E2F8
+                            [description] => Reminder email sent!
+                            [notes] => Successfully sent reminder to: andreyleocadio@cakedigital.com.br
+                            [created_at] => 01/08, 14:49
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 31EA5164F91647D6B58515E917067F30
+                            [description] => Invoice successfully created!
+                            [notes] => Invoice created!
+                            [created_at] => 01/08, 14:49
+                        )
+
+                )
+
+            [credit_card_transaction] => 
+        )
+
+    [1] => Array
+        (
+            [message] => Autorizado
+            [errors] => Array
+                (
+                )
+
+            [status] => captured
+            [info_message] => Transaction captured
+            [reversible] => 
+            [token] => 000000000000000000000000000000000000001
+            [brand] => Visa
+            [bin] => 411111
+            [success] => 1
+            [url] => https://faturas.iugu.com/f7b75b54-2dbd-41b0-a0be-07c8148e5a40-d95a
+            [pdf] => https://faturas.iugu.com/f7b75b54-2dbd-41b0-a0be-07c8148e5a40-d95a.pdf
+            [identification] => 
+            [invoice_id] => F7B75B542DBD41B0A0BE07C8148E5A40
+            [LR] => 00
+        )
+
+    [2] => Array
+        (
+            [email] => andreyleocadio@cakedigital.com.br
+            [desconto] => 0
+            [diasVencimento] => 1
+            [interUser] => 2FE6F4DB034647158B5ADB65B84D1889
+            [formaPagamento] => credit_card
+            [external_reference] => 2_3
+            [accessToken] => 9341B4F5070ADB7A92926434D2592726E372F3A89479AD4742DF1B8326A84A59
+            [notification_url] => http://localhost/salveadata/Checkout/retornoPagamento
+            [line_items] => Array
+                (
+                    [0] => Array
+                        (
+                            [description] => Bolinho bonito
+                            [quantity] => 10
+                            [price_cents] => 10505
+                        )
+
+                )
+
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [id] => 89C3685D946F4862A7EDE352244D0D72
+            [due_date] => 2022-08-02
+            [currency] => BRL
+            [discount_cents] => 0
+            [email] => andreyleocadio@cakedigital.com.br
+            [items_total_cents] => 105050
+            [notification_url] => http://localhost/salveadata/Checkout/retornoPagamento
+            [return_url] => 
+            [status] => pending
+            [tax_cents] => 
+            [total_cents] => 105050
+            [total_paid_cents] => 0
+            [taxes_paid_cents] => 
+            [paid_at] => 
+            [paid_cents] => 
+            [cc_emails] => 
+            [financial_return_date] => 
+            [payable_with] => credit_card
+            [overpaid_cents] => 
+            [ignore_due_email] => 
+            [ignore_canceled_email] => 
+            [advance_fee_cents] => 
+            [commission_cents] => 
+            [early_payment_discount] => 
+            [order_id] => 
+            [updated_at] => 2022-08-01T14:52:17-03:00
+            [credit_card_brand] => 
+            [credit_card_bin] => 
+            [credit_card_last_4] => 
+            [credit_card_captured_at] => 
+            [credit_card_tid] => 
+            [external_reference] => 2_3
+            [max_installments_value] => 
+            [payer_name] => Andrey Leocadio Ribeiro Camargo de França
+            [payer_email] => andreyleocadio@cakedigital.com.br
+            [payer_cpf_cnpj] => 08801663986
+            [payer_phone] => 996770938
+            [payer_phone_prefix] => 41
+            [payer_address_zip_code] => 82710-000
+            [payer_address_street] => Rua Theodoro Makiolka
+            [payer_address_district] => Barreirinha
+            [payer_address_city] => Curitiba
+            [payer_address_state] => PR
+            [payer_address_number] => 3560
+            [payer_address_complement] => 3560
+            [payer_address_country] => 
+            [late_payment_fine] => 0
+            [late_payment_fine_cents] => 
+            [split_id] => 091BBE9C0184494491DD474B249191DD
+            [account_id] => F614ED4626D54A38B10B13EA93BF5E27
+            [account_name] => Andrey Leocádio
+            [secure_id] => 89c3685d-946f-4862-a7ed-e352244d0d72-9a73
+            [secure_url] => https://faturas.iugu.com/89c3685d-946f-4862-a7ed-e352244d0d72-9a73
+            [customer_id] => 2FE6F4DB034647158B5ADB65B84D1889
+            [customer_ref] => Andrey Leocadio Ribeiro Camargo de França
+            [customer_name] => Andrey Leocadio Ribeiro Camargo de França
+            [user_id] => 
+            [total] => 1,050.50 BRL
+            [taxes_paid] => 0.00 BRL
+            [total_paid] => 0.00 BRL
+            [total_overpaid] => 0.00 BRL
+            [total_refunded] => 0.00 BRL
+            [commission] => 0.00 BRL
+            [fines_on_occurrence_day] => 0.00 BRL
+            [total_on_occurrence_day] => 0.00 BRL
+            [fines_on_occurrence_day_cents] => 0
+            [total_on_occurrence_day_cents] => 0
+            [refunded_cents] => 0
+            [remaining_captured_cents] => 0
+            [advance_fee] => 
+            [paid] => 0.00 BRL
+            [original_payment_id] => 
+            [double_payment_id] => 
+            [per_day_interest] => 
+            [per_day_interest_value] => 
+            [interest] => 
+            [discount] => 
+            [duplicated_invoice_id] => 
+            [created_at] => 01/08, 14:52
+            [created_at_iso] => 2022-08-01T14:52:16-03:00
+            [authorized_at] => 
+            [authorized_at_iso] => 
+            [expired_at] => 
+            [expired_at_iso] => 
+            [refunded_at] => 
+            [refunded_at_iso] => 
+            [canceled_at] => 
+            [canceled_at_iso] => 
+            [protested_at] => 
+            [protested_at_iso] => 
+            [chargeback_at] => 
+            [chargeback_at_iso] => 
+            [occurrence_date] => 
+            [refundable] => 
+            [installments] => 
+            [transaction_number] => 1111
+            [payment_method] => 
+            [financial_return_dates] => 
+            [bank_slip] => 
+            [pix] => Array
+                (
+                    [qrcode] => 
+                    [qrcode_text] => 
+                    [status] => 
+                    [payer_cpf_cnpj] => 
+                    [payer_name] => 
+                    [end_to_end_id] => 
+                    [end_to_end_refund_id] => 
+                )
+
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 829A39FD42F547CC8098C520141727C1
+                            [description] => Bolinho bonito
+                            [price_cents] => 10505
+                            [quantity] => 10
+                            [created_at] => 2022-08-01T14:52:16-03:00
+                            [updated_at] => 2022-08-01T14:52:16-03:00
+                            [price] => 105.05 BRL
+                        )
+
+                )
+
+            [early_payment_discounts] => Array
+                (
+                )
+
+            [split_rules] => Array
+                (
+                    [0] => Array
+                        (
+                            [bank_slip_cents] => 110
+                            [bank_slip_percent] => 
+                            [cents] => 
+                            [created_at] => 2022-08-01T14:52:16-03:00
+                            [credit_card_10x_cents] => 
+                            [credit_card_10x_percent] => 8.53
+                            [credit_card_11x_cents] => 
+                            [credit_card_11x_percent] => 8.93
+                            [credit_card_12x_cents] => 
+                            [credit_card_12x_percent] => 9.33
+                            [credit_card_1x_cents] => 
+                            [credit_card_1x_percent] => 0.93
+                            [credit_card_2x_cents] => 
+                            [credit_card_2x_percent] => 2.93
+                            [credit_card_3x_cents] => 
+                            [credit_card_3x_percent] => 3.93
+                            [credit_card_4x_cents] => 
+                            [credit_card_4x_percent] => 4.93
+                            [credit_card_5x_cents] => 
+                            [credit_card_5x_percent] => 5.93
+                            [credit_card_6x_cents] => 
+                            [credit_card_6x_percent] => 6.63
+                            [credit_card_7x_cents] => 
+                            [credit_card_7x_percent] => 6.83
+                            [credit_card_8x_cents] => 
+                            [credit_card_8x_percent] => 7.73
+                            [credit_card_9x_cents] => 
+                            [credit_card_9x_percent] => 8.13
+                            [credit_card_cents] => 
+                            [credit_card_percent] => 
+                            [id] => A15CDF0FBE6F4A65AB3E7769B65AF8D5
+                            [percent] => 0.93
+                            [permit_aggregated] => 
+                            [pix_cents] => 70
+                            [pix_percent] => 
+                            [recipient_account_id] => A562B3FF8DC4485F95A07DBEA2A4CE2A
+                            [split_id] => 091BBE9C0184494491DD474B249191DD
+                            [updated_at] => 2022-08-01T14:52:16-03:00
+                        )
+
+                )
+
+            [variables] => Array
+                (
+                    [0] => Array
+                        (
+                            [variable] => payer.address.city
+                            [value] => Curitiba
+                        )
+
+                    [1] => Array
+                        (
+                            [variable] => payer.address.city
+                            [value] => Curitiba
+                        )
+
+                    [2] => Array
+                        (
+                            [variable] => payer.address.complement
+                            [value] => 3560
+                        )
+
+                    [3] => Array
+                        (
+                            [variable] => payer.address.complement
+                            [value] => 3560
+                        )
+
+                    [4] => Array
+                        (
+                            [variable] => payer.address.district
+                            [value] => Barreirinha
+                        )
+
+                    [5] => Array
+                        (
+                            [variable] => payer.address.district
+                            [value] => Barreirinha
+                        )
+
+                    [6] => Array
+                        (
+                            [variable] => payer.address.number
+                            [value] => 3560
+                        )
+
+                    [7] => Array
+                        (
+                            [variable] => payer.address.number
+                            [value] => 3560
+                        )
+
+                    [8] => Array
+                        (
+                            [variable] => payer.address.state
+                            [value] => PR
+                        )
+
+                    [9] => Array
+                        (
+                            [variable] => payer.address.state
+                            [value] => PR
+                        )
+
+                    [10] => Array
+                        (
+                            [variable] => payer.address.street
+                            [value] => Rua Theodoro Makiolka
+                        )
+
+                    [11] => Array
+                        (
+                            [variable] => payer.address.street
+                            [value] => Rua Theodoro Makiolka
+                        )
+
+                    [12] => Array
+                        (
+                            [variable] => payer.address.zip_code
+                            [value] => 82710-000
+                        )
+
+                    [13] => Array
+                        (
+                            [variable] => payer.address.zip_code
+                            [value] => 82710-000
+                        )
+
+                    [14] => Array
+                        (
+                            [variable] => payer.cpf_cnpj
+                            [value] => 08801663986
+                        )
+
+                    [15] => Array
+                        (
+                            [variable] => payer.cpf_cnpj
+                            [value] => 08801663986
+                        )
+
+                    [16] => Array
+                        (
+                            [variable] => payer.email
+                            [value] => andreyleocadio@cakedigital.com.br
+                        )
+
+                    [17] => Array
+                        (
+                            [variable] => payer.email
+                            [value] => andreyleocadio@cakedigital.com.br
+                        )
+
+                    [18] => Array
+                        (
+                            [variable] => payer.name
+                            [value] => Andrey Leocadio Ribeiro Camargo de França
+                        )
+
+                    [19] => Array
+                        (
+                            [variable] => payer.name
+                            [value] => Andrey Leocadio Ribeiro Camargo de França
+                        )
+
+                    [20] => Array
+                        (
+                            [variable] => payer.phone
+                            [value] => 996770938
+                        )
+
+                    [21] => Array
+                        (
+                            [variable] => payer.phone
+                            [value] => 996770938
+                        )
+
+                    [22] => Array
+                        (
+                            [variable] => payer.phone_prefix
+                            [value] => 41
+                        )
+
+                    [23] => Array
+                        (
+                            [variable] => payer.phone_prefix
+                            [value] => 41
+                        )
+
+                )
+
+            [custom_variables] => Array
+                (
+                )
+
+            [logs] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => D45E1E28D3AB4202A6B14954D25C2136
+                            [description] => Reminder email sent!
+                            [notes] => Successfully sent reminder to: andreyleocadio@cakedigital.com.br
+                            [created_at] => 01/08, 14:52
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => EEE318BE1070460A9AD6739E80829C34
+                            [description] => Invoice successfully created!
+                            [notes] => Invoice created!
+                            [created_at] => 01/08, 14:52
+                        )
+
+                )
+
+            [credit_card_transaction] => 
+        )
+
+    [1] => Array
+        (
+            [message] => Autorizado
+            [errors] => Array
+                (
+                )
+
+            [status] => captured
+            [info_message] => Transação capturada
+            [reversible] => 
+            [token] => 000000000000000000000000000000000000001
+            [brand] => Visa
+            [bin] => 411111
+            [success] => 1
+            [url] => https://faturas.iugu.com/89c3685d-946f-4862-a7ed-e352244d0d72-9a73
+            [pdf] => https://faturas.iugu.com/89c3685d-946f-4862-a7ed-e352244d0d72-9a73.pdf
+            [identification] => 
+            [invoice_id] => 89C3685D946F4862A7EDE352244D0D72
+            [LR] => 00
+        )
+
+    [2] => Array
+        (
+            [email] => andreyleocadio@cakedigital.com.br
+            [desconto] => 0
+            [diasVencimento] => 1
+            [interUser] => 2FE6F4DB034647158B5ADB65B84D1889
+            [formaPagamento] => credit_card
+            [external_reference] => 2_3
+            [accessToken] => 9341B4F5070ADB7A92926434D2592726E372F3A89479AD4742DF1B8326A84A59
+            [notification_url] => http://localhost/salveadata/Checkout/retornoPagamento
+            [line_items] => Array
+                (
+                    [0] => Array
+                        (
+                            [description] => Bolinho bonito
+                            [quantity] => 10
+                            [price_cents] => 10505
+                        )
+
+                )
+
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [id] => D33DEF86391A4CF8A3DE4BE1EFE7ED61
+            [due_date] => 2022-08-02
+            [currency] => BRL
+            [discount_cents] => 0
+            [email] => andreyleocadio@cakedigital.com.br
+            [items_total_cents] => 105050
+            [notification_url] => http://localhost/salveadata/Checkout/retornoPagamento
+            [return_url] => 
+            [status] => pending
+            [tax_cents] => 
+            [total_cents] => 105050
+            [total_paid_cents] => 0
+            [taxes_paid_cents] => 
+            [paid_at] => 
+            [paid_cents] => 
+            [cc_emails] => 
+            [financial_return_date] => 
+            [payable_with] => credit_card
+            [overpaid_cents] => 
+            [ignore_due_email] => 
+            [ignore_canceled_email] => 
+            [advance_fee_cents] => 
+            [commission_cents] => 
+            [early_payment_discount] => 
+            [order_id] => 
+            [updated_at] => 2022-08-01T15:02:30-03:00
+            [credit_card_brand] => 
+            [credit_card_bin] => 
+            [credit_card_last_4] => 
+            [credit_card_captured_at] => 
+            [credit_card_tid] => 
+            [external_reference] => 2_3
+            [max_installments_value] => 
+            [payer_name] => Andrey Leocadio Ribeiro Camargo de França
+            [payer_email] => andreyleocadio@cakedigital.com.br
+            [payer_cpf_cnpj] => 08801663986
+            [payer_phone] => 996770938
+            [payer_phone_prefix] => 41
+            [payer_address_zip_code] => 82710-000
+            [payer_address_street] => Rua Theodoro Makiolka
+            [payer_address_district] => Barreirinha
+            [payer_address_city] => Curitiba
+            [payer_address_state] => PR
+            [payer_address_number] => 3560
+            [payer_address_complement] => 3560
+            [payer_address_country] => 
+            [late_payment_fine] => 0
+            [late_payment_fine_cents] => 
+            [split_id] => C503F7758BA44FDBA6314488060D7734
+            [account_id] => F614ED4626D54A38B10B13EA93BF5E27
+            [account_name] => Andrey Leocádio
+            [secure_id] => d33def86-391a-4cf8-a3de-4be1efe7ed61-9dd3
+            [secure_url] => https://faturas.iugu.com/d33def86-391a-4cf8-a3de-4be1efe7ed61-9dd3
+            [customer_id] => 2FE6F4DB034647158B5ADB65B84D1889
+            [customer_ref] => Andrey Leocadio Ribeiro Camargo de França
+            [customer_name] => Andrey Leocadio Ribeiro Camargo de França
+            [user_id] => 
+            [total] => R$ 1.050,50
+            [taxes_paid] => R$ 0,00
+            [total_paid] => R$ 0,00
+            [total_overpaid] => R$ 0,00
+            [total_refunded] => R$ 0,00
+            [commission] => R$ 0,00
+            [fines_on_occurrence_day] => R$ 0,00
+            [total_on_occurrence_day] => R$ 0,00
+            [fines_on_occurrence_day_cents] => 0
+            [total_on_occurrence_day_cents] => 0
+            [refunded_cents] => 0
+            [remaining_captured_cents] => 0
+            [advance_fee] => 
+            [paid] => R$ 0,00
+            [original_payment_id] => 
+            [double_payment_id] => 
+            [per_day_interest] => 
+            [per_day_interest_value] => 
+            [interest] => 
+            [discount] => 
+            [duplicated_invoice_id] => 
+            [created_at] => 01/08, 15:02
+            [created_at_iso] => 2022-08-01T15:02:29-03:00
+            [authorized_at] => 
+            [authorized_at_iso] => 
+            [expired_at] => 
+            [expired_at_iso] => 
+            [refunded_at] => 
+            [refunded_at_iso] => 
+            [canceled_at] => 
+            [canceled_at_iso] => 
+            [protested_at] => 
+            [protested_at_iso] => 
+            [chargeback_at] => 
+            [chargeback_at_iso] => 
+            [occurrence_date] => 
+            [refundable] => 
+            [installments] => 
+            [transaction_number] => 1111
+            [payment_method] => 
+            [financial_return_dates] => 
+            [bank_slip] => 
+            [pix] => Array
+                (
+                    [qrcode] => 
+                    [qrcode_text] => 
+                    [status] => 
+                    [payer_cpf_cnpj] => 
+                    [payer_name] => 
+                    [end_to_end_id] => 
+                    [end_to_end_refund_id] => 
+                )
+
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => C252532DA62040F69A86D4CB84A41E55
+                            [description] => Bolinho bonito
+                            [price_cents] => 10505
+                            [quantity] => 10
+                            [created_at] => 2022-08-01T15:02:29-03:00
+                            [updated_at] => 2022-08-01T15:02:29-03:00
+                            [price] => R$ 105,05
+                        )
+
+                )
+
+            [early_payment_discounts] => Array
+                (
+                )
+
+            [split_rules] => Array
+                (
+                    [0] => Array
+                        (
+                            [bank_slip_cents] => 110
+                            [bank_slip_percent] => 
+                            [cents] => 
+                            [created_at] => 2022-08-01T15:02:30-03:00
+                            [credit_card_10x_cents] => 
+                            [credit_card_10x_percent] => 8.53
+                            [credit_card_11x_cents] => 
+                            [credit_card_11x_percent] => 8.93
+                            [credit_card_12x_cents] => 
+                            [credit_card_12x_percent] => 9.33
+                            [credit_card_1x_cents] => 
+                            [credit_card_1x_percent] => 0.93
+                            [credit_card_2x_cents] => 
+                            [credit_card_2x_percent] => 2.93
+                            [credit_card_3x_cents] => 
+                            [credit_card_3x_percent] => 3.93
+                            [credit_card_4x_cents] => 
+                            [credit_card_4x_percent] => 4.93
+                            [credit_card_5x_cents] => 
+                            [credit_card_5x_percent] => 5.93
+                            [credit_card_6x_cents] => 
+                            [credit_card_6x_percent] => 6.63
+                            [credit_card_7x_cents] => 
+                            [credit_card_7x_percent] => 6.83
+                            [credit_card_8x_cents] => 
+                            [credit_card_8x_percent] => 7.73
+                            [credit_card_9x_cents] => 
+                            [credit_card_9x_percent] => 8.13
+                            [credit_card_cents] => 
+                            [credit_card_percent] => 
+                            [id] => 6E7738DF20C44BABBD46174609E8AD5A
+                            [percent] => 0.93
+                            [permit_aggregated] => 
+                            [pix_cents] => 70
+                            [pix_percent] => 
+                            [recipient_account_id] => A562B3FF8DC4485F95A07DBEA2A4CE2A
+                            [split_id] => C503F7758BA44FDBA6314488060D7734
+                            [updated_at] => 2022-08-01T15:02:30-03:00
+                        )
+
+                )
+
+            [variables] => Array
+                (
+                    [0] => Array
+                        (
+                            [variable] => payer.address.city
+                            [value] => Curitiba
+                        )
+
+                    [1] => Array
+                        (
+                            [variable] => payer.address.city
+                            [value] => Curitiba
+                        )
+
+                    [2] => Array
+                        (
+                            [variable] => payer.address.complement
+                            [value] => 3560
+                        )
+
+                    [3] => Array
+                        (
+                            [variable] => payer.address.complement
+                            [value] => 3560
+                        )
+
+                    [4] => Array
+                        (
+                            [variable] => payer.address.district
+                            [value] => Barreirinha
+                        )
+
+                    [5] => Array
+                        (
+                            [variable] => payer.address.district
+                            [value] => Barreirinha
+                        )
+
+                    [6] => Array
+                        (
+                            [variable] => payer.address.number
+                            [value] => 3560
+                        )
+
+                    [7] => Array
+                        (
+                            [variable] => payer.address.number
+                            [value] => 3560
+                        )
+
+                    [8] => Array
+                        (
+                            [variable] => payer.address.state
+                            [value] => PR
+                        )
+
+                    [9] => Array
+                        (
+                            [variable] => payer.address.state
+                            [value] => PR
+                        )
+
+                    [10] => Array
+                        (
+                            [variable] => payer.address.street
+                            [value] => Rua Theodoro Makiolka
+                        )
+
+                    [11] => Array
+                        (
+                            [variable] => payer.address.street
+                            [value] => Rua Theodoro Makiolka
+                        )
+
+                    [12] => Array
+                        (
+                            [variable] => payer.address.zip_code
+                            [value] => 82710-000
+                        )
+
+                    [13] => Array
+                        (
+                            [variable] => payer.address.zip_code
+                            [value] => 82710-000
+                        )
+
+                    [14] => Array
+                        (
+                            [variable] => payer.cpf_cnpj
+                            [value] => 08801663986
+                        )
+
+                    [15] => Array
+                        (
+                            [variable] => payer.cpf_cnpj
+                            [value] => 08801663986
+                        )
+
+                    [16] => Array
+                        (
+                            [variable] => payer.email
+                            [value] => andreyleocadio@cakedigital.com.br
+                        )
+
+                    [17] => Array
+                        (
+                            [variable] => payer.email
+                            [value] => andreyleocadio@cakedigital.com.br
+                        )
+
+                    [18] => Array
+                        (
+                            [variable] => payer.name
+                            [value] => Andrey Leocadio Ribeiro Camargo de França
+                        )
+
+                    [19] => Array
+                        (
+                            [variable] => payer.name
+                            [value] => Andrey Leocadio Ribeiro Camargo de França
+                        )
+
+                    [20] => Array
+                        (
+                            [variable] => payer.phone
+                            [value] => 996770938
+                        )
+
+                    [21] => Array
+                        (
+                            [variable] => payer.phone
+                            [value] => 996770938
+                        )
+
+                    [22] => Array
+                        (
+                            [variable] => payer.phone_prefix
+                            [value] => 41
+                        )
+
+                    [23] => Array
+                        (
+                            [variable] => payer.phone_prefix
+                            [value] => 41
+                        )
+
+                )
+
+            [custom_variables] => Array
+                (
+                )
+
+            [logs] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 8E625BB654D1411D9C1C9ADD031DEBB4
+                            [description] => Email de Lembrete enviado!
+                            [notes] => Lembrete enviado com sucesso para: andreyleocadio@cakedigital.com.br
+                            [created_at] => 01/08, 15:02
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => B5F86544C506442D938AFE050AFC653B
+                            [description] => Fatura criada com sucesso!
+                            [notes] => Fatura criada!
+                            [created_at] => 01/08, 15:02
+                        )
+
+                )
+
+            [credit_card_transaction] => 
+        )
+
+    [1] => Array
+        (
+            [message] => Autorizado
+            [errors] => Array
+                (
+                )
+
+            [status] => captured
+            [info_message] => Transação capturada
+            [reversible] => 
+            [token] => 000000000000000000000000000000000000001
+            [brand] => Visa
+            [bin] => 411111
+            [success] => 1
+            [url] => https://faturas.iugu.com/d33def86-391a-4cf8-a3de-4be1efe7ed61-9dd3
+            [pdf] => https://faturas.iugu.com/d33def86-391a-4cf8-a3de-4be1efe7ed61-9dd3.pdf
+            [identification] => 
+            [invoice_id] => D33DEF86391A4CF8A3DE4BE1EFE7ED61
+            [LR] => 00
+        )
+
+    [2] => Array
+        (
+            [email] => andreyleocadio@cakedigital.com.br
+            [desconto] => 0
+            [diasVencimento] => 1
+            [interUser] => 2FE6F4DB034647158B5ADB65B84D1889
+            [formaPagamento] => credit_card
+            [external_reference] => 2_3
+            [accessToken] => 9341B4F5070ADB7A92926434D2592726E372F3A89479AD4742DF1B8326A84A59
+            [notification_url] => http://localhost/salveadata/Checkout/retornoPagamento
+            [line_items] => Array
+                (
+                    [0] => Array
+                        (
+                            [description] => Bolinho bonito
+                            [quantity] => 10
+                            [price_cents] => 10505
+                        )
+
+                )
+
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [id] => A9E1D6431B7C46989EE0672A0F136BF4
+            [due_date] => 2022-08-02
+            [currency] => BRL
+            [discount_cents] => 0
+            [email] => andreyleocadio@cakedigital.com.br
+            [items_total_cents] => 105050
+            [notification_url] => http://localhost/salveadata/Checkout/retornoPagamento
+            [return_url] => 
+            [status] => pending
+            [tax_cents] => 
+            [total_cents] => 105050
+            [total_paid_cents] => 0
+            [taxes_paid_cents] => 
+            [paid_at] => 
+            [paid_cents] => 
+            [cc_emails] => 
+            [financial_return_date] => 
+            [payable_with] => credit_card
+            [overpaid_cents] => 
+            [ignore_due_email] => 
+            [ignore_canceled_email] => 
+            [advance_fee_cents] => 
+            [commission_cents] => 
+            [early_payment_discount] => 
+            [order_id] => 
+            [updated_at] => 2022-08-01T15:05:58-03:00
+            [credit_card_brand] => 
+            [credit_card_bin] => 
+            [credit_card_last_4] => 
+            [credit_card_captured_at] => 
+            [credit_card_tid] => 
+            [external_reference] => 2_3
+            [max_installments_value] => 
+            [payer_name] => Andrey Leocadio Ribeiro Camargo de França
+            [payer_email] => andreyleocadio@cakedigital.com.br
+            [payer_cpf_cnpj] => 08801663986
+            [payer_phone] => 996770938
+            [payer_phone_prefix] => 41
+            [payer_address_zip_code] => 82710-000
+            [payer_address_street] => Rua Theodoro Makiolka
+            [payer_address_district] => Barreirinha
+            [payer_address_city] => Curitiba
+            [payer_address_state] => PR
+            [payer_address_number] => 3560
+            [payer_address_complement] => 3560
+            [payer_address_country] => 
+            [late_payment_fine] => 0
+            [late_payment_fine_cents] => 
+            [split_id] => 090A3A562B5F4D4D9C447C8C56152F68
+            [account_id] => F614ED4626D54A38B10B13EA93BF5E27
+            [account_name] => Andrey Leocádio
+            [secure_id] => a9e1d643-1b7c-4698-9ee0-672a0f136bf4-de47
+            [secure_url] => https://faturas.iugu.com/a9e1d643-1b7c-4698-9ee0-672a0f136bf4-de47
+            [customer_id] => 2FE6F4DB034647158B5ADB65B84D1889
+            [customer_ref] => Andrey Leocadio Ribeiro Camargo de França
+            [customer_name] => Andrey Leocadio Ribeiro Camargo de França
+            [user_id] => 
+            [total] => R$ 1.050,50
+            [taxes_paid] => R$ 0,00
+            [total_paid] => R$ 0,00
+            [total_overpaid] => R$ 0,00
+            [total_refunded] => R$ 0,00
+            [commission] => R$ 0,00
+            [fines_on_occurrence_day] => R$ 0,00
+            [total_on_occurrence_day] => R$ 0,00
+            [fines_on_occurrence_day_cents] => 0
+            [total_on_occurrence_day_cents] => 0
+            [refunded_cents] => 0
+            [remaining_captured_cents] => 0
+            [advance_fee] => 
+            [paid] => R$ 0,00
+            [original_payment_id] => 
+            [double_payment_id] => 
+            [per_day_interest] => 
+            [per_day_interest_value] => 
+            [interest] => 
+            [discount] => 
+            [duplicated_invoice_id] => 
+            [created_at] => 01/08, 15:05
+            [created_at_iso] => 2022-08-01T15:05:57-03:00
+            [authorized_at] => 
+            [authorized_at_iso] => 
+            [expired_at] => 
+            [expired_at_iso] => 
+            [refunded_at] => 
+            [refunded_at_iso] => 
+            [canceled_at] => 
+            [canceled_at_iso] => 
+            [protested_at] => 
+            [protested_at_iso] => 
+            [chargeback_at] => 
+            [chargeback_at_iso] => 
+            [occurrence_date] => 
+            [refundable] => 
+            [installments] => 
+            [transaction_number] => 1111
+            [payment_method] => 
+            [financial_return_dates] => 
+            [bank_slip] => 
+            [pix] => Array
+                (
+                    [qrcode] => 
+                    [qrcode_text] => 
+                    [status] => 
+                    [payer_cpf_cnpj] => 
+                    [payer_name] => 
+                    [end_to_end_id] => 
+                    [end_to_end_refund_id] => 
+                )
+
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => F8911FC9B0D64B0EA68EAA948D999DD5
+                            [description] => Bolinho bonito
+                            [price_cents] => 10505
+                            [quantity] => 10
+                            [created_at] => 2022-08-01T15:05:57-03:00
+                            [updated_at] => 2022-08-01T15:05:57-03:00
+                            [price] => R$ 105,05
+                        )
+
+                )
+
+            [early_payment_discounts] => Array
+                (
+                )
+
+            [split_rules] => Array
+                (
+                    [0] => Array
+                        (
+                            [bank_slip_cents] => 110
+                            [bank_slip_percent] => 
+                            [cents] => 
+                            [created_at] => 2022-08-01T15:05:58-03:00
+                            [credit_card_10x_cents] => 
+                            [credit_card_10x_percent] => 8.53
+                            [credit_card_11x_cents] => 
+                            [credit_card_11x_percent] => 8.93
+                            [credit_card_12x_cents] => 
+                            [credit_card_12x_percent] => 9.33
+                            [credit_card_1x_cents] => 
+                            [credit_card_1x_percent] => 0.93
+                            [credit_card_2x_cents] => 
+                            [credit_card_2x_percent] => 2.93
+                            [credit_card_3x_cents] => 
+                            [credit_card_3x_percent] => 3.93
+                            [credit_card_4x_cents] => 
+                            [credit_card_4x_percent] => 4.93
+                            [credit_card_5x_cents] => 
+                            [credit_card_5x_percent] => 5.93
+                            [credit_card_6x_cents] => 
+                            [credit_card_6x_percent] => 6.63
+                            [credit_card_7x_cents] => 
+                            [credit_card_7x_percent] => 6.83
+                            [credit_card_8x_cents] => 
+                            [credit_card_8x_percent] => 7.73
+                            [credit_card_9x_cents] => 
+                            [credit_card_9x_percent] => 8.13
+                            [credit_card_cents] => 
+                            [credit_card_percent] => 
+                            [id] => F70AFF623A764052B0609A2786046A5E
+                            [percent] => 0.93
+                            [permit_aggregated] => 
+                            [pix_cents] => 70
+                            [pix_percent] => 
+                            [recipient_account_id] => A562B3FF8DC4485F95A07DBEA2A4CE2A
+                            [split_id] => 090A3A562B5F4D4D9C447C8C56152F68
+                            [updated_at] => 2022-08-01T15:05:58-03:00
+                        )
+
+                )
+
+            [variables] => Array
+                (
+                    [0] => Array
+                        (
+                            [variable] => payer.address.city
+                            [value] => Curitiba
+                        )
+
+                    [1] => Array
+                        (
+                            [variable] => payer.address.city
+                            [value] => Curitiba
+                        )
+
+                    [2] => Array
+                        (
+                            [variable] => payer.address.complement
+                            [value] => 3560
+                        )
+
+                    [3] => Array
+                        (
+                            [variable] => payer.address.complement
+                            [value] => 3560
+                        )
+
+                    [4] => Array
+                        (
+                            [variable] => payer.address.district
+                            [value] => Barreirinha
+                        )
+
+                    [5] => Array
+                        (
+                            [variable] => payer.address.district
+                            [value] => Barreirinha
+                        )
+
+                    [6] => Array
+                        (
+                            [variable] => payer.address.number
+                            [value] => 3560
+                        )
+
+                    [7] => Array
+                        (
+                            [variable] => payer.address.number
+                            [value] => 3560
+                        )
+
+                    [8] => Array
+                        (
+                            [variable] => payer.address.state
+                            [value] => PR
+                        )
+
+                    [9] => Array
+                        (
+                            [variable] => payer.address.state
+                            [value] => PR
+                        )
+
+                    [10] => Array
+                        (
+                            [variable] => payer.address.street
+                            [value] => Rua Theodoro Makiolka
+                        )
+
+                    [11] => Array
+                        (
+                            [variable] => payer.address.street
+                            [value] => Rua Theodoro Makiolka
+                        )
+
+                    [12] => Array
+                        (
+                            [variable] => payer.address.zip_code
+                            [value] => 82710-000
+                        )
+
+                    [13] => Array
+                        (
+                            [variable] => payer.address.zip_code
+                            [value] => 82710-000
+                        )
+
+                    [14] => Array
+                        (
+                            [variable] => payer.cpf_cnpj
+                            [value] => 08801663986
+                        )
+
+                    [15] => Array
+                        (
+                            [variable] => payer.cpf_cnpj
+                            [value] => 08801663986
+                        )
+
+                    [16] => Array
+                        (
+                            [variable] => payer.email
+                            [value] => andreyleocadio@cakedigital.com.br
+                        )
+
+                    [17] => Array
+                        (
+                            [variable] => payer.email
+                            [value] => andreyleocadio@cakedigital.com.br
+                        )
+
+                    [18] => Array
+                        (
+                            [variable] => payer.name
+                            [value] => Andrey Leocadio Ribeiro Camargo de França
+                        )
+
+                    [19] => Array
+                        (
+                            [variable] => payer.name
+                            [value] => Andrey Leocadio Ribeiro Camargo de França
+                        )
+
+                    [20] => Array
+                        (
+                            [variable] => payer.phone
+                            [value] => 996770938
+                        )
+
+                    [21] => Array
+                        (
+                            [variable] => payer.phone
+                            [value] => 996770938
+                        )
+
+                    [22] => Array
+                        (
+                            [variable] => payer.phone_prefix
+                            [value] => 41
+                        )
+
+                    [23] => Array
+                        (
+                            [variable] => payer.phone_prefix
+                            [value] => 41
+                        )
+
+                )
+
+            [custom_variables] => Array
+                (
+                )
+
+            [logs] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 3FF2AE13EB4C402CBF8084D553A36390
+                            [description] => Email de Lembrete enviado!
+                            [notes] => Lembrete enviado com sucesso para: andreyleocadio@cakedigital.com.br
+                            [created_at] => 01/08, 15:05
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => D2750C8C023241F1BFD63FD672E60820
+                            [description] => Fatura criada com sucesso!
+                            [notes] => Fatura criada!
+                            [created_at] => 01/08, 15:05
+                        )
+
+                )
+
+            [credit_card_transaction] => 
+        )
+
+    [1] => Array
+        (
+            [message] => Autorizado
+            [errors] => Array
+                (
+                )
+
+            [status] => captured
+            [info_message] => Transaction captured
+            [reversible] => 
+            [token] => 000000000000000000000000000000000000001
+            [brand] => Visa
+            [bin] => 411111
+            [success] => 1
+            [url] => https://faturas.iugu.com/a9e1d643-1b7c-4698-9ee0-672a0f136bf4-de47
+            [pdf] => https://faturas.iugu.com/a9e1d643-1b7c-4698-9ee0-672a0f136bf4-de47.pdf
+            [identification] => 
+            [invoice_id] => A9E1D6431B7C46989EE0672A0F136BF4
+            [LR] => 00
+        )
+
+    [2] => Array
+        (
+            [email] => andreyleocadio@cakedigital.com.br
+            [desconto] => 0
+            [diasVencimento] => 1
+            [interUser] => 2FE6F4DB034647158B5ADB65B84D1889
+            [formaPagamento] => credit_card
+            [external_reference] => 2_3
+            [accessToken] => 9341B4F5070ADB7A92926434D2592726E372F3A89479AD4742DF1B8326A84A59
+            [notification_url] => http://localhost/salveadata/Checkout/retornoPagamento
+            [line_items] => Array
+                (
+                    [0] => Array
+                        (
+                            [description] => Bolinho bonito
+                            [quantity] => 10
+                            [price_cents] => 10505
+                        )
+
+                )
+
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [id] => 3E104936B867491C8B247FE642B97EF8
+            [due_date] => 2022-08-02
+            [currency] => BRL
+            [discount_cents] => 0
+            [email] => andreyleocadio@cakedigital.com.br
+            [items_total_cents] => 105050
+            [notification_url] => http://localhost/salveadata/Checkout/retornoPagamento
+            [return_url] => 
+            [status] => pending
+            [tax_cents] => 
+            [total_cents] => 105050
+            [total_paid_cents] => 0
+            [taxes_paid_cents] => 
+            [paid_at] => 
+            [paid_cents] => 
+            [cc_emails] => 
+            [financial_return_date] => 
+            [payable_with] => credit_card
+            [overpaid_cents] => 
+            [ignore_due_email] => 
+            [ignore_canceled_email] => 
+            [advance_fee_cents] => 
+            [commission_cents] => 
+            [early_payment_discount] => 
+            [order_id] => 
+            [updated_at] => 2022-08-01T15:06:16-03:00
+            [credit_card_brand] => 
+            [credit_card_bin] => 
+            [credit_card_last_4] => 
+            [credit_card_captured_at] => 
+            [credit_card_tid] => 
+            [external_reference] => 2_3
+            [max_installments_value] => 
+            [payer_name] => Andrey Leocadio Ribeiro Camargo de França
+            [payer_email] => andreyleocadio@cakedigital.com.br
+            [payer_cpf_cnpj] => 08801663986
+            [payer_phone] => 996770938
+            [payer_phone_prefix] => 41
+            [payer_address_zip_code] => 82710-000
+            [payer_address_street] => Rua Theodoro Makiolka
+            [payer_address_district] => Barreirinha
+            [payer_address_city] => Curitiba
+            [payer_address_state] => PR
+            [payer_address_number] => 3560
+            [payer_address_complement] => 3560
+            [payer_address_country] => 
+            [late_payment_fine] => 0
+            [late_payment_fine_cents] => 
+            [split_id] => EE85E6A2994B47B7AD81F29582972440
+            [account_id] => F614ED4626D54A38B10B13EA93BF5E27
+            [account_name] => Andrey Leocádio
+            [secure_id] => 3e104936-b867-491c-8b24-7fe642b97ef8-2c88
+            [secure_url] => https://faturas.iugu.com/3e104936-b867-491c-8b24-7fe642b97ef8-2c88
+            [customer_id] => 2FE6F4DB034647158B5ADB65B84D1889
+            [customer_ref] => Andrey Leocadio Ribeiro Camargo de França
+            [customer_name] => Andrey Leocadio Ribeiro Camargo de França
+            [user_id] => 
+            [total] => R$ 1.050,50
+            [taxes_paid] => R$ 0,00
+            [total_paid] => R$ 0,00
+            [total_overpaid] => R$ 0,00
+            [total_refunded] => R$ 0,00
+            [commission] => R$ 0,00
+            [fines_on_occurrence_day] => R$ 0,00
+            [total_on_occurrence_day] => R$ 0,00
+            [fines_on_occurrence_day_cents] => 0
+            [total_on_occurrence_day_cents] => 0
+            [refunded_cents] => 0
+            [remaining_captured_cents] => 0
+            [advance_fee] => 
+            [paid] => R$ 0,00
+            [original_payment_id] => 
+            [double_payment_id] => 
+            [per_day_interest] => 
+            [per_day_interest_value] => 
+            [interest] => 
+            [discount] => 
+            [duplicated_invoice_id] => 
+            [created_at] => 01/08, 15:06
+            [created_at_iso] => 2022-08-01T15:06:16-03:00
+            [authorized_at] => 
+            [authorized_at_iso] => 
+            [expired_at] => 
+            [expired_at_iso] => 
+            [refunded_at] => 
+            [refunded_at_iso] => 
+            [canceled_at] => 
+            [canceled_at_iso] => 
+            [protested_at] => 
+            [protested_at_iso] => 
+            [chargeback_at] => 
+            [chargeback_at_iso] => 
+            [occurrence_date] => 
+            [refundable] => 
+            [installments] => 
+            [transaction_number] => 1111
+            [payment_method] => 
+            [financial_return_dates] => 
+            [bank_slip] => 
+            [pix] => Array
+                (
+                    [qrcode] => 
+                    [qrcode_text] => 
+                    [status] => 
+                    [payer_cpf_cnpj] => 
+                    [payer_name] => 
+                    [end_to_end_id] => 
+                    [end_to_end_refund_id] => 
+                )
+
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 80A62DB1311D4AE2AD559E2E0ACD092F
+                            [description] => Bolinho bonito
+                            [price_cents] => 10505
+                            [quantity] => 10
+                            [created_at] => 2022-08-01T15:06:16-03:00
+                            [updated_at] => 2022-08-01T15:06:16-03:00
+                            [price] => R$ 105,05
+                        )
+
+                )
+
+            [early_payment_discounts] => Array
+                (
+                )
+
+            [split_rules] => Array
+                (
+                    [0] => Array
+                        (
+                            [bank_slip_cents] => 110
+                            [bank_slip_percent] => 
+                            [cents] => 
+                            [created_at] => 2022-08-01T15:06:16-03:00
+                            [credit_card_10x_cents] => 
+                            [credit_card_10x_percent] => 8.53
+                            [credit_card_11x_cents] => 
+                            [credit_card_11x_percent] => 8.93
+                            [credit_card_12x_cents] => 
+                            [credit_card_12x_percent] => 9.33
+                            [credit_card_1x_cents] => 
+                            [credit_card_1x_percent] => 0.93
+                            [credit_card_2x_cents] => 
+                            [credit_card_2x_percent] => 2.93
+                            [credit_card_3x_cents] => 
+                            [credit_card_3x_percent] => 3.93
+                            [credit_card_4x_cents] => 
+                            [credit_card_4x_percent] => 4.93
+                            [credit_card_5x_cents] => 
+                            [credit_card_5x_percent] => 5.93
+                            [credit_card_6x_cents] => 
+                            [credit_card_6x_percent] => 6.63
+                            [credit_card_7x_cents] => 
+                            [credit_card_7x_percent] => 6.83
+                            [credit_card_8x_cents] => 
+                            [credit_card_8x_percent] => 7.73
+                            [credit_card_9x_cents] => 
+                            [credit_card_9x_percent] => 8.13
+                            [credit_card_cents] => 
+                            [credit_card_percent] => 
+                            [id] => 4AEC8482DBEA42979759185C532BDED9
+                            [percent] => 0.93
+                            [permit_aggregated] => 
+                            [pix_cents] => 70
+                            [pix_percent] => 
+                            [recipient_account_id] => A562B3FF8DC4485F95A07DBEA2A4CE2A
+                            [split_id] => EE85E6A2994B47B7AD81F29582972440
+                            [updated_at] => 2022-08-01T15:06:16-03:00
+                        )
+
+                )
+
+            [variables] => Array
+                (
+                    [0] => Array
+                        (
+                            [variable] => payer.address.city
+                            [value] => Curitiba
+                        )
+
+                    [1] => Array
+                        (
+                            [variable] => payer.address.city
+                            [value] => Curitiba
+                        )
+
+                    [2] => Array
+                        (
+                            [variable] => payer.address.complement
+                            [value] => 3560
+                        )
+
+                    [3] => Array
+                        (
+                            [variable] => payer.address.complement
+                            [value] => 3560
+                        )
+
+                    [4] => Array
+                        (
+                            [variable] => payer.address.district
+                            [value] => Barreirinha
+                        )
+
+                    [5] => Array
+                        (
+                            [variable] => payer.address.district
+                            [value] => Barreirinha
+                        )
+
+                    [6] => Array
+                        (
+                            [variable] => payer.address.number
+                            [value] => 3560
+                        )
+
+                    [7] => Array
+                        (
+                            [variable] => payer.address.number
+                            [value] => 3560
+                        )
+
+                    [8] => Array
+                        (
+                            [variable] => payer.address.state
+                            [value] => PR
+                        )
+
+                    [9] => Array
+                        (
+                            [variable] => payer.address.state
+                            [value] => PR
+                        )
+
+                    [10] => Array
+                        (
+                            [variable] => payer.address.street
+                            [value] => Rua Theodoro Makiolka
+                        )
+
+                    [11] => Array
+                        (
+                            [variable] => payer.address.street
+                            [value] => Rua Theodoro Makiolka
+                        )
+
+                    [12] => Array
+                        (
+                            [variable] => payer.address.zip_code
+                            [value] => 82710-000
+                        )
+
+                    [13] => Array
+                        (
+                            [variable] => payer.address.zip_code
+                            [value] => 82710-000
+                        )
+
+                    [14] => Array
+                        (
+                            [variable] => payer.cpf_cnpj
+                            [value] => 08801663986
+                        )
+
+                    [15] => Array
+                        (
+                            [variable] => payer.cpf_cnpj
+                            [value] => 08801663986
+                        )
+
+                    [16] => Array
+                        (
+                            [variable] => payer.email
+                            [value] => andreyleocadio@cakedigital.com.br
+                        )
+
+                    [17] => Array
+                        (
+                            [variable] => payer.email
+                            [value] => andreyleocadio@cakedigital.com.br
+                        )
+
+                    [18] => Array
+                        (
+                            [variable] => payer.name
+                            [value] => Andrey Leocadio Ribeiro Camargo de França
+                        )
+
+                    [19] => Array
+                        (
+                            [variable] => payer.name
+                            [value] => Andrey Leocadio Ribeiro Camargo de França
+                        )
+
+                    [20] => Array
+                        (
+                            [variable] => payer.phone
+                            [value] => 996770938
+                        )
+
+                    [21] => Array
+                        (
+                            [variable] => payer.phone
+                            [value] => 996770938
+                        )
+
+                    [22] => Array
+                        (
+                            [variable] => payer.phone_prefix
+                            [value] => 41
+                        )
+
+                    [23] => Array
+                        (
+                            [variable] => payer.phone_prefix
+                            [value] => 41
+                        )
+
+                )
+
+            [custom_variables] => Array
+                (
+                )
+
+            [logs] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => B233FAD94BEF40239E253A00C5207E5B
+                            [description] => Email de Lembrete enviado!
+                            [notes] => Lembrete enviado com sucesso para: andreyleocadio@cakedigital.com.br
+                            [created_at] => 01/08, 15:06
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 826B1E25DB654124800E97F452B292D6
+                            [description] => Fatura criada com sucesso!
+                            [notes] => Fatura criada!
+                            [created_at] => 01/08, 15:06
+                        )
+
+                )
+
+            [credit_card_transaction] => 
+        )
+
+    [1] => Array
+        (
+            [message] => Autorizado
+            [errors] => Array
+                (
+                )
+
+            [status] => captured
+            [info_message] => Transação capturada
+            [reversible] => 
+            [token] => 000000000000000000000000000000000000001
+            [brand] => Visa
+            [bin] => 411111
+            [success] => 1
+            [url] => https://faturas.iugu.com/3e104936-b867-491c-8b24-7fe642b97ef8-2c88
+            [pdf] => https://faturas.iugu.com/3e104936-b867-491c-8b24-7fe642b97ef8-2c88.pdf
+            [identification] => 
+            [invoice_id] => 3E104936B867491C8B247FE642B97EF8
+            [LR] => 00
+        )
+
+    [2] => Array
+        (
+            [email] => andreyleocadio@cakedigital.com.br
+            [desconto] => 0
+            [diasVencimento] => 1
+            [interUser] => 2FE6F4DB034647158B5ADB65B84D1889
+            [formaPagamento] => credit_card
+            [external_reference] => 2_3
+            [accessToken] => 9341B4F5070ADB7A92926434D2592726E372F3A89479AD4742DF1B8326A84A59
+            [notification_url] => http://localhost/salveadata/Checkout/retornoPagamento
+            [line_items] => Array
+                (
+                    [0] => Array
+                        (
+                            [description] => Bolinho bonito
+                            [quantity] => 10
+                            [price_cents] => 10505
+                        )
+
+                )
+
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [id] => 66C249C847CC4B0385B19B50175E549F
+            [due_date] => 2022-08-02
+            [currency] => BRL
+            [discount_cents] => 0
+            [email] => andreyleocadio@cakedigital.com.br
+            [items_total_cents] => 105050
+            [notification_url] => http://localhost/salveadata/Checkout/retornoPagamento
+            [return_url] => 
+            [status] => pending
+            [tax_cents] => 
+            [total_cents] => 105050
+            [total_paid_cents] => 0
+            [taxes_paid_cents] => 
+            [paid_at] => 
+            [paid_cents] => 
+            [cc_emails] => 
+            [financial_return_date] => 
+            [payable_with] => credit_card
+            [overpaid_cents] => 
+            [ignore_due_email] => 
+            [ignore_canceled_email] => 
+            [advance_fee_cents] => 
+            [commission_cents] => 
+            [early_payment_discount] => 
+            [order_id] => 
+            [updated_at] => 2022-08-01T15:07:49-03:00
+            [credit_card_brand] => 
+            [credit_card_bin] => 
+            [credit_card_last_4] => 
+            [credit_card_captured_at] => 
+            [credit_card_tid] => 
+            [external_reference] => 2_3
+            [max_installments_value] => 
+            [payer_name] => Andrey Leocadio Ribeiro Camargo de França
+            [payer_email] => andreyleocadio@cakedigital.com.br
+            [payer_cpf_cnpj] => 08801663986
+            [payer_phone] => 996770938
+            [payer_phone_prefix] => 41
+            [payer_address_zip_code] => 82710-000
+            [payer_address_street] => Rua Theodoro Makiolka
+            [payer_address_district] => Barreirinha
+            [payer_address_city] => Curitiba
+            [payer_address_state] => PR
+            [payer_address_number] => 3560
+            [payer_address_complement] => 3560
+            [payer_address_country] => 
+            [late_payment_fine] => 0
+            [late_payment_fine_cents] => 
+            [split_id] => A699C25820214C0EB8CC5603F7B4974B
+            [account_id] => F614ED4626D54A38B10B13EA93BF5E27
+            [account_name] => Andrey Leocádio
+            [secure_id] => 66c249c8-47cc-4b03-85b1-9b50175e549f-3db5
+            [secure_url] => https://faturas.iugu.com/66c249c8-47cc-4b03-85b1-9b50175e549f-3db5
+            [customer_id] => 2FE6F4DB034647158B5ADB65B84D1889
+            [customer_ref] => Andrey Leocadio Ribeiro Camargo de França
+            [customer_name] => Andrey Leocadio Ribeiro Camargo de França
+            [user_id] => 
+            [total] => R$ 1.050,50
+            [taxes_paid] => R$ 0,00
+            [total_paid] => R$ 0,00
+            [total_overpaid] => R$ 0,00
+            [total_refunded] => R$ 0,00
+            [commission] => R$ 0,00
+            [fines_on_occurrence_day] => R$ 0,00
+            [total_on_occurrence_day] => R$ 0,00
+            [fines_on_occurrence_day_cents] => 0
+            [total_on_occurrence_day_cents] => 0
+            [refunded_cents] => 0
+            [remaining_captured_cents] => 0
+            [advance_fee] => 
+            [paid] => R$ 0,00
+            [original_payment_id] => 
+            [double_payment_id] => 
+            [per_day_interest] => 
+            [per_day_interest_value] => 
+            [interest] => 
+            [discount] => 
+            [duplicated_invoice_id] => 
+            [created_at] => 01/08, 15:07
+            [created_at_iso] => 2022-08-01T15:07:48-03:00
+            [authorized_at] => 
+            [authorized_at_iso] => 
+            [expired_at] => 
+            [expired_at_iso] => 
+            [refunded_at] => 
+            [refunded_at_iso] => 
+            [canceled_at] => 
+            [canceled_at_iso] => 
+            [protested_at] => 
+            [protested_at_iso] => 
+            [chargeback_at] => 
+            [chargeback_at_iso] => 
+            [occurrence_date] => 
+            [refundable] => 
+            [installments] => 
+            [transaction_number] => 1111
+            [payment_method] => 
+            [financial_return_dates] => 
+            [bank_slip] => 
+            [pix] => Array
+                (
+                    [qrcode] => 
+                    [qrcode_text] => 
+                    [status] => 
+                    [payer_cpf_cnpj] => 
+                    [payer_name] => 
+                    [end_to_end_id] => 
+                    [end_to_end_refund_id] => 
+                )
+
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 703DEF0DCFD2462C9DEDD6E4E5EE13CF
+                            [description] => Bolinho bonito
+                            [price_cents] => 10505
+                            [quantity] => 10
+                            [created_at] => 2022-08-01T15:07:48-03:00
+                            [updated_at] => 2022-08-01T15:07:48-03:00
+                            [price] => R$ 105,05
+                        )
+
+                )
+
+            [early_payment_discounts] => Array
+                (
+                )
+
+            [split_rules] => Array
+                (
+                    [0] => Array
+                        (
+                            [bank_slip_cents] => 110
+                            [bank_slip_percent] => 
+                            [cents] => 
+                            [created_at] => 2022-08-01T15:07:49-03:00
+                            [credit_card_10x_cents] => 
+                            [credit_card_10x_percent] => 8.53
+                            [credit_card_11x_cents] => 
+                            [credit_card_11x_percent] => 8.93
+                            [credit_card_12x_cents] => 
+                            [credit_card_12x_percent] => 9.33
+                            [credit_card_1x_cents] => 
+                            [credit_card_1x_percent] => 0.93
+                            [credit_card_2x_cents] => 
+                            [credit_card_2x_percent] => 2.93
+                            [credit_card_3x_cents] => 
+                            [credit_card_3x_percent] => 3.93
+                            [credit_card_4x_cents] => 
+                            [credit_card_4x_percent] => 4.93
+                            [credit_card_5x_cents] => 
+                            [credit_card_5x_percent] => 5.93
+                            [credit_card_6x_cents] => 
+                            [credit_card_6x_percent] => 6.63
+                            [credit_card_7x_cents] => 
+                            [credit_card_7x_percent] => 6.83
+                            [credit_card_8x_cents] => 
+                            [credit_card_8x_percent] => 7.73
+                            [credit_card_9x_cents] => 
+                            [credit_card_9x_percent] => 8.13
+                            [credit_card_cents] => 
+                            [credit_card_percent] => 
+                            [id] => 42018D3BE6964D8AB2229202CA0ACFC8
+                            [percent] => 0.93
+                            [permit_aggregated] => 
+                            [pix_cents] => 70
+                            [pix_percent] => 
+                            [recipient_account_id] => A562B3FF8DC4485F95A07DBEA2A4CE2A
+                            [split_id] => A699C25820214C0EB8CC5603F7B4974B
+                            [updated_at] => 2022-08-01T15:07:49-03:00
+                        )
+
+                )
+
+            [variables] => Array
+                (
+                    [0] => Array
+                        (
+                            [variable] => payer.address.city
+                            [value] => Curitiba
+                        )
+
+                    [1] => Array
+                        (
+                            [variable] => payer.address.city
+                            [value] => Curitiba
+                        )
+
+                    [2] => Array
+                        (
+                            [variable] => payer.address.complement
+                            [value] => 3560
+                        )
+
+                    [3] => Array
+                        (
+                            [variable] => payer.address.complement
+                            [value] => 3560
+                        )
+
+                    [4] => Array
+                        (
+                            [variable] => payer.address.district
+                            [value] => Barreirinha
+                        )
+
+                    [5] => Array
+                        (
+                            [variable] => payer.address.district
+                            [value] => Barreirinha
+                        )
+
+                    [6] => Array
+                        (
+                            [variable] => payer.address.number
+                            [value] => 3560
+                        )
+
+                    [7] => Array
+                        (
+                            [variable] => payer.address.number
+                            [value] => 3560
+                        )
+
+                    [8] => Array
+                        (
+                            [variable] => payer.address.state
+                            [value] => PR
+                        )
+
+                    [9] => Array
+                        (
+                            [variable] => payer.address.state
+                            [value] => PR
+                        )
+
+                    [10] => Array
+                        (
+                            [variable] => payer.address.street
+                            [value] => Rua Theodoro Makiolka
+                        )
+
+                    [11] => Array
+                        (
+                            [variable] => payer.address.street
+                            [value] => Rua Theodoro Makiolka
+                        )
+
+                    [12] => Array
+                        (
+                            [variable] => payer.address.zip_code
+                            [value] => 82710-000
+                        )
+
+                    [13] => Array
+                        (
+                            [variable] => payer.address.zip_code
+                            [value] => 82710-000
+                        )
+
+                    [14] => Array
+                        (
+                            [variable] => payer.cpf_cnpj
+                            [value] => 08801663986
+                        )
+
+                    [15] => Array
+                        (
+                            [variable] => payer.cpf_cnpj
+                            [value] => 08801663986
+                        )
+
+                    [16] => Array
+                        (
+                            [variable] => payer.email
+                            [value] => andreyleocadio@cakedigital.com.br
+                        )
+
+                    [17] => Array
+                        (
+                            [variable] => payer.email
+                            [value] => andreyleocadio@cakedigital.com.br
+                        )
+
+                    [18] => Array
+                        (
+                            [variable] => payer.name
+                            [value] => Andrey Leocadio Ribeiro Camargo de França
+                        )
+
+                    [19] => Array
+                        (
+                            [variable] => payer.name
+                            [value] => Andrey Leocadio Ribeiro Camargo de França
+                        )
+
+                    [20] => Array
+                        (
+                            [variable] => payer.phone
+                            [value] => 996770938
+                        )
+
+                    [21] => Array
+                        (
+                            [variable] => payer.phone
+                            [value] => 996770938
+                        )
+
+                    [22] => Array
+                        (
+                            [variable] => payer.phone_prefix
+                            [value] => 41
+                        )
+
+                    [23] => Array
+                        (
+                            [variable] => payer.phone_prefix
+                            [value] => 41
+                        )
+
+                )
+
+            [custom_variables] => Array
+                (
+                )
+
+            [logs] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 2A815F72272C470B946F91F849FDBE94
+                            [description] => Email de Lembrete enviado!
+                            [notes] => Lembrete enviado com sucesso para: andreyleocadio@cakedigital.com.br
+                            [created_at] => 01/08, 15:07
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 4958AC9BEDA344D3B63141F09F37869E
+                            [description] => Fatura criada com sucesso!
+                            [notes] => Fatura criada!
+                            [created_at] => 01/08, 15:07
+                        )
+
+                )
+
+            [credit_card_transaction] => 
+        )
+
+    [1] => Array
+        (
+            [message] => Autorizado
+            [errors] => Array
+                (
+                )
+
+            [status] => captured
+            [info_message] => Transação capturada
+            [reversible] => 
+            [token] => 000000000000000000000000000000000000001
+            [brand] => Visa
+            [bin] => 411111
+            [success] => 1
+            [url] => https://faturas.iugu.com/66c249c8-47cc-4b03-85b1-9b50175e549f-3db5
+            [pdf] => https://faturas.iugu.com/66c249c8-47cc-4b03-85b1-9b50175e549f-3db5.pdf
+            [identification] => 
+            [invoice_id] => 66C249C847CC4B0385B19B50175E549F
+            [LR] => 00
+        )
+
+    [2] => Array
+        (
+            [email] => andreyleocadio@cakedigital.com.br
+            [desconto] => 0
+            [diasVencimento] => 1
+            [interUser] => 2FE6F4DB034647158B5ADB65B84D1889
+            [formaPagamento] => credit_card
+            [external_reference] => 2_3
+            [accessToken] => 9341B4F5070ADB7A92926434D2592726E372F3A89479AD4742DF1B8326A84A59
+            [notification_url] => http://localhost/salveadata/Checkout/retornoPagamento
+            [line_items] => Array
+                (
+                    [0] => Array
+                        (
+                            [description] => Bolinho bonito
+                            [quantity] => 10
+                            [price_cents] => 10505
+                        )
+
+                )
+
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [id] => 875A192C049C4D2392055153E6C5D7C9
+            [due_date] => 2022-08-02
+            [currency] => BRL
+            [discount_cents] => 0
+            [email] => andreyleocadio@cakedigital.com.br
+            [items_total_cents] => 105050
+            [notification_url] => http://localhost/salveadata/Checkout/retornoPagamento
+            [return_url] => 
+            [status] => pending
+            [tax_cents] => 
+            [total_cents] => 105050
+            [total_paid_cents] => 0
+            [taxes_paid_cents] => 
+            [paid_at] => 
+            [paid_cents] => 
+            [cc_emails] => 
+            [financial_return_date] => 
+            [payable_with] => credit_card
+            [overpaid_cents] => 
+            [ignore_due_email] => 
+            [ignore_canceled_email] => 
+            [advance_fee_cents] => 
+            [commission_cents] => 
+            [early_payment_discount] => 
+            [order_id] => 
+            [updated_at] => 2022-08-01T15:09:08-03:00
+            [credit_card_brand] => 
+            [credit_card_bin] => 
+            [credit_card_last_4] => 
+            [credit_card_captured_at] => 
+            [credit_card_tid] => 
+            [external_reference] => 2_3
+            [max_installments_value] => 
+            [payer_name] => Andrey Leocadio Ribeiro Camargo de França
+            [payer_email] => andreyleocadio@cakedigital.com.br
+            [payer_cpf_cnpj] => 08801663986
+            [payer_phone] => 996770938
+            [payer_phone_prefix] => 41
+            [payer_address_zip_code] => 82710-000
+            [payer_address_street] => Rua Theodoro Makiolka
+            [payer_address_district] => Barreirinha
+            [payer_address_city] => Curitiba
+            [payer_address_state] => PR
+            [payer_address_number] => 3560
+            [payer_address_complement] => 3560
+            [payer_address_country] => 
+            [late_payment_fine] => 0
+            [late_payment_fine_cents] => 
+            [split_id] => 9DBA9ABB94354B32966C6AF55140CF12
+            [account_id] => F614ED4626D54A38B10B13EA93BF5E27
+            [account_name] => Andrey Leocádio
+            [secure_id] => 875a192c-049c-4d23-9205-5153e6c5d7c9-1836
+            [secure_url] => https://faturas.iugu.com/875a192c-049c-4d23-9205-5153e6c5d7c9-1836
+            [customer_id] => 2FE6F4DB034647158B5ADB65B84D1889
+            [customer_ref] => Andrey Leocadio Ribeiro Camargo de França
+            [customer_name] => Andrey Leocadio Ribeiro Camargo de França
+            [user_id] => 
+            [total] => R$ 1.050,50
+            [taxes_paid] => R$ 0,00
+            [total_paid] => R$ 0,00
+            [total_overpaid] => R$ 0,00
+            [total_refunded] => R$ 0,00
+            [commission] => R$ 0,00
+            [fines_on_occurrence_day] => R$ 0,00
+            [total_on_occurrence_day] => R$ 0,00
+            [fines_on_occurrence_day_cents] => 0
+            [total_on_occurrence_day_cents] => 0
+            [refunded_cents] => 0
+            [remaining_captured_cents] => 0
+            [advance_fee] => 
+            [paid] => R$ 0,00
+            [original_payment_id] => 
+            [double_payment_id] => 
+            [per_day_interest] => 
+            [per_day_interest_value] => 
+            [interest] => 
+            [discount] => 
+            [duplicated_invoice_id] => 
+            [created_at] => 01/08, 15:09
+            [created_at_iso] => 2022-08-01T15:09:07-03:00
+            [authorized_at] => 
+            [authorized_at_iso] => 
+            [expired_at] => 
+            [expired_at_iso] => 
+            [refunded_at] => 
+            [refunded_at_iso] => 
+            [canceled_at] => 
+            [canceled_at_iso] => 
+            [protested_at] => 
+            [protested_at_iso] => 
+            [chargeback_at] => 
+            [chargeback_at_iso] => 
+            [occurrence_date] => 
+            [refundable] => 
+            [installments] => 
+            [transaction_number] => 1111
+            [payment_method] => 
+            [financial_return_dates] => 
+            [bank_slip] => 
+            [pix] => Array
+                (
+                    [qrcode] => 
+                    [qrcode_text] => 
+                    [status] => 
+                    [payer_cpf_cnpj] => 
+                    [payer_name] => 
+                    [end_to_end_id] => 
+                    [end_to_end_refund_id] => 
+                )
+
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => E273C1F7A85949FDB0092C5B77AEB179
+                            [description] => Bolinho bonito
+                            [price_cents] => 10505
+                            [quantity] => 10
+                            [created_at] => 2022-08-01T15:09:07-03:00
+                            [updated_at] => 2022-08-01T15:09:07-03:00
+                            [price] => R$ 105,05
+                        )
+
+                )
+
+            [early_payment_discounts] => Array
+                (
+                )
+
+            [split_rules] => Array
+                (
+                    [0] => Array
+                        (
+                            [bank_slip_cents] => 110
+                            [bank_slip_percent] => 
+                            [cents] => 
+                            [created_at] => 2022-08-01T15:09:08-03:00
+                            [credit_card_10x_cents] => 
+                            [credit_card_10x_percent] => 8.53
+                            [credit_card_11x_cents] => 
+                            [credit_card_11x_percent] => 8.93
+                            [credit_card_12x_cents] => 
+                            [credit_card_12x_percent] => 9.33
+                            [credit_card_1x_cents] => 
+                            [credit_card_1x_percent] => 0.93
+                            [credit_card_2x_cents] => 
+                            [credit_card_2x_percent] => 2.93
+                            [credit_card_3x_cents] => 
+                            [credit_card_3x_percent] => 3.93
+                            [credit_card_4x_cents] => 
+                            [credit_card_4x_percent] => 4.93
+                            [credit_card_5x_cents] => 
+                            [credit_card_5x_percent] => 5.93
+                            [credit_card_6x_cents] => 
+                            [credit_card_6x_percent] => 6.63
+                            [credit_card_7x_cents] => 
+                            [credit_card_7x_percent] => 6.83
+                            [credit_card_8x_cents] => 
+                            [credit_card_8x_percent] => 7.73
+                            [credit_card_9x_cents] => 
+                            [credit_card_9x_percent] => 8.13
+                            [credit_card_cents] => 
+                            [credit_card_percent] => 
+                            [id] => 6B1B02972F4C4603B15CD49A3E5A4A82
+                            [percent] => 0.93
+                            [permit_aggregated] => 
+                            [pix_cents] => 70
+                            [pix_percent] => 
+                            [recipient_account_id] => A562B3FF8DC4485F95A07DBEA2A4CE2A
+                            [split_id] => 9DBA9ABB94354B32966C6AF55140CF12
+                            [updated_at] => 2022-08-01T15:09:08-03:00
+                        )
+
+                )
+
+            [variables] => Array
+                (
+                    [0] => Array
+                        (
+                            [variable] => payer.address.city
+                            [value] => Curitiba
+                        )
+
+                    [1] => Array
+                        (
+                            [variable] => payer.address.city
+                            [value] => Curitiba
+                        )
+
+                    [2] => Array
+                        (
+                            [variable] => payer.address.complement
+                            [value] => 3560
+                        )
+
+                    [3] => Array
+                        (
+                            [variable] => payer.address.complement
+                            [value] => 3560
+                        )
+
+                    [4] => Array
+                        (
+                            [variable] => payer.address.district
+                            [value] => Barreirinha
+                        )
+
+                    [5] => Array
+                        (
+                            [variable] => payer.address.district
+                            [value] => Barreirinha
+                        )
+
+                    [6] => Array
+                        (
+                            [variable] => payer.address.number
+                            [value] => 3560
+                        )
+
+                    [7] => Array
+                        (
+                            [variable] => payer.address.number
+                            [value] => 3560
+                        )
+
+                    [8] => Array
+                        (
+                            [variable] => payer.address.state
+                            [value] => PR
+                        )
+
+                    [9] => Array
+                        (
+                            [variable] => payer.address.state
+                            [value] => PR
+                        )
+
+                    [10] => Array
+                        (
+                            [variable] => payer.address.street
+                            [value] => Rua Theodoro Makiolka
+                        )
+
+                    [11] => Array
+                        (
+                            [variable] => payer.address.street
+                            [value] => Rua Theodoro Makiolka
+                        )
+
+                    [12] => Array
+                        (
+                            [variable] => payer.address.zip_code
+                            [value] => 82710-000
+                        )
+
+                    [13] => Array
+                        (
+                            [variable] => payer.address.zip_code
+                            [value] => 82710-000
+                        )
+
+                    [14] => Array
+                        (
+                            [variable] => payer.cpf_cnpj
+                            [value] => 08801663986
+                        )
+
+                    [15] => Array
+                        (
+                            [variable] => payer.cpf_cnpj
+                            [value] => 08801663986
+                        )
+
+                    [16] => Array
+                        (
+                            [variable] => payer.email
+                            [value] => andreyleocadio@cakedigital.com.br
+                        )
+
+                    [17] => Array
+                        (
+                            [variable] => payer.email
+                            [value] => andreyleocadio@cakedigital.com.br
+                        )
+
+                    [18] => Array
+                        (
+                            [variable] => payer.name
+                            [value] => Andrey Leocadio Ribeiro Camargo de França
+                        )
+
+                    [19] => Array
+                        (
+                            [variable] => payer.name
+                            [value] => Andrey Leocadio Ribeiro Camargo de França
+                        )
+
+                    [20] => Array
+                        (
+                            [variable] => payer.phone
+                            [value] => 996770938
+                        )
+
+                    [21] => Array
+                        (
+                            [variable] => payer.phone
+                            [value] => 996770938
+                        )
+
+                    [22] => Array
+                        (
+                            [variable] => payer.phone_prefix
+                            [value] => 41
+                        )
+
+                    [23] => Array
+                        (
+                            [variable] => payer.phone_prefix
+                            [value] => 41
+                        )
+
+                )
+
+            [custom_variables] => Array
+                (
+                )
+
+            [logs] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 9B96605946C646C1B224981D7528898B
+                            [description] => Email de Lembrete enviado!
+                            [notes] => Lembrete enviado com sucesso para: andreyleocadio@cakedigital.com.br
+                            [created_at] => 01/08, 15:09
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => A0AE7385C43B4A4AA0007714FCBD0CB7
+                            [description] => Fatura criada com sucesso!
+                            [notes] => Fatura criada!
+                            [created_at] => 01/08, 15:09
+                        )
+
+                )
+
+            [credit_card_transaction] => 
+        )
+
+    [1] => Array
+        (
+            [message] => Autorizado
+            [errors] => Array
+                (
+                )
+
+            [status] => captured
+            [info_message] => Transação capturada
+            [reversible] => 
+            [token] => 000000000000000000000000000000000000001
+            [brand] => Visa
+            [bin] => 411111
+            [success] => 1
+            [url] => https://faturas.iugu.com/875a192c-049c-4d23-9205-5153e6c5d7c9-1836
+            [pdf] => https://faturas.iugu.com/875a192c-049c-4d23-9205-5153e6c5d7c9-1836.pdf
+            [identification] => 
+            [invoice_id] => 875A192C049C4D2392055153E6C5D7C9
+            [LR] => 00
+        )
+
+    [2] => Array
+        (
+            [email] => andreyleocadio@cakedigital.com.br
+            [desconto] => 0
+            [diasVencimento] => 1
+            [interUser] => 2FE6F4DB034647158B5ADB65B84D1889
+            [formaPagamento] => credit_card
+            [external_reference] => 2_3
+            [accessToken] => 9341B4F5070ADB7A92926434D2592726E372F3A89479AD4742DF1B8326A84A59
+            [notification_url] => http://localhost/salveadata/Checkout/retornoPagamento
+            [line_items] => Array
+                (
+                    [0] => Array
+                        (
+                            [description] => Bolinho bonito
+                            [quantity] => 10
+                            [price_cents] => 10505
+                        )
+
+                )
+
+        )
+
+)
+

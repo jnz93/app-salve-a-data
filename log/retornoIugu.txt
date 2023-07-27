@@ -1,0 +1,90 @@
+Array
+(
+    [0] => Array
+        (
+            [errors] => Array
+                (
+                    [base] => Array
+                        (
+                            [0] => Faturas pendentes necessitam de pelo menos um item
+                        )
+
+                    [total] => Array
+                        (
+                            [0] => deve ser maior que 1
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [errors] => Array
+                (
+                    [base] => Array
+                        (
+                            [0] => Faturas pendentes necessitam de pelo menos um item
+                        )
+
+                    [total] => Array
+                        (
+                            [0] => deve ser maior que 1
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [message] => Autorizado
+            [errors] => Array
+                (
+                )
+
+            [status] => captured
+            [info_message] => Transação capturada
+            [reversible] => 
+            [token] => 000000000000000000000000000000000000001
+            [brand] => Visa
+            [bin] => 411111
+            [success] => 1
+            [url] => https://faturas.iugu.com/0ac5b6b1-91bd-4aa6-bd18-3602d3d23d02-f4e2
+            [pdf] => https://faturas.iugu.com/0ac5b6b1-91bd-4aa6-bd18-3602d3d23d02-f4e2.pdf
+            [identification] => 
+            [invoice_id] => 0AC5B6B191BD4AA6BD183602D3D23D02
+            [LR] => 00
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [message] => Autorizado
+            [errors] => Array
+                (
+                )
+
+            [status] => captured
+            [info_message] => Transação capturada
+            [reversible] => 
+            [token] => 000000000000000000000000000000000000001
+            [brand] => Visa
+            [bin] => 411111
+            [success] => 1
+            [url] => https://faturas.iugu.com/13d645a3-29f9-410a-8f74-67012a38221c-2654
+            [pdf] => https://faturas.iugu.com/13d645a3-29f9-410a-8f74-67012a38221c-2654.pdf
+            [identification] => 
+            [invoice_id] => 13D645A329F9410A8F7467012A38221C
+            [LR] => 00
+        )
+
+)

@@ -1,0 +1,322 @@
+Array
+(
+    [data] => 08/09/2022 18:30
+    [dadosEnv] => Array
+        (
+            [nome] => Andrey Leocádio
+            [comissao] => Array
+                (
+                    [valor] => 0
+                    [porcentagem] => 0
+                    [credit_card_valor] => 0
+                    [credit_card_porcentagem] => 0
+                    [boleto_valor] => 0
+                    [boleto_porcentagem] => 0
+                    [pix_valor] => 0
+                    [pix_porcentagem] => 0
+                )
+
+        )
+
+    [retorno] => Array
+        (
+            [success] => 
+            [erro] => {"errors":"Apenas dispon\u00edvel para o ambiente produ\u00e7\u00e3o"}
+        )
+
+)
+
+Array
+(
+    [data] => 08/09/2022 18:31
+    [dadosEnv] => Array
+        (
+            [nome] => Andrey Leocádio
+            [comissao] => Array
+                (
+                    [valor] => 0
+                    [porcentagem] => 0
+                    [credit_card_valor] => 0
+                    [credit_card_porcentagem] => 0
+                    [boleto_valor] => 0
+                    [boleto_porcentagem] => 0
+                    [pix_valor] => 0
+                    [pix_porcentagem] => 0
+                )
+
+        )
+
+    [retorno] => Array
+        (
+            [success] => 
+            [erro] => {"errors":"Apenas dispon\u00edvel para o ambiente produ\u00e7\u00e3o"}
+        )
+
+)
+
+Array
+(
+    [data] => 08/09/2022 18:32
+    [dadosEnv] => Array
+        (
+            [nome] => Andrey Leocádio
+            [comissao] => Array
+                (
+                    [valor] => 0
+                    [porcentagem] => 0
+                    [credit_card_valor] => 0
+                    [credit_card_porcentagem] => 0
+                    [boleto_valor] => 0
+                    [boleto_porcentagem] => 0
+                    [pix_valor] => 0
+                    [pix_porcentagem] => 0
+                )
+
+        )
+
+    [retorno] => Array
+        (
+            [success] => 
+            [erro] => {"errors":"Apenas dispon\u00edvel para o ambiente produ\u00e7\u00e3o"}
+        )
+
+)
+
+Array
+(
+    [data] => 08/09/2022 18:32
+    [dadosEnv] => Array
+        (
+            [accessToken] => 
+            [id_conta] => 
+            [valor_maximo] => 
+            [produtos_fisicos] => nao
+            [descricao_negocio] => Teste teste teste teste teste teste testeTeste teste teste teste teste teste testeTeste teste teste teste teste teste teste
+            [fisica_juridica] => fisica
+            [saque_automatico] => 
+            [rua] => 
+            [cep] => 80740000
+            [cidade] => Curitiba
+            [bairro] => Curitiba
+            [estado] => PR
+            [telefone] => 41996770938
+            [banco] => Santander
+            [agencia] => 4417
+            [conta_tipo] => corrente
+            [conta_numero] => 01018077-8
+            [cpf_cnpj] => 
+            [nome] => Andrey Leocádio
+        )
+
+    [retorno] => Array
+        (
+            [success] => 
+            [erro] => {"errors":"Not Found"}
+        )
+
+)
+
+Array
+(
+    [data] => 08/09/2022 18:35
+    [dadosEnv] => Array
+        (
+            [accessToken] => 7788054879978EFFC7A37E9F022885DD3699D64394555E34826FF83C757EE9FF
+            [id_conta] => 
+            [valor_maximo] => 
+            [produtos_fisicos] => nao
+            [descricao_negocio] => Teste teste teste teste teste teste testeTeste teste teste teste teste teste testeTeste teste teste teste teste teste teste
+            [fisica_juridica] => fisica
+            [saque_automatico] => 
+            [rua] => 
+            [cep] => 80740000
+            [cidade] => Curitiba
+            [bairro] => Curitiba
+            [estado] => PR
+            [telefone] => 41996770938
+            [banco] => Santander
+            [agencia] => 4417
+            [conta_tipo] => corrente
+            [conta_numero] => 01018077-8
+            [cpf_cnpj] => 
+            [nome] => Andrey Leocádio
+        )
+
+    [retorno] => Array
+        (
+            [success] => 
+            [erro] => {"errors":"Not Found"}
+        )
+
+)
+
+Array
+(
+    [data] => 08/09/2022 18:37
+    [dadosEnv] => Array
+        (
+            [accessToken] => 7788054879978EFFC7A37E9F022885DD3699D64394555E34826FF83C757EE9FF
+            [id_conta] => 
+            [valor_maximo] => 
+            [produtos_fisicos] => nao
+            [descricao_negocio] => Teste teste teste teste teste teste testeTeste teste teste teste teste teste testeTeste teste teste teste teste teste teste
+            [fisica_juridica] => fisica
+            [saque_automatico] => 
+            [rua] => 
+            [cep] => 80740000
+            [cidade] => Curitiba
+            [bairro] => Curitiba
+            [estado] => PR
+            [telefone] => 41996770938
+            [banco] => Santander
+            [agencia] => 4417
+            [conta_tipo] => corrente
+            [conta_numero] => 01018077-8
+            [cpf_cnpj] => 
+            [nome] => Andrey Leocádio
+        )
+
+    [retorno] => Array
+        (
+            [success] => 
+            [erro] => {"errors":"Not Found"}
+        )
+
+)
+
+Array
+(
+    [data] => 08/09/2022 18:38
+    [dadosEnv] => Array
+        (
+            [accessToken] => 7788054879978EFFC7A37E9F022885DD3699D64394555E34826FF83C757EE9FF
+            [id_conta] => 
+            [valor_maximo] => 
+            [produtos_fisicos] => nao
+            [descricao_negocio] => Teste teste teste teste teste teste testeTeste teste teste teste teste teste testeTeste teste teste teste teste teste teste
+            [fisica_juridica] => fisica
+            [saque_automatico] => 
+            [rua] => 
+            [cep] => 80740000
+            [cidade] => Curitiba
+            [bairro] => Curitiba
+            [estado] => PR
+            [telefone] => 41996770938
+            [banco] => Santander
+            [agencia] => 4417
+            [conta_tipo] => corrente
+            [conta_numero] => 01018077-8
+            [cpf_cnpj] => 
+            [nome] => Andrey Leocádio
+        )
+
+    [retorno] => Array
+        (
+            [success] => 
+            [erro] => {"errors":"Not Found"}
+        )
+
+)
+
+Array
+(
+    [data] => 08/09/2022 18:39
+    [dadosEnv] => Array
+        (
+            [accessToken] => 7788054879978EFFC7A37E9F022885DD3699D64394555E34826FF83C757EE9FF
+            [id_conta] => 9322D6A56A8E46C8B29F8BD30F7E0C8D
+            [valor_maximo] => 
+            [produtos_fisicos] => nao
+            [descricao_negocio] => Teste teste teste teste teste teste testeTeste teste teste teste teste teste testeTeste teste teste teste teste teste teste
+            [fisica_juridica] => fisica
+            [saque_automatico] => 
+            [rua] => 
+            [cep] => 80740000
+            [cidade] => Curitiba
+            [bairro] => Curitiba
+            [estado] => PR
+            [telefone] => 41996770938
+            [banco] => Santander
+            [agencia] => 4417
+            [conta_tipo] => corrente
+            [conta_numero] => 01018077-8
+            [cpf_cnpj] => 
+            [nome] => Andrey Leocádio
+        )
+
+    [retorno] => Array
+        (
+            [success] => 
+            [erro] => {"errors":{"cpf":["\u00e9 obrigat\u00f3rio","n\u00e3o \u00e9 v\u00e1lido"],"address":["\u00e9 obrigat\u00f3rio"]}}
+        )
+
+)
+
+Array
+(
+    [data] => 08/09/2022 18:40
+    [dadosEnv] => Array
+        (
+            [accessToken] => 7788054879978EFFC7A37E9F022885DD3699D64394555E34826FF83C757EE9FF
+            [id_conta] => 9322D6A56A8E46C8B29F8BD30F7E0C8D
+            [valor_maximo] => 
+            [produtos_fisicos] => nao
+            [descricao_negocio] => Teste teste teste teste teste teste testeTeste teste teste teste teste teste testeTeste teste teste teste teste teste teste
+            [fisica_juridica] => fisica
+            [saque_automatico] => 
+            [rua] => 
+            [cep] => 80740000
+            [cidade] => Curitiba
+            [bairro] => Curitiba
+            [estado] => PR
+            [telefone] => 41996770938
+            [banco] => Santander
+            [agencia] => 4417
+            [conta_tipo] => corrente
+            [conta_numero] => 01018077-8
+            [cpf_cnpj] => 08801663986
+            [nome] => Andrey Leocádio
+        )
+
+    [retorno] => Array
+        (
+            [success] => 
+            [erro] => {"errors":{"address":["\u00e9 obrigat\u00f3rio"]}}
+        )
+
+)
+
+Array
+(
+    [data] => 08/09/2022 18:41
+    [dadosEnv] => Array
+        (
+            [accessToken] => 7788054879978EFFC7A37E9F022885DD3699D64394555E34826FF83C757EE9FF
+            [id_conta] => 9322D6A56A8E46C8B29F8BD30F7E0C8D
+            [valor_maximo] => 
+            [produtos_fisicos] => nao
+            [descricao_negocio] => Teste teste teste teste teste teste testeTeste teste teste teste teste teste testeTeste teste teste teste teste teste teste
+            [fisica_juridica] => fisica
+            [saque_automatico] => 
+            [rua] => 
+            [cep] => 80740000
+            [cidade] => Curitiba
+            [bairro] => Curitiba
+            [estado] => PR
+            [telefone] => 41996770938
+            [banco] => Santander
+            [agencia] => 4417
+            [conta_tipo] => corrente
+            [conta_numero] => 01018077-8
+            [cpf_cnpj] => 08801663986
+            [nome] => Andrey Leocádio
+        )
+
+    [retorno] => Array
+        (
+            [success] => 
+            [erro] => {"errors":{"address":["\u00e9 obrigat\u00f3rio"]}}
+        )
+
+)
+

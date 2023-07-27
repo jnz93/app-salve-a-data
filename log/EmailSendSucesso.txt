@@ -1,0 +1,97 @@
+CI_Email Object
+(
+    [useragent] => CodeIgniter
+    [mailpath] => /usr/sbin/sendmail
+    [protocol] => smtp
+    [smtp_host] => localhost
+    [smtp_user] => contato@salveadata.com.br
+    [smtp_pass] => F(pZ-xem_zDS
+    [smtp_port] => 587
+    [smtp_timeout] => 5
+    [smtp_keepalive] => 
+    [smtp_crypto] => 
+    [wordwrap] => 1
+    [wrapchars] => 76
+    [mailtype] => html
+    [charset] => UTF-8
+    [alt_message] => Você solicitou uma nova senha para acessar seu painel Salve a Data. Segue sua nova senha: 0excjt3f Acesse https://salveadata.com.br
+    [validate] => 1
+    [priority] => 3
+    [newline] => 
+
+    [crlf] => 
+
+    [dsn] => 
+    [send_multipart] => 1
+    [bcc_batch_mode] => 
+    [bcc_batch_size] => 200
+    [_safe_mode:protected] => 
+    [_subject:protected] => 
+    [_body:protected] => Você solicitou uma nova senha para acessar seu painel Salve a Data.</br> Segue sua nova senha: 0excjt3f</br></br> Acesse <a href='https://salveadata.com.br'>www.salveadata.com.br</a><img src='https://salveadata.com.br/Estatistica/imagemmail?qu=aGVsZW5pbmhhX2h6QGhvdG1haWwuY29t' border='0'>
+    [_finalbody:protected] => 
+    [_header_str:protected] => 
+    [_smtp_connect:protected] => 
+    [_encoding:protected] => 8bit
+    [_smtp_auth:protected] => 1
+    [_replyto_flag:protected] => 
+    [_debug_msg:protected] => Array
+        (
+            [0] => lang:email_invalid_address<br />
+        )
+
+    [_recipients:protected] => Array
+        (
+            [0] => heleninha_hz@hotmail.com
+        )
+
+    [_cc_array:protected] => Array
+        (
+        )
+
+    [_bcc_array:protected] => Array
+        (
+        )
+
+    [_headers:protected] => Array
+        (
+            [Date] => Thu, 18 May 2023 18:29:23 +0000
+            [To] => heleninha_hz@hotmail.com
+            [Subject] => =?UTF-8?Q?Salve=20a=20Data:=20Recupera=C3=A7=C3=A3o=20de=20senha?=
+            [From] =>  <Salve a Data>
+            [Return-Path] => <Salve a Data>
+            [X-Auto-Response-Suppress] => OOF, AutoReply
+        )
+
+    [_attachments:protected] => Array
+        (
+        )
+
+    [_protocols:protected] => Array
+        (
+            [0] => mail
+            [1] => sendmail
+            [2] => smtp
+        )
+
+    [_base_charsets:protected] => Array
+        (
+            [0] => us-ascii
+            [1] => iso-2022-
+        )
+
+    [_bit_depths:protected] => Array
+        (
+            [0] => 7bit
+            [1] => 8bit
+        )
+
+    [_priorities:protected] => Array
+        (
+            [1] => 1 (Highest)
+            [2] => 2 (High)
+            [3] => 3 (Normal)
+            [4] => 4 (Low)
+            [5] => 5 (Lowest)
+        )
+
+)

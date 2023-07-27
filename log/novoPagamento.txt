@@ -1,0 +1,162 @@
+Array
+(
+    [0] => Array
+        (
+            [email] => andreyleocadiodev@gmail.com
+            [discount_cents] => 0
+            [bank_slip_extra_days] => 3
+            [ignore_due_email] => 1
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [description] => Bolinho bonito
+                            [quantity] => 6
+                            [price_cents] => 10000
+                        )
+
+                )
+
+            [order_id] => 2
+            [notification_url] => 
+            [customer_id] => DE85F56A5F5841A08C15D617482BFBD9
+            [method] => bank_slip
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [email] => andreyleocadiodev@gmail.com
+            [discount_cents] => 0
+            [bank_slip_extra_days] => 3
+            [ignore_due_email] => 1
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [description] => Bolinho bonito
+                            [quantity] => 6
+                            [price_cents] => 10000
+                        )
+
+                )
+
+            [order_id] => 2
+            [notification_url] => 
+            [customer_id] => DE85F56A5F5841A08C15D617482BFBD9
+            [method] => bank_slip
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [email] => andreycake@cakedigital.com.br
+            [discount_cents] => 0
+            [bank_slip_extra_days] => 3
+            [ignore_due_email] => 1
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [description] => Bolinho bonito
+                            [quantity] => 6
+                            [price_cents] => 10000
+                        )
+
+                )
+
+            [order_id] => 2
+            [notification_url] => 
+            [customer_id] => 3E0B90B755D6411EBE4918DA0744ACBE
+            [method] => bank_slip
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [email] => andreycake@cakedigital.com.br
+            [discount_cents] => 0
+            [bank_slip_extra_days] => 3
+            [ignore_due_email] => 1
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [description] => Bolinho bonito
+                            [quantity] => 6
+                            [price_cents] => 10000
+                        )
+
+                )
+
+            [order_id] => 2
+            [notification_url] => 
+            [customer_id] => 3E0B90B755D6411EBE4918DA0744ACBE
+            [method] => bank_slip
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [email] => andreycake@cakedigital.com.br
+            [discount_cents] => 0
+            [bank_slip_extra_days] => 3
+            [ignore_due_email] => 1
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [description] => Bolinho bonito
+                            [quantity] => 6
+                            [price_cents] => 10000
+                        )
+
+                )
+
+            [order_id] => 21
+            [notification_url] => 
+            [customer_id] => 3E0B90B755D6411EBE4918DA0744ACBE
+            [method] => bank_slip
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [email] => andreycake@cakedigital.com.br
+            [discount_cents] => 0
+            [bank_slip_extra_days] => 3
+            [ignore_due_email] => 1
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [description] => Bolinho bonito
+                            [quantity] => 6
+                            [price_cents] => 10000
+                        )
+
+                )
+
+            [order_id] => 22
+            [notification_url] => 
+            [customer_id] => 3E0B90B755D6411EBE4918DA0744ACBE
+            [method] => bank_slip
+        )
+
+)
+

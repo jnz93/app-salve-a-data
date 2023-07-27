@@ -1,0 +1,714 @@
+Array
+(
+    [0] => Array
+        (
+            [email] => 
+            [due_date] => 2022-08-02
+            [customer_id] => DE85F56A5F5841A08C15D617482BFBD9
+            [payable_with] => credit_card
+            [discount_cents] => 0
+            [ignore_due_email] => 
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [description] => Bolinho bonito
+                            [quantity] => 10
+                            [price_cents] => 10384
+                        )
+
+                )
+
+            [external_reference] => 2_1
+            [order_id] => 
+            [notification_url] => http://localhost/salveadata/Checkout/retornoPagamento
+            [splits] => Array
+                (
+                    [0] => Array
+                        (
+                            [recipient_account_id] => 8022808D333F48418579DD33FDF696CF
+                            [percent] => 0.93
+                            [pix_cents] => 70
+                            [bank_slip_cents] => 110
+                            [credit_card_1x_percent] => 0.93
+                            [credit_card_2x_percent] => 2.93
+                            [credit_card_3x_percent] => 3.93
+                            [credit_card_4x_percent] => 4.93
+                            [credit_card_5x_percent] => 5.93
+                            [credit_card_6x_percent] => 6.63
+                            [credit_card_7x_percent] => 6.83
+                            [credit_card_8x_percent] => 7.73
+                            [credit_card_9x_percent] => 8.13
+                            [credit_card_10x_percent] => 8.53
+                            [credit_card_11x_percent] => 8.93
+                            [credit_card_12x_percent] => 9.33
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [email] => 
+            [due_date] => 2022-08-02
+            [customer_id] => DE85F56A5F5841A08C15D617482BFBD9
+            [payable_with] => credit_card
+            [discount_cents] => 0
+            [ignore_due_email] => 
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [description] => Bolinho bonito
+                            [quantity] => 10
+                            [price_cents] => 10384
+                        )
+
+                )
+
+            [external_reference] => 2_1
+            [order_id] => 
+            [notification_url] => http://localhost/salveadata/Checkout/retornoPagamento
+            [splits] => Array
+                (
+                    [0] => Array
+                        (
+                            [recipient_account_id] => 8022808D333F48418579DD33FDF696CF
+                            [percent] => 0.93
+                            [pix_cents] => 70
+                            [bank_slip_cents] => 110
+                            [credit_card_1x_percent] => 0.93
+                            [credit_card_2x_percent] => 2.93
+                            [credit_card_3x_percent] => 3.93
+                            [credit_card_4x_percent] => 4.93
+                            [credit_card_5x_percent] => 5.93
+                            [credit_card_6x_percent] => 6.63
+                            [credit_card_7x_percent] => 6.83
+                            [credit_card_8x_percent] => 7.73
+                            [credit_card_9x_percent] => 8.13
+                            [credit_card_10x_percent] => 8.53
+                            [credit_card_11x_percent] => 8.93
+                            [credit_card_12x_percent] => 9.33
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [email] => 
+            [due_date] => 2022-08-02
+            [customer_id] => DE85F56A5F5841A08C15D617482BFBD9
+            [payable_with] => credit_card
+            [discount_cents] => 0
+            [ignore_due_email] => 
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [description] => Bolinho bonito
+                            [quantity] => 10
+                            [price_cents] => 10384
+                        )
+
+                )
+
+            [external_reference] => 2_1
+            [order_id] => 
+            [notification_url] => http://localhost/salveadata/Checkout/retornoPagamento
+            [splits] => Array
+                (
+                    [0] => Array
+                        (
+                            [recipient_account_id] => 8022808D333F48418579DD33FDF696CF
+                            [percent] => 0.93
+                            [pix_cents] => 70
+                            [bank_slip_cents] => 110
+                            [credit_card_1x_percent] => 0.93
+                            [credit_card_2x_percent] => 2.93
+                            [credit_card_3x_percent] => 3.93
+                            [credit_card_4x_percent] => 4.93
+                            [credit_card_5x_percent] => 5.93
+                            [credit_card_6x_percent] => 6.63
+                            [credit_card_7x_percent] => 6.83
+                            [credit_card_8x_percent] => 7.73
+                            [credit_card_9x_percent] => 8.13
+                            [credit_card_10x_percent] => 8.53
+                            [credit_card_11x_percent] => 8.93
+                            [credit_card_12x_percent] => 9.33
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [email] => 
+            [due_date] => 2022-08-02
+            [customer_id] => 58A1FD4968094489B828EC93FB0C2A22
+            [payable_with] => credit_card
+            [discount_cents] => 0
+            [ignore_due_email] => 
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [description] => Bolinho bonito
+                            [quantity] => 10
+                            [price_cents] => 10384
+                        )
+
+                )
+
+            [external_reference] => 2_2
+            [order_id] => 
+            [notification_url] => http://localhost/salveadata/Checkout/retornoPagamento
+            [splits] => Array
+                (
+                    [0] => Array
+                        (
+                            [recipient_account_id] => 8022808D333F48418579DD33FDF696CF
+                            [percent] => 0.93
+                            [pix_cents] => 70
+                            [bank_slip_cents] => 110
+                            [credit_card_1x_percent] => 0.93
+                            [credit_card_2x_percent] => 2.93
+                            [credit_card_3x_percent] => 3.93
+                            [credit_card_4x_percent] => 4.93
+                            [credit_card_5x_percent] => 5.93
+                            [credit_card_6x_percent] => 6.63
+                            [credit_card_7x_percent] => 6.83
+                            [credit_card_8x_percent] => 7.73
+                            [credit_card_9x_percent] => 8.13
+                            [credit_card_10x_percent] => 8.53
+                            [credit_card_11x_percent] => 8.93
+                            [credit_card_12x_percent] => 9.33
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [email] => andrey@cakedigital.com.br
+            [due_date] => 2022-08-02
+            [customer_id] => 58A1FD4968094489B828EC93FB0C2A22
+            [payable_with] => credit_card
+            [discount_cents] => 0
+            [ignore_due_email] => 
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [description] => Bolinho bonito
+                            [quantity] => 10
+                            [price_cents] => 10384
+                        )
+
+                )
+
+            [external_reference] => 2_2
+            [order_id] => 
+            [notification_url] => http://localhost/salveadata/Checkout/retornoPagamento
+            [splits] => Array
+                (
+                    [0] => Array
+                        (
+                            [recipient_account_id] => 8022808D333F48418579DD33FDF696CF
+                            [percent] => 0.93
+                            [pix_cents] => 70
+                            [bank_slip_cents] => 110
+                            [credit_card_1x_percent] => 0.93
+                            [credit_card_2x_percent] => 2.93
+                            [credit_card_3x_percent] => 3.93
+                            [credit_card_4x_percent] => 4.93
+                            [credit_card_5x_percent] => 5.93
+                            [credit_card_6x_percent] => 6.63
+                            [credit_card_7x_percent] => 6.83
+                            [credit_card_8x_percent] => 7.73
+                            [credit_card_9x_percent] => 8.13
+                            [credit_card_10x_percent] => 8.53
+                            [credit_card_11x_percent] => 8.93
+                            [credit_card_12x_percent] => 9.33
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [email] => andrey@cakedigital.com.br
+            [due_date] => 2022-08-02
+            [customer_id] => 58A1FD4968094489B828EC93FB0C2A22
+            [payable_with] => credit_card
+            [discount_cents] => 0
+            [ignore_due_email] => 
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [description] => Bolinho bonito
+                            [quantity] => 10
+                            [price_cents] => 10384
+                        )
+
+                )
+
+            [external_reference] => 2_2
+            [order_id] => 
+            [notification_url] => http://localhost/salveadata/Checkout/retornoPagamento
+            [splits] => Array
+                (
+                    [0] => Array
+                        (
+                            [recipient_account_id] => A562B3FF8DC4485F95A07DBEA2A4CE2A
+                            [percent] => 0.93
+                            [pix_cents] => 70
+                            [bank_slip_cents] => 110
+                            [credit_card_1x_percent] => 0.93
+                            [credit_card_2x_percent] => 2.93
+                            [credit_card_3x_percent] => 3.93
+                            [credit_card_4x_percent] => 4.93
+                            [credit_card_5x_percent] => 5.93
+                            [credit_card_6x_percent] => 6.63
+                            [credit_card_7x_percent] => 6.83
+                            [credit_card_8x_percent] => 7.73
+                            [credit_card_9x_percent] => 8.13
+                            [credit_card_10x_percent] => 8.53
+                            [credit_card_11x_percent] => 8.93
+                            [credit_card_12x_percent] => 9.33
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [email] => andreyleocadio@cakedigital.com.br
+            [due_date] => 2022-08-02
+            [customer_id] => 2FE6F4DB034647158B5ADB65B84D1889
+            [payable_with] => credit_card
+            [discount_cents] => 0
+            [ignore_due_email] => 
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [description] => Bolinho bonito
+                            [quantity] => 10
+                            [price_cents] => 10384
+                        )
+
+                )
+
+            [external_reference] => 2_3
+            [order_id] => 
+            [notification_url] => http://localhost/salveadata/Checkout/retornoPagamento
+            [splits] => Array
+                (
+                    [0] => Array
+                        (
+                            [recipient_account_id] => A562B3FF8DC4485F95A07DBEA2A4CE2A
+                            [percent] => 0.93
+                            [pix_cents] => 70
+                            [bank_slip_cents] => 110
+                            [credit_card_1x_percent] => 0.93
+                            [credit_card_2x_percent] => 2.93
+                            [credit_card_3x_percent] => 3.93
+                            [credit_card_4x_percent] => 4.93
+                            [credit_card_5x_percent] => 5.93
+                            [credit_card_6x_percent] => 6.63
+                            [credit_card_7x_percent] => 6.83
+                            [credit_card_8x_percent] => 7.73
+                            [credit_card_9x_percent] => 8.13
+                            [credit_card_10x_percent] => 8.53
+                            [credit_card_11x_percent] => 8.93
+                            [credit_card_12x_percent] => 9.33
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [email] => andreyleocadio@cakedigital.com.br
+            [due_date] => 2022-08-02
+            [customer_id] => 2FE6F4DB034647158B5ADB65B84D1889
+            [payable_with] => credit_card
+            [discount_cents] => 0
+            [ignore_due_email] => 
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [description] => Bolinho bonito
+                            [quantity] => 10
+                            [price_cents] => 10505
+                        )
+
+                )
+
+            [external_reference] => 2_3
+            [order_id] => 
+            [notification_url] => http://localhost/salveadata/Checkout/retornoPagamento
+            [splits] => Array
+                (
+                    [0] => Array
+                        (
+                            [recipient_account_id] => A562B3FF8DC4485F95A07DBEA2A4CE2A
+                            [percent] => 0.93
+                            [pix_cents] => 70
+                            [bank_slip_cents] => 110
+                            [credit_card_1x_percent] => 0.93
+                            [credit_card_2x_percent] => 2.93
+                            [credit_card_3x_percent] => 3.93
+                            [credit_card_4x_percent] => 4.93
+                            [credit_card_5x_percent] => 5.93
+                            [credit_card_6x_percent] => 6.63
+                            [credit_card_7x_percent] => 6.83
+                            [credit_card_8x_percent] => 7.73
+                            [credit_card_9x_percent] => 8.13
+                            [credit_card_10x_percent] => 8.53
+                            [credit_card_11x_percent] => 8.93
+                            [credit_card_12x_percent] => 9.33
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [email] => andreyleocadio@cakedigital.com.br
+            [due_date] => 2022-08-02
+            [customer_id] => 2FE6F4DB034647158B5ADB65B84D1889
+            [payable_with] => credit_card
+            [discount_cents] => 0
+            [ignore_due_email] => 
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [description] => Bolinho bonito
+                            [quantity] => 10
+                            [price_cents] => 10505
+                        )
+
+                )
+
+            [external_reference] => 2_3
+            [order_id] => 
+            [notification_url] => http://localhost/salveadata/Checkout/retornoPagamento
+            [splits] => Array
+                (
+                    [0] => Array
+                        (
+                            [recipient_account_id] => A562B3FF8DC4485F95A07DBEA2A4CE2A
+                            [percent] => 0.93
+                            [pix_cents] => 70
+                            [bank_slip_cents] => 110
+                            [credit_card_1x_percent] => 0.93
+                            [credit_card_2x_percent] => 2.93
+                            [credit_card_3x_percent] => 3.93
+                            [credit_card_4x_percent] => 4.93
+                            [credit_card_5x_percent] => 5.93
+                            [credit_card_6x_percent] => 6.63
+                            [credit_card_7x_percent] => 6.83
+                            [credit_card_8x_percent] => 7.73
+                            [credit_card_9x_percent] => 8.13
+                            [credit_card_10x_percent] => 8.53
+                            [credit_card_11x_percent] => 8.93
+                            [credit_card_12x_percent] => 9.33
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [email] => andreyleocadio@cakedigital.com.br
+            [due_date] => 2022-08-02
+            [customer_id] => 2FE6F4DB034647158B5ADB65B84D1889
+            [payable_with] => credit_card
+            [discount_cents] => 0
+            [ignore_due_email] => 
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [description] => Bolinho bonito
+                            [quantity] => 10
+                            [price_cents] => 10505
+                        )
+
+                )
+
+            [external_reference] => 2_3
+            [order_id] => 
+            [notification_url] => http://localhost/salveadata/Checkout/retornoPagamento
+            [splits] => Array
+                (
+                    [0] => Array
+                        (
+                            [recipient_account_id] => A562B3FF8DC4485F95A07DBEA2A4CE2A
+                            [percent] => 0.93
+                            [pix_cents] => 70
+                            [bank_slip_cents] => 110
+                            [credit_card_1x_percent] => 0.93
+                            [credit_card_2x_percent] => 2.93
+                            [credit_card_3x_percent] => 3.93
+                            [credit_card_4x_percent] => 4.93
+                            [credit_card_5x_percent] => 5.93
+                            [credit_card_6x_percent] => 6.63
+                            [credit_card_7x_percent] => 6.83
+                            [credit_card_8x_percent] => 7.73
+                            [credit_card_9x_percent] => 8.13
+                            [credit_card_10x_percent] => 8.53
+                            [credit_card_11x_percent] => 8.93
+                            [credit_card_12x_percent] => 9.33
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [email] => andreyleocadio@cakedigital.com.br
+            [due_date] => 2022-08-02
+            [customer_id] => 2FE6F4DB034647158B5ADB65B84D1889
+            [payable_with] => credit_card
+            [discount_cents] => 0
+            [ignore_due_email] => 
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [description] => Bolinho bonito
+                            [quantity] => 10
+                            [price_cents] => 10505
+                        )
+
+                )
+
+            [external_reference] => 2_3
+            [order_id] => 
+            [notification_url] => http://localhost/salveadata/Checkout/retornoPagamento
+            [splits] => Array
+                (
+                    [0] => Array
+                        (
+                            [recipient_account_id] => A562B3FF8DC4485F95A07DBEA2A4CE2A
+                            [percent] => 0.93
+                            [pix_cents] => 70
+                            [bank_slip_cents] => 110
+                            [credit_card_1x_percent] => 0.93
+                            [credit_card_2x_percent] => 2.93
+                            [credit_card_3x_percent] => 3.93
+                            [credit_card_4x_percent] => 4.93
+                            [credit_card_5x_percent] => 5.93
+                            [credit_card_6x_percent] => 6.63
+                            [credit_card_7x_percent] => 6.83
+                            [credit_card_8x_percent] => 7.73
+                            [credit_card_9x_percent] => 8.13
+                            [credit_card_10x_percent] => 8.53
+                            [credit_card_11x_percent] => 8.93
+                            [credit_card_12x_percent] => 9.33
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [email] => andreyleocadio@cakedigital.com.br
+            [due_date] => 2022-08-02
+            [customer_id] => 2FE6F4DB034647158B5ADB65B84D1889
+            [payable_with] => credit_card
+            [discount_cents] => 0
+            [ignore_due_email] => 
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [description] => Bolinho bonito
+                            [quantity] => 10
+                            [price_cents] => 10505
+                        )
+
+                )
+
+            [external_reference] => 2_3
+            [order_id] => 
+            [notification_url] => http://localhost/salveadata/Checkout/retornoPagamento
+            [splits] => Array
+                (
+                    [0] => Array
+                        (
+                            [recipient_account_id] => A562B3FF8DC4485F95A07DBEA2A4CE2A
+                            [percent] => 0.93
+                            [pix_cents] => 70
+                            [bank_slip_cents] => 110
+                            [credit_card_1x_percent] => 0.93
+                            [credit_card_2x_percent] => 2.93
+                            [credit_card_3x_percent] => 3.93
+                            [credit_card_4x_percent] => 4.93
+                            [credit_card_5x_percent] => 5.93
+                            [credit_card_6x_percent] => 6.63
+                            [credit_card_7x_percent] => 6.83
+                            [credit_card_8x_percent] => 7.73
+                            [credit_card_9x_percent] => 8.13
+                            [credit_card_10x_percent] => 8.53
+                            [credit_card_11x_percent] => 8.93
+                            [credit_card_12x_percent] => 9.33
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [email] => andreyleocadio@cakedigital.com.br
+            [due_date] => 2022-08-02
+            [customer_id] => 2FE6F4DB034647158B5ADB65B84D1889
+            [payable_with] => credit_card
+            [discount_cents] => 0
+            [ignore_due_email] => 
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [description] => Bolinho bonito
+                            [quantity] => 10
+                            [price_cents] => 10505
+                        )
+
+                )
+
+            [external_reference] => 2_3
+            [order_id] => 
+            [notification_url] => http://localhost/salveadata/Checkout/retornoPagamento
+            [splits] => Array
+                (
+                    [0] => Array
+                        (
+                            [recipient_account_id] => A562B3FF8DC4485F95A07DBEA2A4CE2A
+                            [percent] => 0.93
+                            [pix_cents] => 70
+                            [bank_slip_cents] => 110
+                            [credit_card_1x_percent] => 0.93
+                            [credit_card_2x_percent] => 2.93
+                            [credit_card_3x_percent] => 3.93
+                            [credit_card_4x_percent] => 4.93
+                            [credit_card_5x_percent] => 5.93
+                            [credit_card_6x_percent] => 6.63
+                            [credit_card_7x_percent] => 6.83
+                            [credit_card_8x_percent] => 7.73
+                            [credit_card_9x_percent] => 8.13
+                            [credit_card_10x_percent] => 8.53
+                            [credit_card_11x_percent] => 8.93
+                            [credit_card_12x_percent] => 9.33
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [email] => andreyleocadio@cakedigital.com.br
+            [due_date] => 2022-08-02
+            [customer_id] => 2FE6F4DB034647158B5ADB65B84D1889
+            [payable_with] => credit_card
+            [discount_cents] => 0
+            [ignore_due_email] => 
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [description] => Bolinho bonito
+                            [quantity] => 10
+                            [price_cents] => 10505
+                        )
+
+                )
+
+            [external_reference] => 2_3
+            [order_id] => 
+            [notification_url] => http://localhost/salveadata/Checkout/retornoPagamento
+            [splits] => Array
+                (
+                    [0] => Array
+                        (
+                            [recipient_account_id] => A562B3FF8DC4485F95A07DBEA2A4CE2A
+                            [percent] => 0.93
+                            [pix_cents] => 70
+                            [bank_slip_cents] => 110
+                            [credit_card_1x_percent] => 0.93
+                            [credit_card_2x_percent] => 2.93
+                            [credit_card_3x_percent] => 3.93
+                            [credit_card_4x_percent] => 4.93
+                            [credit_card_5x_percent] => 5.93
+                            [credit_card_6x_percent] => 6.63
+                            [credit_card_7x_percent] => 6.83
+                            [credit_card_8x_percent] => 7.73
+                            [credit_card_9x_percent] => 8.13
+                            [credit_card_10x_percent] => 8.53
+                            [credit_card_11x_percent] => 8.93
+                            [credit_card_12x_percent] => 9.33
+                        )
+
+                )
+
+        )
+
+)

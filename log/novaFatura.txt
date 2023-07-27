@@ -1,0 +1,1683 @@
+Array
+(
+    [0] => Array
+        (
+            [errors] => Array
+                (
+                    [items.description] => Array
+                        (
+                            [0] => não pode ficar em branco
+                        )
+
+                    [total] => Array
+                        (
+                            [0] => deve ser maior que 1
+                        )
+
+                    [payer.cpf_cnpj] => Array
+                        (
+                            [0] => não pode ficar em branco
+                        )
+
+                    [payer.name] => Array
+                        (
+                            [0] => não pode ficar em branco
+                        )
+
+                    [payer.address.zip_code] => Array
+                        (
+                            [0] => não pode ficar em branco
+                            [1] => não é válido
+                        )
+
+                    [payer.address.number] => Array
+                        (
+                            [0] => não pode ficar em branco
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [errors] => Array
+                (
+                    [payer.cpf_cnpj] => Array
+                        (
+                            [0] => não pode ficar em branco
+                        )
+
+                    [payer.name] => Array
+                        (
+                            [0] => não pode ficar em branco
+                        )
+
+                    [payer.address.zip_code] => Array
+                        (
+                            [0] => não pode ficar em branco
+                            [1] => não é válido
+                        )
+
+                    [payer.address.number] => Array
+                        (
+                            [0] => não pode ficar em branco
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id] => A635C97CE7994A629597BB38FAAFFB20
+            [due_date] => 2022-09-18
+            [currency] => BRL
+            [discount_cents] => 0
+            [email] => andrey@teste.com.br
+            [items_total_cents] => 7900
+            [notification_url] => http://localhost/salveadata/Pagamentos/retornoPagamento
+            [return_url] => 
+            [status] => pending
+            [tax_cents] => 
+            [total_cents] => 7900
+            [total_paid_cents] => 0
+            [taxes_paid_cents] => 
+            [paid_at] => 
+            [paid_cents] => 
+            [cc_emails] => 
+            [financial_return_date] => 
+            [payable_with] => bank_slip
+            [overpaid_cents] => 
+            [ignore_due_email] => 
+            [ignore_canceled_email] => 
+            [advance_fee_cents] => 
+            [commission_cents] => 
+            [early_payment_discount] => 
+            [order_id] => 
+            [updated_at] => 2022-09-17T18:45:35-03:00
+            [credit_card_brand] => 
+            [credit_card_bin] => 
+            [credit_card_last_4] => 
+            [credit_card_captured_at] => 
+            [credit_card_tid] => 
+            [external_reference] => 4_1
+            [max_installments_value] => 
+            [payer_name] => Andrey Leocadio Ribeiro Camargo de França
+            [payer_email] => andrey@teste.com.br
+            [payer_cpf_cnpj] => 08801663986
+            [payer_phone] => 996770938
+            [payer_phone_prefix] => 41
+            [payer_address_zip_code] => 82710-000
+            [payer_address_street] => Rua Theodoro Makiolka
+            [payer_address_district] => Barreirinha
+            [payer_address_city] => Curitiba
+            [payer_address_state] => PR
+            [payer_address_number] => 3560
+            [payer_address_complement] => 3560
+            [payer_address_country] => 
+            [late_payment_fine] => 0
+            [late_payment_fine_cents] => 
+            [split_id] => 
+            [account_id] => A562B3FF8DC4485F95A07DBEA2A4CE2A
+            [account_name] => SAVE THE DATE
+            [secure_id] => a635c97c-e799-4a62-9597-bb38faaffb20-d1aa
+            [secure_url] => https://faturas.iugu.com/a635c97c-e799-4a62-9597-bb38faaffb20-d1aa
+            [customer_id] => D224DF1CB7A743B7B08747990B6FBC08
+            [customer_ref] => Andrey Leocadio Ribeiro Camargo de França
+            [customer_name] => Andrey Leocadio Ribeiro Camargo de França
+            [user_id] => 
+            [total] => R$ 79,00
+            [taxes_paid] => R$ 0,00
+            [total_paid] => R$ 0,00
+            [total_overpaid] => R$ 0,00
+            [total_refunded] => R$ 0,00
+            [commission] => R$ 0,00
+            [fines_on_occurrence_day] => R$ 0,00
+            [total_on_occurrence_day] => R$ 0,00
+            [fines_on_occurrence_day_cents] => 0
+            [total_on_occurrence_day_cents] => 0
+            [refunded_cents] => 0
+            [remaining_captured_cents] => 0
+            [advance_fee] => 
+            [paid] => R$ 0,00
+            [original_payment_id] => 
+            [double_payment_id] => 
+            [per_day_interest] => 
+            [per_day_interest_value] => 
+            [interest] => 
+            [discount] => 
+            [duplicated_invoice_id] => 
+            [created_at] => 17/09, 18:45
+            [created_at_iso] => 2022-09-17T18:45:35-03:00
+            [authorized_at] => 
+            [authorized_at_iso] => 
+            [expired_at] => 
+            [expired_at_iso] => 
+            [refunded_at] => 
+            [refunded_at_iso] => 
+            [canceled_at] => 
+            [canceled_at_iso] => 
+            [protested_at] => 
+            [protested_at_iso] => 
+            [chargeback_at] => 
+            [chargeback_at_iso] => 
+            [occurrence_date] => 
+            [refundable] => 
+            [installments] => 
+            [transaction_number] => 1111
+            [payment_method] => 
+            [financial_return_dates] => 
+            [bank_slip] => Array
+                (
+                    [digitable_line] => 00000000000000000000000000000000000000000000000
+                    [barcode_data] => 00000000000000000000000000000000000000000000
+                    [barcode] => https://api.iugu.com/v1/public/invoice/a635c97c-e799-4a62-9597-bb38faaffb20-d1aa/barcode
+                    [bank_slip_bank] => 237
+                    [bank_slip_status] => pending
+                    [bank_slip_error_code] => 
+                    [bank_slip_error_message] => 
+                )
+
+            [pix] => Array
+                (
+                    [qrcode] => 
+                    [qrcode_text] => 
+                    [status] => 
+                    [payer_cpf_cnpj] => 
+                    [payer_name] => 
+                    [end_to_end_id] => 
+                    [end_to_end_refund_id] => 
+                )
+
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => FF7497E5633447D69519FB401DCCE816
+                            [description] => Tenha acesso a experiência Básico do Salve a Data
+                            [price_cents] => 7900
+                            [quantity] => 1
+                            [created_at] => 2022-09-17T18:45:35-03:00
+                            [updated_at] => 2022-09-17T18:45:35-03:00
+                            [price] => R$ 79,00
+                        )
+
+                )
+
+            [early_payment_discounts] => Array
+                (
+                )
+
+            [split_rules] => 
+            [variables] => Array
+                (
+                    [0] => Array
+                        (
+                            [variable] => payer.address.city
+                            [value] => Curitiba
+                        )
+
+                    [1] => Array
+                        (
+                            [variable] => payer.address.city
+                            [value] => Curitiba
+                        )
+
+                    [2] => Array
+                        (
+                            [variable] => payer.address.complement
+                            [value] => 3560
+                        )
+
+                    [3] => Array
+                        (
+                            [variable] => payer.address.complement
+                            [value] => 3560
+                        )
+
+                    [4] => Array
+                        (
+                            [variable] => payer.address.district
+                            [value] => Barreirinha
+                        )
+
+                    [5] => Array
+                        (
+                            [variable] => payer.address.district
+                            [value] => Barreirinha
+                        )
+
+                    [6] => Array
+                        (
+                            [variable] => payer.address.number
+                            [value] => 3560
+                        )
+
+                    [7] => Array
+                        (
+                            [variable] => payer.address.number
+                            [value] => 3560
+                        )
+
+                    [8] => Array
+                        (
+                            [variable] => payer.address.state
+                            [value] => PR
+                        )
+
+                    [9] => Array
+                        (
+                            [variable] => payer.address.state
+                            [value] => PR
+                        )
+
+                    [10] => Array
+                        (
+                            [variable] => payer.address.street
+                            [value] => Rua Theodoro Makiolka
+                        )
+
+                    [11] => Array
+                        (
+                            [variable] => payer.address.street
+                            [value] => Rua Theodoro Makiolka
+                        )
+
+                    [12] => Array
+                        (
+                            [variable] => payer.address.zip_code
+                            [value] => 82710-000
+                        )
+
+                    [13] => Array
+                        (
+                            [variable] => payer.address.zip_code
+                            [value] => 82710-000
+                        )
+
+                    [14] => Array
+                        (
+                            [variable] => payer.cpf_cnpj
+                            [value] => 08801663986
+                        )
+
+                    [15] => Array
+                        (
+                            [variable] => payer.cpf_cnpj
+                            [value] => 08801663986
+                        )
+
+                    [16] => Array
+                        (
+                            [variable] => payer.email
+                            [value] => andrey@teste.com.br
+                        )
+
+                    [17] => Array
+                        (
+                            [variable] => payer.email
+                            [value] => andrey@teste.com.br
+                        )
+
+                    [18] => Array
+                        (
+                            [variable] => payer.name
+                            [value] => Andrey Leocadio Ribeiro Camargo de França
+                        )
+
+                    [19] => Array
+                        (
+                            [variable] => payer.name
+                            [value] => Andrey Leocadio Ribeiro Camargo de França
+                        )
+
+                    [20] => Array
+                        (
+                            [variable] => payer.phone
+                            [value] => 996770938
+                        )
+
+                    [21] => Array
+                        (
+                            [variable] => payer.phone
+                            [value] => 996770938
+                        )
+
+                    [22] => Array
+                        (
+                            [variable] => payer.phone_prefix
+                            [value] => 41
+                        )
+
+                    [23] => Array
+                        (
+                            [variable] => payer.phone_prefix
+                            [value] => 41
+                        )
+
+                    [24] => Array
+                        (
+                            [variable] => payment_data.transaction_number
+                            [value] => 1111
+                        )
+
+                    [25] => Array
+                        (
+                            [variable] => payment_data.transaction_number
+                            [value] => 1111
+                        )
+
+                )
+
+            [custom_variables] => Array
+                (
+                )
+
+            [logs] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 9842C385C4A949E1AA20C2501C357147
+                            [description] => Email de Lembrete enviado!
+                            [notes] => Lembrete enviado com sucesso para: andrey@teste.com.br
+                            [created_at] => 17/09, 18:45
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => E63DFC5261AC4DC086E6F9F8D8BB1A65
+                            [description] => Fatura criada com sucesso!
+                            [notes] => Fatura criada!
+                            [created_at] => 17/09, 18:45
+                        )
+
+                )
+
+            [credit_card_transaction] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [errors] => Array
+                (
+                    [customer] => Array
+                        (
+                            [0] => Customer não vinculado a conta
+                        )
+
+                    [payable_with] => Array
+                        (
+                            [0] => não é válido
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [errors] => Array
+                (
+                    [payable_with] => Array
+                        (
+                            [0] => não é válido
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id] => F9B52B4AC75F459EA177D3B9F0BFA578
+            [due_date] => 2022-09-18
+            [currency] => BRL
+            [discount_cents] => 0
+            [email] => andrey@teste.com.br
+            [items_total_cents] => 7900
+            [notification_url] => http://localhost/salveadata/Pagamentos/retornoPagamento
+            [return_url] => 
+            [status] => pending
+            [tax_cents] => 
+            [total_cents] => 7900
+            [total_paid_cents] => 0
+            [taxes_paid_cents] => 
+            [paid_at] => 
+            [paid_cents] => 
+            [cc_emails] => 
+            [financial_return_date] => 
+            [payable_with] => pix
+            [overpaid_cents] => 
+            [ignore_due_email] => 
+            [ignore_canceled_email] => 
+            [advance_fee_cents] => 
+            [commission_cents] => 
+            [early_payment_discount] => 
+            [order_id] => 
+            [updated_at] => 2022-09-17T18:50:47-03:00
+            [credit_card_brand] => 
+            [credit_card_bin] => 
+            [credit_card_last_4] => 
+            [credit_card_captured_at] => 
+            [credit_card_tid] => 
+            [external_reference] => 4_1
+            [max_installments_value] => 
+            [payer_name] => Andrey Leocadio Ribeiro Camargo de França
+            [payer_email] => andrey@teste.com.br
+            [payer_cpf_cnpj] => 08801663986
+            [payer_phone] => 996770938
+            [payer_phone_prefix] => 41
+            [payer_address_zip_code] => 82710-000
+            [payer_address_street] => Rua Theodoro Makiolka
+            [payer_address_district] => Barreirinha
+            [payer_address_city] => Curitiba
+            [payer_address_state] => PR
+            [payer_address_number] => 3560
+            [payer_address_complement] => 3560
+            [payer_address_country] => 
+            [late_payment_fine] => 0
+            [late_payment_fine_cents] => 
+            [split_id] => 
+            [account_id] => A562B3FF8DC4485F95A07DBEA2A4CE2A
+            [account_name] => SAVE THE DATE
+            [secure_id] => f9b52b4a-c75f-459e-a177-d3b9f0bfa578-3b8c
+            [secure_url] => https://faturas.iugu.com/f9b52b4a-c75f-459e-a177-d3b9f0bfa578-3b8c
+            [customer_id] => D224DF1CB7A743B7B08747990B6FBC08
+            [customer_ref] => Andrey Leocadio Ribeiro Camargo de França
+            [customer_name] => Andrey Leocadio Ribeiro Camargo de França
+            [user_id] => 
+            [total] => R$ 79,00
+            [taxes_paid] => R$ 0,00
+            [total_paid] => R$ 0,00
+            [total_overpaid] => R$ 0,00
+            [total_refunded] => R$ 0,00
+            [commission] => R$ 0,00
+            [fines_on_occurrence_day] => R$ 0,00
+            [total_on_occurrence_day] => R$ 0,00
+            [fines_on_occurrence_day_cents] => 0
+            [total_on_occurrence_day_cents] => 0
+            [refunded_cents] => 0
+            [remaining_captured_cents] => 0
+            [advance_fee] => 
+            [paid] => R$ 0,00
+            [original_payment_id] => 
+            [double_payment_id] => 
+            [per_day_interest] => 
+            [per_day_interest_value] => 
+            [interest] => 
+            [discount] => 
+            [duplicated_invoice_id] => 
+            [created_at] => 17/09, 18:50
+            [created_at_iso] => 2022-09-17T18:50:47-03:00
+            [authorized_at] => 
+            [authorized_at_iso] => 
+            [expired_at] => 
+            [expired_at_iso] => 
+            [refunded_at] => 
+            [refunded_at_iso] => 
+            [canceled_at] => 
+            [canceled_at_iso] => 
+            [protested_at] => 
+            [protested_at_iso] => 
+            [chargeback_at] => 
+            [chargeback_at_iso] => 
+            [occurrence_date] => 
+            [refundable] => 
+            [installments] => 
+            [transaction_number] => 1111
+            [payment_method] => 
+            [financial_return_dates] => 
+            [bank_slip] => 
+            [pix] => Array
+                (
+                    [qrcode] => https://faturas.iugu.com/iugu_pix/f9b52b4a-c75f-459e-a177-d3b9f0bfa578-3b8c/test/qr_code
+                    [qrcode_text] => http://faturas.iugu.com/iugu_pix/f9b52b4a-c75f-459e-a177-d3b9f0bfa578-3b8c/test/pay
+                    [status] => qr_code_created
+                    [payer_cpf_cnpj] => 
+                    [payer_name] => 
+                    [end_to_end_id] => 
+                    [end_to_end_refund_id] => 
+                )
+
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => D0507D1BBE304DA091B50FFAF1F66379
+                            [description] => Tenha acesso a experiência Básico do Salve a Data
+                            [price_cents] => 7900
+                            [quantity] => 1
+                            [created_at] => 2022-09-17T18:50:47-03:00
+                            [updated_at] => 2022-09-17T18:50:47-03:00
+                            [price] => R$ 79,00
+                        )
+
+                )
+
+            [early_payment_discounts] => Array
+                (
+                )
+
+            [split_rules] => 
+            [variables] => Array
+                (
+                    [0] => Array
+                        (
+                            [variable] => payer.address.city
+                            [value] => Curitiba
+                        )
+
+                    [1] => Array
+                        (
+                            [variable] => payer.address.city
+                            [value] => Curitiba
+                        )
+
+                    [2] => Array
+                        (
+                            [variable] => payer.address.complement
+                            [value] => 3560
+                        )
+
+                    [3] => Array
+                        (
+                            [variable] => payer.address.complement
+                            [value] => 3560
+                        )
+
+                    [4] => Array
+                        (
+                            [variable] => payer.address.district
+                            [value] => Barreirinha
+                        )
+
+                    [5] => Array
+                        (
+                            [variable] => payer.address.district
+                            [value] => Barreirinha
+                        )
+
+                    [6] => Array
+                        (
+                            [variable] => payer.address.number
+                            [value] => 3560
+                        )
+
+                    [7] => Array
+                        (
+                            [variable] => payer.address.number
+                            [value] => 3560
+                        )
+
+                    [8] => Array
+                        (
+                            [variable] => payer.address.state
+                            [value] => PR
+                        )
+
+                    [9] => Array
+                        (
+                            [variable] => payer.address.state
+                            [value] => PR
+                        )
+
+                    [10] => Array
+                        (
+                            [variable] => payer.address.street
+                            [value] => Rua Theodoro Makiolka
+                        )
+
+                    [11] => Array
+                        (
+                            [variable] => payer.address.street
+                            [value] => Rua Theodoro Makiolka
+                        )
+
+                    [12] => Array
+                        (
+                            [variable] => payer.address.zip_code
+                            [value] => 82710-000
+                        )
+
+                    [13] => Array
+                        (
+                            [variable] => payer.address.zip_code
+                            [value] => 82710-000
+                        )
+
+                    [14] => Array
+                        (
+                            [variable] => payer.cpf_cnpj
+                            [value] => 08801663986
+                        )
+
+                    [15] => Array
+                        (
+                            [variable] => payer.cpf_cnpj
+                            [value] => 08801663986
+                        )
+
+                    [16] => Array
+                        (
+                            [variable] => payer.email
+                            [value] => andrey@teste.com.br
+                        )
+
+                    [17] => Array
+                        (
+                            [variable] => payer.email
+                            [value] => andrey@teste.com.br
+                        )
+
+                    [18] => Array
+                        (
+                            [variable] => payer.name
+                            [value] => Andrey Leocadio Ribeiro Camargo de França
+                        )
+
+                    [19] => Array
+                        (
+                            [variable] => payer.name
+                            [value] => Andrey Leocadio Ribeiro Camargo de França
+                        )
+
+                    [20] => Array
+                        (
+                            [variable] => payer.phone
+                            [value] => 996770938
+                        )
+
+                    [21] => Array
+                        (
+                            [variable] => payer.phone
+                            [value] => 996770938
+                        )
+
+                    [22] => Array
+                        (
+                            [variable] => payer.phone_prefix
+                            [value] => 41
+                        )
+
+                    [23] => Array
+                        (
+                            [variable] => payer.phone_prefix
+                            [value] => 41
+                        )
+
+                )
+
+            [custom_variables] => Array
+                (
+                )
+
+            [logs] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 86A5A5F24E6B4D1DB29723ED79BD24DC
+                            [description] => Email de Lembrete enviado!
+                            [notes] => Lembrete enviado com sucesso para: andrey@teste.com.br
+                            [created_at] => 17/09, 18:50
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 99F4B6F7D6234F88AE44A7DF1406C4F5
+                            [description] => Fatura criada com sucesso!
+                            [notes] => Fatura criada!
+                            [created_at] => 17/09, 18:50
+                        )
+
+                )
+
+            [credit_card_transaction] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id] => DA5A0A4B3BBD40898E4809673C6429EB
+            [due_date] => 2022-09-18
+            [currency] => BRL
+            [discount_cents] => 0
+            [email] => andrey@teste.com.br
+            [items_total_cents] => 7900
+            [notification_url] => http://localhost/salveadata/Pagamentos/retornoPagamento
+            [return_url] => 
+            [status] => pending
+            [tax_cents] => 
+            [total_cents] => 7900
+            [total_paid_cents] => 0
+            [taxes_paid_cents] => 
+            [paid_at] => 
+            [paid_cents] => 
+            [cc_emails] => 
+            [financial_return_date] => 
+            [payable_with] => pix
+            [overpaid_cents] => 
+            [ignore_due_email] => 
+            [ignore_canceled_email] => 
+            [advance_fee_cents] => 
+            [commission_cents] => 
+            [early_payment_discount] => 
+            [order_id] => 
+            [updated_at] => 2022-09-17T18:58:15-03:00
+            [credit_card_brand] => 
+            [credit_card_bin] => 
+            [credit_card_last_4] => 
+            [credit_card_captured_at] => 
+            [credit_card_tid] => 
+            [external_reference] => 4_1
+            [max_installments_value] => 
+            [payer_name] => Andrey Leocadio Ribeiro Camargo de França
+            [payer_email] => andrey@teste.com.br
+            [payer_cpf_cnpj] => 08801663986
+            [payer_phone] => 996770938
+            [payer_phone_prefix] => 41
+            [payer_address_zip_code] => 82710-000
+            [payer_address_street] => Rua Theodoro Makiolka
+            [payer_address_district] => Barreirinha
+            [payer_address_city] => Curitiba
+            [payer_address_state] => PR
+            [payer_address_number] => 3560
+            [payer_address_complement] => 3560
+            [payer_address_country] => 
+            [late_payment_fine] => 0
+            [late_payment_fine_cents] => 
+            [split_id] => 
+            [account_id] => A562B3FF8DC4485F95A07DBEA2A4CE2A
+            [account_name] => SAVE THE DATE
+            [secure_id] => da5a0a4b-3bbd-4089-8e48-09673c6429eb-55b8
+            [secure_url] => https://faturas.iugu.com/da5a0a4b-3bbd-4089-8e48-09673c6429eb-55b8
+            [customer_id] => D224DF1CB7A743B7B08747990B6FBC08
+            [customer_ref] => Andrey Leocadio Ribeiro Camargo de França
+            [customer_name] => Andrey Leocadio Ribeiro Camargo de França
+            [user_id] => 
+            [total] => R$ 79,00
+            [taxes_paid] => R$ 0,00
+            [total_paid] => R$ 0,00
+            [total_overpaid] => R$ 0,00
+            [total_refunded] => R$ 0,00
+            [commission] => R$ 0,00
+            [fines_on_occurrence_day] => R$ 0,00
+            [total_on_occurrence_day] => R$ 0,00
+            [fines_on_occurrence_day_cents] => 0
+            [total_on_occurrence_day_cents] => 0
+            [refunded_cents] => 0
+            [remaining_captured_cents] => 0
+            [advance_fee] => 
+            [paid] => R$ 0,00
+            [original_payment_id] => 
+            [double_payment_id] => 
+            [per_day_interest] => 
+            [per_day_interest_value] => 
+            [interest] => 
+            [discount] => 
+            [duplicated_invoice_id] => 
+            [created_at] => 17/09, 18:58
+            [created_at_iso] => 2022-09-17T18:58:15-03:00
+            [authorized_at] => 
+            [authorized_at_iso] => 
+            [expired_at] => 
+            [expired_at_iso] => 
+            [refunded_at] => 
+            [refunded_at_iso] => 
+            [canceled_at] => 
+            [canceled_at_iso] => 
+            [protested_at] => 
+            [protested_at_iso] => 
+            [chargeback_at] => 
+            [chargeback_at_iso] => 
+            [occurrence_date] => 
+            [refundable] => 
+            [installments] => 
+            [transaction_number] => 1111
+            [payment_method] => 
+            [financial_return_dates] => 
+            [bank_slip] => 
+            [pix] => Array
+                (
+                    [qrcode] => https://faturas.iugu.com/iugu_pix/da5a0a4b-3bbd-4089-8e48-09673c6429eb-55b8/test/qr_code
+                    [qrcode_text] => http://faturas.iugu.com/iugu_pix/da5a0a4b-3bbd-4089-8e48-09673c6429eb-55b8/test/pay
+                    [status] => qr_code_created
+                    [payer_cpf_cnpj] => 
+                    [payer_name] => 
+                    [end_to_end_id] => 
+                    [end_to_end_refund_id] => 
+                )
+
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 080A70A76E084320B0F6A01C358050E5
+                            [description] => Tenha acesso a experiência Básico do Salve a Data
+                            [price_cents] => 7900
+                            [quantity] => 1
+                            [created_at] => 2022-09-17T18:58:15-03:00
+                            [updated_at] => 2022-09-17T18:58:15-03:00
+                            [price] => R$ 79,00
+                        )
+
+                )
+
+            [early_payment_discounts] => Array
+                (
+                )
+
+            [split_rules] => 
+            [variables] => Array
+                (
+                    [0] => Array
+                        (
+                            [variable] => payer.address.city
+                            [value] => Curitiba
+                        )
+
+                    [1] => Array
+                        (
+                            [variable] => payer.address.city
+                            [value] => Curitiba
+                        )
+
+                    [2] => Array
+                        (
+                            [variable] => payer.address.complement
+                            [value] => 3560
+                        )
+
+                    [3] => Array
+                        (
+                            [variable] => payer.address.complement
+                            [value] => 3560
+                        )
+
+                    [4] => Array
+                        (
+                            [variable] => payer.address.district
+                            [value] => Barreirinha
+                        )
+
+                    [5] => Array
+                        (
+                            [variable] => payer.address.district
+                            [value] => Barreirinha
+                        )
+
+                    [6] => Array
+                        (
+                            [variable] => payer.address.number
+                            [value] => 3560
+                        )
+
+                    [7] => Array
+                        (
+                            [variable] => payer.address.number
+                            [value] => 3560
+                        )
+
+                    [8] => Array
+                        (
+                            [variable] => payer.address.state
+                            [value] => PR
+                        )
+
+                    [9] => Array
+                        (
+                            [variable] => payer.address.state
+                            [value] => PR
+                        )
+
+                    [10] => Array
+                        (
+                            [variable] => payer.address.street
+                            [value] => Rua Theodoro Makiolka
+                        )
+
+                    [11] => Array
+                        (
+                            [variable] => payer.address.street
+                            [value] => Rua Theodoro Makiolka
+                        )
+
+                    [12] => Array
+                        (
+                            [variable] => payer.address.zip_code
+                            [value] => 82710-000
+                        )
+
+                    [13] => Array
+                        (
+                            [variable] => payer.address.zip_code
+                            [value] => 82710-000
+                        )
+
+                    [14] => Array
+                        (
+                            [variable] => payer.cpf_cnpj
+                            [value] => 08801663986
+                        )
+
+                    [15] => Array
+                        (
+                            [variable] => payer.cpf_cnpj
+                            [value] => 08801663986
+                        )
+
+                    [16] => Array
+                        (
+                            [variable] => payer.email
+                            [value] => andrey@teste.com.br
+                        )
+
+                    [17] => Array
+                        (
+                            [variable] => payer.email
+                            [value] => andrey@teste.com.br
+                        )
+
+                    [18] => Array
+                        (
+                            [variable] => payer.name
+                            [value] => Andrey Leocadio Ribeiro Camargo de França
+                        )
+
+                    [19] => Array
+                        (
+                            [variable] => payer.name
+                            [value] => Andrey Leocadio Ribeiro Camargo de França
+                        )
+
+                    [20] => Array
+                        (
+                            [variable] => payer.phone
+                            [value] => 996770938
+                        )
+
+                    [21] => Array
+                        (
+                            [variable] => payer.phone
+                            [value] => 996770938
+                        )
+
+                    [22] => Array
+                        (
+                            [variable] => payer.phone_prefix
+                            [value] => 41
+                        )
+
+                    [23] => Array
+                        (
+                            [variable] => payer.phone_prefix
+                            [value] => 41
+                        )
+
+                )
+
+            [custom_variables] => Array
+                (
+                )
+
+            [logs] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 19BDF5A5F5024602B70E25C92C24ACF1
+                            [description] => Email de Lembrete enviado!
+                            [notes] => Lembrete enviado com sucesso para: andrey@teste.com.br
+                            [created_at] => 17/09, 18:58
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 7F0A57815C384880A5FAA7046D05892D
+                            [description] => Fatura criada com sucesso!
+                            [notes] => Fatura criada!
+                            [created_at] => 17/09, 18:58
+                        )
+
+                )
+
+            [credit_card_transaction] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id] => A7C96FE37FCB466D8C50271B241B19B8
+            [due_date] => 2022-09-18
+            [currency] => BRL
+            [discount_cents] => 0
+            [email] => andrey@teste.com.br
+            [items_total_cents] => 7900
+            [notification_url] => http://localhost/salveadata/Pagamentos/retornoPagamento
+            [return_url] => 
+            [status] => pending
+            [tax_cents] => 
+            [total_cents] => 7900
+            [total_paid_cents] => 0
+            [taxes_paid_cents] => 
+            [paid_at] => 
+            [paid_cents] => 
+            [cc_emails] => 
+            [financial_return_date] => 
+            [payable_with] => pix
+            [overpaid_cents] => 
+            [ignore_due_email] => 
+            [ignore_canceled_email] => 
+            [advance_fee_cents] => 
+            [commission_cents] => 
+            [early_payment_discount] => 
+            [order_id] => 
+            [updated_at] => 2022-09-17T18:59:06-03:00
+            [credit_card_brand] => 
+            [credit_card_bin] => 
+            [credit_card_last_4] => 
+            [credit_card_captured_at] => 
+            [credit_card_tid] => 
+            [external_reference] => 4_1
+            [max_installments_value] => 
+            [payer_name] => Andrey Leocadio Ribeiro Camargo de França
+            [payer_email] => andrey@teste.com.br
+            [payer_cpf_cnpj] => 08801663986
+            [payer_phone] => 996770938
+            [payer_phone_prefix] => 41
+            [payer_address_zip_code] => 82710-000
+            [payer_address_street] => Rua Theodoro Makiolka
+            [payer_address_district] => Barreirinha
+            [payer_address_city] => Curitiba
+            [payer_address_state] => PR
+            [payer_address_number] => 3560
+            [payer_address_complement] => 3560
+            [payer_address_country] => 
+            [late_payment_fine] => 0
+            [late_payment_fine_cents] => 
+            [split_id] => 
+            [account_id] => A562B3FF8DC4485F95A07DBEA2A4CE2A
+            [account_name] => SAVE THE DATE
+            [secure_id] => a7c96fe3-7fcb-466d-8c50-271b241b19b8-5181
+            [secure_url] => https://faturas.iugu.com/a7c96fe3-7fcb-466d-8c50-271b241b19b8-5181
+            [customer_id] => D224DF1CB7A743B7B08747990B6FBC08
+            [customer_ref] => Andrey Leocadio Ribeiro Camargo de França
+            [customer_name] => Andrey Leocadio Ribeiro Camargo de França
+            [user_id] => 
+            [total] => R$ 79,00
+            [taxes_paid] => R$ 0,00
+            [total_paid] => R$ 0,00
+            [total_overpaid] => R$ 0,00
+            [total_refunded] => R$ 0,00
+            [commission] => R$ 0,00
+            [fines_on_occurrence_day] => R$ 0,00
+            [total_on_occurrence_day] => R$ 0,00
+            [fines_on_occurrence_day_cents] => 0
+            [total_on_occurrence_day_cents] => 0
+            [refunded_cents] => 0
+            [remaining_captured_cents] => 0
+            [advance_fee] => 
+            [paid] => R$ 0,00
+            [original_payment_id] => 
+            [double_payment_id] => 
+            [per_day_interest] => 
+            [per_day_interest_value] => 
+            [interest] => 
+            [discount] => 
+            [duplicated_invoice_id] => 
+            [created_at] => 17/09, 18:59
+            [created_at_iso] => 2022-09-17T18:59:06-03:00
+            [authorized_at] => 
+            [authorized_at_iso] => 
+            [expired_at] => 
+            [expired_at_iso] => 
+            [refunded_at] => 
+            [refunded_at_iso] => 
+            [canceled_at] => 
+            [canceled_at_iso] => 
+            [protested_at] => 
+            [protested_at_iso] => 
+            [chargeback_at] => 
+            [chargeback_at_iso] => 
+            [occurrence_date] => 
+            [refundable] => 
+            [installments] => 
+            [transaction_number] => 1111
+            [payment_method] => 
+            [financial_return_dates] => 
+            [bank_slip] => 
+            [pix] => Array
+                (
+                    [qrcode] => https://faturas.iugu.com/iugu_pix/a7c96fe3-7fcb-466d-8c50-271b241b19b8-5181/test/qr_code
+                    [qrcode_text] => http://faturas.iugu.com/iugu_pix/a7c96fe3-7fcb-466d-8c50-271b241b19b8-5181/test/pay
+                    [status] => qr_code_created
+                    [payer_cpf_cnpj] => 
+                    [payer_name] => 
+                    [end_to_end_id] => 
+                    [end_to_end_refund_id] => 
+                )
+
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 74625EBD50C84CACB0B8B3EE0BF0BFE0
+                            [description] => Tenha acesso a experiência Básico do Salve a Data
+                            [price_cents] => 7900
+                            [quantity] => 1
+                            [created_at] => 2022-09-17T18:59:06-03:00
+                            [updated_at] => 2022-09-17T18:59:06-03:00
+                            [price] => R$ 79,00
+                        )
+
+                )
+
+            [early_payment_discounts] => Array
+                (
+                )
+
+            [split_rules] => 
+            [variables] => Array
+                (
+                    [0] => Array
+                        (
+                            [variable] => payer.address.city
+                            [value] => Curitiba
+                        )
+
+                    [1] => Array
+                        (
+                            [variable] => payer.address.city
+                            [value] => Curitiba
+                        )
+
+                    [2] => Array
+                        (
+                            [variable] => payer.address.complement
+                            [value] => 3560
+                        )
+
+                    [3] => Array
+                        (
+                            [variable] => payer.address.complement
+                            [value] => 3560
+                        )
+
+                    [4] => Array
+                        (
+                            [variable] => payer.address.district
+                            [value] => Barreirinha
+                        )
+
+                    [5] => Array
+                        (
+                            [variable] => payer.address.district
+                            [value] => Barreirinha
+                        )
+
+                    [6] => Array
+                        (
+                            [variable] => payer.address.number
+                            [value] => 3560
+                        )
+
+                    [7] => Array
+                        (
+                            [variable] => payer.address.number
+                            [value] => 3560
+                        )
+
+                    [8] => Array
+                        (
+                            [variable] => payer.address.state
+                            [value] => PR
+                        )
+
+                    [9] => Array
+                        (
+                            [variable] => payer.address.state
+                            [value] => PR
+                        )
+
+                    [10] => Array
+                        (
+                            [variable] => payer.address.street
+                            [value] => Rua Theodoro Makiolka
+                        )
+
+                    [11] => Array
+                        (
+                            [variable] => payer.address.street
+                            [value] => Rua Theodoro Makiolka
+                        )
+
+                    [12] => Array
+                        (
+                            [variable] => payer.address.zip_code
+                            [value] => 82710-000
+                        )
+
+                    [13] => Array
+                        (
+                            [variable] => payer.address.zip_code
+                            [value] => 82710-000
+                        )
+
+                    [14] => Array
+                        (
+                            [variable] => payer.cpf_cnpj
+                            [value] => 08801663986
+                        )
+
+                    [15] => Array
+                        (
+                            [variable] => payer.cpf_cnpj
+                            [value] => 08801663986
+                        )
+
+                    [16] => Array
+                        (
+                            [variable] => payer.email
+                            [value] => andrey@teste.com.br
+                        )
+
+                    [17] => Array
+                        (
+                            [variable] => payer.email
+                            [value] => andrey@teste.com.br
+                        )
+
+                    [18] => Array
+                        (
+                            [variable] => payer.name
+                            [value] => Andrey Leocadio Ribeiro Camargo de França
+                        )
+
+                    [19] => Array
+                        (
+                            [variable] => payer.name
+                            [value] => Andrey Leocadio Ribeiro Camargo de França
+                        )
+
+                    [20] => Array
+                        (
+                            [variable] => payer.phone
+                            [value] => 996770938
+                        )
+
+                    [21] => Array
+                        (
+                            [variable] => payer.phone
+                            [value] => 996770938
+                        )
+
+                    [22] => Array
+                        (
+                            [variable] => payer.phone_prefix
+                            [value] => 41
+                        )
+
+                    [23] => Array
+                        (
+                            [variable] => payer.phone_prefix
+                            [value] => 41
+                        )
+
+                )
+
+            [custom_variables] => Array
+                (
+                )
+
+            [logs] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 7776A7A577F9483C8A4C2392E84CC4BD
+                            [description] => Email de Lembrete enviado!
+                            [notes] => Lembrete enviado com sucesso para: andrey@teste.com.br
+                            [created_at] => 17/09, 18:59
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => EBA5173B2F174E6586DD433A446F0D2F
+                            [description] => Fatura criada com sucesso!
+                            [notes] => Fatura criada!
+                            [created_at] => 17/09, 18:59
+                        )
+
+                )
+
+            [credit_card_transaction] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id] => FA39E64A433E42A9BE2432429647A5C6
+            [due_date] => 2022-09-19
+            [currency] => BRL
+            [discount_cents] => 0
+            [email] => andrey@teste.com.br
+            [items_total_cents] => 7900
+            [notification_url] => http://localhost/salveadata/Pagamentos/retornoPagamento
+            [return_url] => 
+            [status] => pending
+            [tax_cents] => 
+            [total_cents] => 7900
+            [total_paid_cents] => 0
+            [taxes_paid_cents] => 
+            [paid_at] => 
+            [paid_cents] => 
+            [cc_emails] => 
+            [financial_return_date] => 
+            [payable_with] => pix
+            [overpaid_cents] => 
+            [ignore_due_email] => 
+            [ignore_canceled_email] => 
+            [advance_fee_cents] => 
+            [commission_cents] => 
+            [early_payment_discount] => 
+            [order_id] => 
+            [updated_at] => 2022-09-17T19:00:08-03:00
+            [credit_card_brand] => 
+            [credit_card_bin] => 
+            [credit_card_last_4] => 
+            [credit_card_captured_at] => 
+            [credit_card_tid] => 
+            [external_reference] => 4_1
+            [max_installments_value] => 
+            [payer_name] => Andrey Leocadio Ribeiro Camargo de França
+            [payer_email] => andrey@teste.com.br
+            [payer_cpf_cnpj] => 08801663986
+            [payer_phone] => 996770938
+            [payer_phone_prefix] => 41
+            [payer_address_zip_code] => 82710-000
+            [payer_address_street] => Rua Theodoro Makiolka
+            [payer_address_district] => Barreirinha
+            [payer_address_city] => Curitiba
+            [payer_address_state] => PR
+            [payer_address_number] => 3560
+            [payer_address_complement] => 3560
+            [payer_address_country] => 
+            [late_payment_fine] => 0
+            [late_payment_fine_cents] => 
+            [split_id] => 
+            [account_id] => A562B3FF8DC4485F95A07DBEA2A4CE2A
+            [account_name] => SAVE THE DATE
+            [secure_id] => fa39e64a-433e-42a9-be24-32429647a5c6-7f65
+            [secure_url] => https://faturas.iugu.com/fa39e64a-433e-42a9-be24-32429647a5c6-7f65
+            [customer_id] => D224DF1CB7A743B7B08747990B6FBC08
+            [customer_ref] => Andrey Leocadio Ribeiro Camargo de França
+            [customer_name] => Andrey Leocadio Ribeiro Camargo de França
+            [user_id] => 
+            [total] => R$ 79,00
+            [taxes_paid] => R$ 0,00
+            [total_paid] => R$ 0,00
+            [total_overpaid] => R$ 0,00
+            [total_refunded] => R$ 0,00
+            [commission] => R$ 0,00
+            [fines_on_occurrence_day] => R$ 0,00
+            [total_on_occurrence_day] => R$ 0,00
+            [fines_on_occurrence_day_cents] => 0
+            [total_on_occurrence_day_cents] => 0
+            [refunded_cents] => 0
+            [remaining_captured_cents] => 0
+            [advance_fee] => 
+            [paid] => R$ 0,00
+            [original_payment_id] => 
+            [double_payment_id] => 
+            [per_day_interest] => 
+            [per_day_interest_value] => 
+            [interest] => 
+            [discount] => 
+            [duplicated_invoice_id] => 
+            [created_at] => 17/09, 19:00
+            [created_at_iso] => 2022-09-17T19:00:08-03:00
+            [authorized_at] => 
+            [authorized_at_iso] => 
+            [expired_at] => 
+            [expired_at_iso] => 
+            [refunded_at] => 
+            [refunded_at_iso] => 
+            [canceled_at] => 
+            [canceled_at_iso] => 
+            [protested_at] => 
+            [protested_at_iso] => 
+            [chargeback_at] => 
+            [chargeback_at_iso] => 
+            [occurrence_date] => 
+            [refundable] => 
+            [installments] => 
+            [transaction_number] => 1111
+            [payment_method] => 
+            [financial_return_dates] => 
+            [bank_slip] => 
+            [pix] => Array
+                (
+                    [qrcode] => https://faturas.iugu.com/iugu_pix/fa39e64a-433e-42a9-be24-32429647a5c6-7f65/test/qr_code
+                    [qrcode_text] => http://faturas.iugu.com/iugu_pix/fa39e64a-433e-42a9-be24-32429647a5c6-7f65/test/pay
+                    [status] => qr_code_created
+                    [payer_cpf_cnpj] => 
+                    [payer_name] => 
+                    [end_to_end_id] => 
+                    [end_to_end_refund_id] => 
+                )
+
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => FE423916B7EF4EFBB63D7AD21AFBA1AF
+                            [description] => Tenha acesso a experiência Básico do Salve a Data
+                            [price_cents] => 7900
+                            [quantity] => 1
+                            [created_at] => 2022-09-17T19:00:08-03:00
+                            [updated_at] => 2022-09-17T19:00:08-03:00
+                            [price] => R$ 79,00
+                        )
+
+                )
+
+            [early_payment_discounts] => Array
+                (
+                )
+
+            [split_rules] => 
+            [variables] => Array
+                (
+                    [0] => Array
+                        (
+                            [variable] => payer.address.city
+                            [value] => Curitiba
+                        )
+
+                    [1] => Array
+                        (
+                            [variable] => payer.address.city
+                            [value] => Curitiba
+                        )
+
+                    [2] => Array
+                        (
+                            [variable] => payer.address.complement
+                            [value] => 3560
+                        )
+
+                    [3] => Array
+                        (
+                            [variable] => payer.address.complement
+                            [value] => 3560
+                        )
+
+                    [4] => Array
+                        (
+                            [variable] => payer.address.district
+                            [value] => Barreirinha
+                        )
+
+                    [5] => Array
+                        (
+                            [variable] => payer.address.district
+                            [value] => Barreirinha
+                        )
+
+                    [6] => Array
+                        (
+                            [variable] => payer.address.number
+                            [value] => 3560
+                        )
+
+                    [7] => Array
+                        (
+                            [variable] => payer.address.number
+                            [value] => 3560
+                        )
+
+                    [8] => Array
+                        (
+                            [variable] => payer.address.state
+                            [value] => PR
+                        )
+
+                    [9] => Array
+                        (
+                            [variable] => payer.address.state
+                            [value] => PR
+                        )
+
+                    [10] => Array
+                        (
+                            [variable] => payer.address.street
+                            [value] => Rua Theodoro Makiolka
+                        )
+
+                    [11] => Array
+                        (
+                            [variable] => payer.address.street
+                            [value] => Rua Theodoro Makiolka
+                        )
+
+                    [12] => Array
+                        (
+                            [variable] => payer.address.zip_code
+                            [value] => 82710-000
+                        )
+
+                    [13] => Array
+                        (
+                            [variable] => payer.address.zip_code
+                            [value] => 82710-000
+                        )
+
+                    [14] => Array
+                        (
+                            [variable] => payer.cpf_cnpj
+                            [value] => 08801663986
+                        )
+
+                    [15] => Array
+                        (
+                            [variable] => payer.cpf_cnpj
+                            [value] => 08801663986
+                        )
+
+                    [16] => Array
+                        (
+                            [variable] => payer.email
+                            [value] => andrey@teste.com.br
+                        )
+
+                    [17] => Array
+                        (
+                            [variable] => payer.email
+                            [value] => andrey@teste.com.br
+                        )
+
+                    [18] => Array
+                        (
+                            [variable] => payer.name
+                            [value] => Andrey Leocadio Ribeiro Camargo de França
+                        )
+
+                    [19] => Array
+                        (
+                            [variable] => payer.name
+                            [value] => Andrey Leocadio Ribeiro Camargo de França
+                        )
+
+                    [20] => Array
+                        (
+                            [variable] => payer.phone
+                            [value] => 996770938
+                        )
+
+                    [21] => Array
+                        (
+                            [variable] => payer.phone
+                            [value] => 996770938
+                        )
+
+                    [22] => Array
+                        (
+                            [variable] => payer.phone_prefix
+                            [value] => 41
+                        )
+
+                    [23] => Array
+                        (
+                            [variable] => payer.phone_prefix
+                            [value] => 41
+                        )
+
+                )
+
+            [custom_variables] => Array
+                (
+                )
+
+            [logs] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 16CB06992D504AE5AC0F782F35FB91A9
+                            [description] => Email de Lembrete enviado!
+                            [notes] => Lembrete enviado com sucesso para: andrey@teste.com.br
+                            [created_at] => 17/09, 19:00
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => E8C8B51302BD49A9A6AEDBB28296764F
+                            [description] => Fatura criada com sucesso!
+                            [notes] => Fatura criada!
+                            [created_at] => 17/09, 19:00
+                        )
+
+                )
+
+            [credit_card_transaction] => 
+        )
+
+)

@@ -1,0 +1,276 @@
+<?php
+//newindex-cake
+$lang['bonus_liberado'] = 'Bônus liberado';
+$lang['bonus_exclusivo'] = 'Bônus exclusivo';
+$lang['resgatar_meus_10_dias_de_trial'] = 'Resgatar meus 10 dias de trial';
+$lang['espanhol_em_breve'] = 'Espanhol (Em breve)';
+$lang['admin_nuvemshop'] = 'Admin Nuvemshop';
+$lang['visualizar_loja'] = 'Visualizar loja';
+$lang['configuracoes'] = 'Configurações';
+$lang['sair'] = 'Sair';
+$lang['copyright'] = 'Copyright';
+$lang['cake_digital'] = 'Cake Digital';
+$lang['feito_com'] = 'Feito com';
+$lang['cupons'] = 'Cupons';
+$lang['integracoes'] = 'Integrações';
+$lang['pop_up_captura'] = 'Pop up Captura';
+$lang['clientes'] = 'Clientes';
+$lang['leads'] = 'Leads';
+$lang['assinatura'] = 'Assinatura';
+$lang['faq'] = 'FAQ';
+
+//login
+$lang['entre_com_sua_conta'] = 'Entre com sua Conta';
+$lang['email'] = 'E-mail';
+$lang['senha'] = 'Senha';
+$lang['lembrar_meus_dados'] = 'Lembrar meus Dados';
+$lang['esqueci_minha_senha'] = 'Esqueci minha Senha';
+$lang['entrar'] = 'Entrar';
+$lang['nao_e_cadastrado'] = 'Não é cadastrado?';
+$lang['crie_sua_conta'] = 'Crie sua conta.';
+
+//recuperar-senha
+$lang['esqueceu_sua_senha'] = 'Esqueceu sua senha?';
+$lang['confirme_seu_email_para_enviarmos_sua_senha'] = 'Confirme seu e-mail para enviarmos sua senha!';
+$lang['recuperar_senha'] = 'Recuperar Senha';
+$lang['nao_possui_conta'] = 'Não possui conta?';
+$lang['criar_nova_conta'] = 'Criar nova Conta';
+
+//cadastro
+$lang['nome'] = 'Nome';
+$lang['eu_aceito_os'] = ' Eu aceito os ';
+$lang['termos_e_condicoes'] = 'termos e condições';
+$lang['criar_minha_conta'] = 'Criar minha Conta';
+$lang['ja_tem_uma_conta'] = 'Já tem uma conta?';
+
+//pageCupons-cakes
+$lang['cupons_de_minha_loja'] = 'Cupons de minha loja.';
+$lang['cupons_nuvemshop'] = 'Cupons Nuvemshop';
+$lang['novo_cupom']=' Novo cupom';
+$lang['sincronizar_cupons'] = 'Sincronizar Cupons';
+$lang['criar_cupons_em_massa']=' Criar cupons em massa';
+$lang['integrar_com_a_nuvem_shop'] = 'Integrar com a Nuvem Shop';
+$lang['codigo'] = 'Código';
+$lang['desconto'] = 'Desconto';
+$lang['usos'] = 'Usos';
+$lang['qtd_maxima_de_usos'] = 'Qtd máxima de usos';
+$lang['status'] = 'Status';
+$lang['primeira_compra'] = 'Primeira Compra';
+$lang['quando_marcada_essa_opcao_voce_indica_que_apenas_novos_clientes_podem_utilizar_esse_cupom'] = 'Quando marcada essa opção você indica que apenas novos clientes podem utilizar esse cupom.';
+$lang['unica_compra'] = 'Única compra';
+$lang['quando_marcada_essa_opcao_voce_indica_que_qualquer_cliente_pode_utilizar_o_cupom_com_a_limitacao_de_um_uso_por_cpf'] = 'Quando marcada essa opção você indica que qualquer cliente pode utilizar o cupom com a limitação de um uso por CPF ou Email.';
+$lang['vincular_clientes'] = 'Vincular Clientes';
+$lang['essa_opcao_permite_que_voce_vincule_esse_cupom_com_clientes_especificos_via_cpf_bloqueando_aos_demais_caso_nao_tenha_nenhum_cpf_vinculado_ele_fica_liberado_para_todos_ele_pode_ser_utilizado_em_conjunto_com_a_opcao_primeira_compra_e_unica_compra'] = 'Essa opção permite que você vincule esse cupom com Clientes especificos via CPF, bloqueando aos demais. Caso não tenha nenhum CPF vinculado, ele fica liberado para todos. Ele pode ser utilizado em conjunto com a opção Primeira compra e Única Compra.';
+$lang['acoes'] = 'Ações';
+$lang['cupom_valido_ate'] = 'Cupom valido até ';
+$lang['defina_uma_data_limite_para_uso_do_cupom_apos_essa_data_seu_cliente_nao_podera_aplicar_mais_o_cupom_em_sua_compra'] = 'Defina uma data limite para uso do cupom. Após essa data seu cliente não podera aplicar mais o cupom em sua compra.';
+$lang['ativo'] = 'Ativo';
+$lang['expirado'] = 'Expirado';
+$lang['deletar'] = 'Deletar';
+$lang['clique_e_veja_como_configurar_o_aplicativo'] = 'Clique e veja como configurar o aplicativo!';
+$lang['seja_bem_vindo_ao_aplicativo_cupom_primeira_compra'] = 'Seja bem-vindo ao aplicativo Cupom Primeira Compra!';
+$lang['recomendamos_que_assista_o_video_tutorial'] = 'Recomendamos que assista o vídeo tutorial abaixo, para configurar corretamente o seu aplicativo.';
+$lang['nome_da_pagina']='Nome da Página';
+$lang['criar_nova_pagina'] = 'Criar nova Página';
+$lang['vincule_clientes_ao_seu_cupom_adicionando_o_cpf_de_cada_um'] = 'Vincule clientes ao seu cupom adicionando o CPF de cada um';
+$lang['para_inserir_um_novo_cpf_basta_digitar_o_numero_pressionar_enter_e_clicar_em_vincular'] = '* Para inserir um novo CPF basta digitar o número, pressionar ENTER e clicar em VINCULAR.';
+$lang['vincular'] = 'Vincular';
+$lang['novas_funcionalidades_no_primeira_compra'] = 'Novas funcionalidades no Primeira Compra';
+$lang['agora_e_possivel_criar_cupons_em_massa_e_cupom_unitario_pelo_primeira_compra_para_habilitar_essa_funcao_basta_atualizar_as_permissoes_do_app_para_atualizar_clique_no_botao_abaixo'] = 'Agora é possível criar cupons em massa e cupom unitário pelo Primeira Compra, para habilitar essa função basta atualizar as permissões do app, para atualizar clique no botão abaixo!';
+$lang['atualizar_permissoes'] = 'Atualizar permissões';
+$lang['criar_novo_cupom'] = 'Criar novo Cupom';
+$lang['codigo_do_cupom'] = 'Código do Cupom';
+$lang['defina_o_codigo_do_seu_cupom'] = 'Defina o código do seu cupom.';
+$lang['tipo_de_desconto'] = 'Tipo de desconto';
+$lang['defina_se_seu_cupom_sera_desconto_fixo_porcentagem_ou_frete_gratis'] = 'Defina se seu cupom será desconto fixo, porcentagem ou frete grátis';
+$lang['defina_o_valor_do_desconto'] = 'Defina o valor do desconto';
+$lang['rs'] = 'R$';
+$lang['limitar_o_uso_deste_cupom'] = 'Limitar o uso deste cupom';
+$lang['cupom_exclusivo_para_primeira_compra'] = 'Cupom exclusivo para primeira compra';
+$lang['nao'] = 'Não';
+$lang['sim'] = 'Sim';
+$lang['limitar_um_uso_por_cpf'] = 'Limitar um uso por CPF';
+$lang['limitar_a_quantidade_de_usos'] = 'Limitar a quantidade de usos';
+$lang['ilimitado'] = 'Ilimitado';
+$lang['permitir_ate'] = 'Permitir até';
+$lang['limitar_segundo_o_conteudo_do_carrinho'] = 'Limitar segundo o conteúdo do carrinho';
+$lang['defina_um_valor_minimo_para_o_cupom_ser_aplicado'] = 'Defina um valor minimo para o cupom ser aplicado';
+$lang['so_para_compras_acima_de'] = 'Só para compras acima de';
+$lang['limitar_por_categorias'] = 'Limitar por categorias';
+$lang['defina_categorias_que_seu_cupom_podera_ser_aplicado'] = 'Defina categorias que seu cupom poderá ser aplicado';
+$lang['para_vincular_suas_categorias_no_cupom_atualize_suas_permissoes_abaixo'] = 'Para vincular suas categorias no cupom, atualize suas permissões abaixo';
+$lang['limitar_datas'] = 'Limitar datas';
+$lang['disponivel_entre_as_datas'] = 'Disponível entre as datas:';
+$lang['de'] = 'De';
+$lang['ate'] = 'Até';
+$lang['criar_cupom'] = 'Criar Cupom';
+$lang['ja_configurei_corretamento_o_app'] = 'Ja configurei corretamento o app!';
+
+//Tutorial pageCupons-cakes
+$lang['tutorial_app'] = ' Tutorial App';
+$lang['tutorial_cupons'] = 'Tutorial Cupons';
+$lang['antes_do_lojista_comecar_a_trabalhar_com_o_app_cupom_primeira_compra_ele_deve_ir_ao_painel_da_nuvemshop_e_criar_seu_cupom_de_desconto_para_criar_um_cupom_basta'] = 'Antes do lojista começar a trabalhar com o App Cupom Primeira Compra, ele deve ir ao painel da Nuvemshop e criar seu cupom de desconto. Para criar um cupom basta:';
+$lang['lojista_ir_no_meu_marketing'] = ' Lojista ir no meu Marketing.';
+$lang['depois_clicar_em_cupons'] = ' Depois clicar em Cupons.';
+$lang['em_seguida_criar_um_novo_cupom_de_desconto'] = 'Em seguida Criar um novo Cupom de Desconto.';
+$lang['para_sincronizar_seus_cupons_que_estao_na_nuvemshop_basta_clicar_em_sincronizar_cupons_nosso_app_ira_buscar_na_nuvemshop_os_cupons_que_voce_criou'] = 'Para sincronizar seus cupons que estão na Nuvemshop, basta clicar em "Sincronizar Cupons". Nosso App irá buscar na Nuvemshop os cupons que você criou.';
+$lang['com_seus_cupons_ja_sincronizados_agora_vamos_determinar_algumas_regras_para_ele'] = ' Com seus cupons já sincronizados. Agora vamos determinar algumas regras para ele.';
+$lang['primeira_regra'] = ' 1º Regra';
+$lang['caso_voce_deseje_limitar_seus_cupons_apenas_para_novos_clientes_voce_deve_marcar_essa_opcao'] = 'Caso você deseje limitar seus cupons apenas para novos clientes, você deve marcar essa opção.';
+$lang['segunda_regra'] = '2º Regra';
+$lang['quando_marcada_essa_opcao_voce_indica_que_qualquer_cliente_pode_utilizar_o_cupom_limitando_o_uso_do_cpf_para_apenas_uma_vez'] = 'Quando marcada essa opção você indica que qualquer cliente pode utilizar o cupom, limitando o uso do CPF para apenas uma vez.';
+$lang['terceira_regra'] = ' 3º Regra';
+$lang['caso_voce_deseje_ativar_o_cupom_para_clientes_especificos_voce_pode_escolher_essa_opcao'] = ' Caso você deseje ativar o cupom para clientes específicos, você pode escolher essa opção.';
+$lang['essa_opcao_permite_que_voce_vincule_esse_cupom_com_clientes_especificos_via_cpf_bloqueando_aos_demais_caso_nao_tenha_nenhum_cpf_vinculado_ele_fica_liberado_para_todos_ele_pode_ser_utilizado_em_conjunto_com_a_opcao_primeiro_primeira_compra_ou_opcao_segundo_unica_compra'] = ' Essa opção permite que você vincule esse cupom com clientes específicos via CPF, bloqueando aos demais. Caso não tenha nenhum CPF vinculado, ele fica liberado para todos. Ele pode ser utilizado em conjunto com a opção 1º Primeira compra ou opção 2º Única Compra.';
+$lang['quando_clicado_em_vincular_clientes_ira_aparecer_um_modal_conforme_imagem_abaixo'] = ' Quando clicado em “Vincular Clientes”, irá aparecer um modal conforme imagem abaixo.';
+$lang['conforme_orientacao_acima_do_campo_preencha_com_o_cpf_do_cliente_desejado_em_seguida_clique_em_vincular'] = ' Conforme orientação acima do campo, preencha com o CPF do cliente desejado em seguida clique em vincular. ';
+$lang['pronto_seu_cupom_esta_devidamente_configurado_agora_vamos_para_o_proximo_passo_clique_no_menu_pop_up_captura'] = 'Pronto seu cupom está devidamente configurado, agora vamos para o próximo passo. Clique no menu Pop-up Captura.';
+
+//pageModal-cake
+$lang['pop_up_de_captura_de_lead'] = 'Pop up de captura de lead';
+$lang['configuracoes_do_pop_up'] = 'Configurações do Pop up';
+$lang['vizualizar_pop_up'] = 'Vizualizar pop up';
+$lang['status_do_pop_up'] = 'Status do Pop up';
+$lang['habilitar_ou_desabilitar_pop_up_de_captura'] = 'Habilitar ou desabilitar Pop up de captura';
+$lang['personalizar_pop_up'] = 'Personalizar Pop up';
+$lang['personalizar_email_enviado_via_pop_up'] = 'Personalizar e-mail enviado via Pop up';
+$lang['delay_para_abertura_do_pop_up'] = 'Delay para abertura do pop-up ';
+$lang['para_desativar_basta_colocar_zero_ou_deixar_em_branco'] = 'Para desativar basta colocar zero ou deixar em branco';
+$lang['defina_um_tempo_em_segundos_para_atrasar_a_abertura_do_pop_up'] = 'Defina um tempo em segundos para atrasar a abertura do pop-up';
+$lang['permitir_que_o_pop_up_abra_novamente_apos_ser_fechado'] = 'Permitir que o pop-up abra novamente após ser fechado ';
+$lang['por_padrao_apos_o_cliente_fechar_uma_vez_o_pop_up_ele_nao_abre_novamente_caso_queira_que_o_cliente_volte_a_receber_o_pop_up_basta_definir_um_tempo_em_minutos_o_tempo_comecara_a_ser_contado_a_partir_do_fechamento_para_que_o_pop_up_abra_apenas_uma_vez_basta_deixar_o_numero_zero'] = 'Por padrão após o cliente fechar uma vez o pop up ele não abre novamente, caso queira que o cliente volte a receber o pop up, basta definir um tempo em minutos, o tempo começara a ser contado a partir do fechamento. Para que o pop up abra apenas uma vez basta deixar o número zero.';
+$lang['titulo_do_pop_up'] = 'Título do pop up ';
+$lang['selecione_o_cupom_a_ser_enviado_pelo_pop_up_de_captura'] = 'Selecione o cupom a ser enviado pelo pop up de captura.';
+$lang['mensagem_de_condicao_para_cupom'] = 'Mensagem de condição para cupom ';
+$lang['esse_cupom_e_de_uso_unico'] = '*Esse cupom é de uso único';
+$lang['imagem_personalizada_pop_up'] = 'Imagem personalizada Pop-up';
+$lang['tamanho_recomendado'] = 'Tamanho recomendado 600x400';
+$lang['conteudo_do_pop_up'] = 'Conteúdo do Pop up.';
+$lang['salvar'] = 'Salvar';
+$lang['assunto'] = 'Assunto';
+$lang['insira_o_assunto'] = '*Insira o assunto';
+$lang['corpo_do_email_com_o_cupom_a_ser_enviado_para_se_cliente'] = 'Corpo do E-mail com o cupom a ser enviado para se cliente';
+$lang['parabens'] = 'Parabéns';
+$lang['voce_acaba_de_ganhar_um_cupom_para_fazer_sua_primeira_compra_na_loja_minhaloja_lojavirtualnuvem_com_br']='você acaba de ganhar um cupom para fazer sua primeira compra na loja minhaloja.lojavirtualnuvem.com.br.';
+$lang['o_codigo_do_seu_cupom_e'] = 'O código do seu cupom é';
+$lang['cupom'] = 'cupom';
+$lang['imagem_cupom'] = 'imagem';
+$lang['as_tags_cupom_e_imagem_devem_permanecer_no_campo_de_texto_porem_podem_ser_mudadas_de_local_elas_carregam_a_imagem_inserida_ao_lado_e_o_codigo_do_cupom'] = 'As tags {cupom} e {imagem} devem permanecer no campo de texto, porem podem ser mudadas de local. Elas carregam a imagem inserida ao lado e o código do cupom.';
+
+//Tutorial pageModal-cake
+$lang['tutorial_pop_up'] = 'Tutorial Pop-up';
+$lang['nesta_pagina_o_lojista_tem_a_possibilidade_de_criar_um_pop_up_que_ira_aparecer_na_pagina_inicial_de_seu_site_tambem_criar_um_e_mail_personalizado_para_seu_cliente'] = 'Nesta página o lojista tem a possibilidade de criar um Pop-up, que irá aparecer na página inicial de seu site. Também criar um e-mail personalizado para seu cliente.';
+$lang['aqui_temos_duas_abas_personalizar_pop_up_e_personalizar_e_mail_enviado_via_pop_up_aproveite_para_deixar_com_a_cara_de_sua_loja'] = 'Aqui temos duas abas: "Personalizar Pop-up" e "Personalizar e-mail enviado via Pop-up". Aproveite para deixar com a cara de sua loja.';
+$lang['aba_personalizar_pop_up'] = 'Aba Personalizar Pop-up';
+$lang['conforme_o_nome_dessa_aba_personalizar_pop_up_aqui_iremos_inserir_algumas_informacoes_personalizadas_a_escolha_do_lojista_que_vai_aparecer_no_pop_up_na_pagina_inicial_de_seu_site'] = 'Conforme o nome dessa aba "Personalizar Pop-up", aqui iremos inserir algumas informações personalizadas a escolha do lojista, que vai aparecer no Pop-up na página inicial de seu site.';
+$lang['primeiro_passo'] = ' 1º Passo';
+$lang['delay_de_abertura'] = 'Delay de abertura';
+$lang['defina_um_tempo_em_segundos_para_atrasar_a_abertura_do_pop_up_tempo_que_levara_para_aparecer_na_pagina_apos_cliente_acessar'] = 'Defina um tempo em segundos para atrasar a abertura do pop-up (tempo que levara para aparecer na página após cliente acessar).';
+$lang['segundo_passo'] = ' 2º Passo';
+$lang['abrir_pop_up_novamente'] = 'Abrir Pop-up novamente';
+$lang['por_padrao_apos_o_cliente_fechar_uma_vez_o_pop_up_ele_nao_abre_novamente_caso_queira_que_o_cliente_volte_a_receber_o_pop_up_defina_um_tempo_em_minutos_o_tempo_comecara_a_ser_contato_a_partir_do_fechamento'] = 'Por padrão após o cliente fechar uma vez o pop-up ele não abre novamente, caso queira que o cliente volte a receber o pop-up, defina um tempo em minutos, o tempo começara a ser contato a partir do fechamento.';
+$lang['para_que_o_pop_up_abra_apenas_uma_vez_basta_deixar_com_o_numero_zero'] = ' Para que o pop-up abra apenas uma vez, basta deixar com o numero zero.';
+$lang['terceiro_passo'] = ' 3º Passo';
+$lang['aqui_voce_pode_dar_um_titolo_que_vai_aparecer_em_seu_pop_up'] = 'Aqui você pode dar um titolo que vai aparecer em seu pop-up.';
+$lang['ex_semana_black_friday'] = 'ex: Semana Black Friday';
+$lang['quarto_passo'] = ' 4º Passo';
+$lang['selecionar_cupom'] = 'Selecionar cupom';
+$lang['aqui_voce_deve_selecionar_o_cupom_que_deseja_aparecer_no_pop_up'] = 'Aqui você deve selecionar o cupom que deseja aparecer no pop-up.';
+$lang['quinto_passo'] = ' 5º Passo';
+$lang['mensagem_de_condicao'] = 'Mensagem de condição';
+$lang['nesse_campo_voce_deve_inserir_uma_condicao_para_uso_do_seu_cupom_de_sua_escolha'] = 'Nesse campo você deve inserir uma condição para uso do seu cupom de sua escolha.';
+$lang['ex_esse_cupom_e_de_uso_unico'] = ' ex: Esse cupom é de uso único.';
+$lang['sexto_passo'] = ' 6º Passo';
+$lang['imagem_pop_up'] = 'Imagem Pop-up';
+$lang['nesse_campo_voce_pode_inserir_uma_imagem_de_sua_escolha_que_cause_impacto_ao_seus_cliente_ao_receber_seu_pop_up_o_tamanho_recomendado_e_de_600_400'] = 'Nesse campo você pode inserir uma imagem de sua escolha, que cause impacto ao seus cliente ao receber seu pop-up. O tamanho recomendado é de 600x400.';
+$lang['setimo_passo'] = ' 7º Passo';
+$lang['nesse_campo_voce_pode_inserir_um_texto_de_sua_escolha_que_cause_impacto_ao_seus_cliente_ao_receber_seu_pop_up'] = 'Nesse campo você pode inserir um texto de sua escolha, que cause impacto ao seus cliente ao receber seu pop-up.';
+$lang['caso_voce_queria_ver_como_esta_ficando_seu_pop_up_basta_voce'] = 'Caso você queria ver como está ficando seu Pop-up, basta você:';
+$lang['ativar_ele_clicando_em_status_do_pop_up'] = 'Ativar ele clicando em Status do Pop-up.';
+$lang['em_seguida_visualizar_pop_up_voce_vai_ser_direcionado_para_sua_loja'] = 'Em seguida visualizar Pop-up. Você vai ser direcionado para sua loja.';
+$lang['aba_personalizar_e_mail_enviado_via_pop_up'] = 'Aba Personalizar e-mail enviado via Pop up ';
+$lang['conforme_o_nome_dessa_aba_personalizar_e_mail_enviado_via_pop_up_aqui_iremos_inserir_algumas_informacoes_personalizadas_para_o_e_mail_que_seu_cliente_ira_receber_com_o_cupom'] = 'Conforme o nome dessa aba "Personalizar e-mail enviado via Pop up", aqui iremos inserir algumas informações personalizadas para o e-mail que seu cliente ira receber com o cupom.';
+$lang['defina_um_assunto_para_seu_e_mail_de_cupom_para_maior_entendimento_de_seu_cliente_ao_receber_o_e_mial'] = 'Defina um assunto para seu e-mail de cupom, para maior entendimento de seu cliente ao receber o e-mial.';
+$lang['imagem_para_e_mail'] = 'Imagem para e-mail';
+$lang['escolha_uma_imagem_para_acompanhar_o_envio_do_cupom_pode_ser_a_mesma_que_inseriu_no_pop_up_o_tamanho_recomendado_e_de_600_400'] = 'Escolha uma imagem para acompanhar o envio do cupom, pode ser a mesma que inseriu no pop-up. O tamanho recomendado é de 600x400.';
+$lang['email_pop_up'] = 'Email Pop-up';
+$lang['nesse_campo_voce_vai_inserir_a_mesagem_do_corpo_do_e_mail'] = 'Nesse campo você vai inserir a mesagem do corpo do e-mail.';
+$lang['pronto_seu_cupom_esta_devidamente_personalizado_agora_basta_clicar_em_salvar_para_que_todas_as_informacoes_sejam_validadas'] = 'Pronto seu cupom está devidamente personalizado, agora basta clicar em SALVAR, para que todas as informações sejam validadas.';
+
+//pageClientes-cake
+$lang['clientes_que_compraram_em_minha_loja'] = 'Clientes que compraram em minha loja';
+$lang['clientes_cadastrados'] = 'Clientes cadastrados';
+$lang['sincronizar_clientes'] = 'Sincronizar Clientes';
+$lang['cpf_cnpj'] = 'CPF / CNPJ';
+$lang['telefone'] = 'Telefone';
+$lang['cadastro'] = 'Cadastro';
+$lang['data_ultima_compra'] = 'Data Última Compra';
+$lang['total_gasto'] = 'Total Gasto';
+
+//pageLeads-cake
+$lang['leads_que_se_cadastraram_em_minha_loja'] = 'Leads que se cadastraram em minha loja.';
+$lang['exportar_para_xml'] = 'Exportar para XML';
+$lang['data_de_cadastro'] = 'Data de Cadastro';
+
+//pageIntegracoes-cake
+$lang['integracao_com_a_nuvemshop'] = 'Integração com a Nuvemshop.';
+$lang['seu_aplicativo_ja_esta_integrado_com_a_nuvemshop'] = 'Seu aplicativo já esta integrado com a Nuvemshop!';
+$lang['se_ainda_nao_sincronizou_seus_cupons'] = 'Se ainda não sincronizou seus cupons,';
+$lang['clique_aqui'] = 'clique aqui';
+$lang['para_começar_a_utilizar_seu_aplicativo'] = 'para começar a utilizar seu aplicativo.';
+$lang['nuvemshop'] = 'Nuvemshop:';
+$lang['digite_o_seu_dominio_nuvemshop'] = 'Digite o seu domínio Nuvemshop:';
+$lang['link_da_nuvemshop'] = 'Link da Nuvemshop';
+$lang['lojavirtualnuvem_com_br'] = '.lojavirtualnuvem.com.br';
+$lang['cancelar'] = 'Cancelar';
+$lang['conectar'] = 'Conectar';
+$lang['nao_conectado'] = 'Não conectado';
+$lang['conectado'] = 'Conectado';
+$lang['desconectar'] = 'Desconectar';
+
+//assinaturas-cake
+$lang['parabens_seu_plano_esta_ativo_ate'] = 'Parabéns, seu plano esta ativo até';
+$lang['ops'] = 'Ops!';
+$lang['voce_precisa_selecionar_um_plano_para_continuar_usando_o_aplicativo'] = 'Você precisa selecionar um plano para continuar usando o aplicativo.';
+$lang['voce_esta_no_período_trial_que_vence_no_dia'] = 'Você esta no período trial que vence no dia';
+$lang['para_continuar_utilizando_o_app_apos_essa_data_voce_precisa_selecionar_umplano'] = 'Para continuar utilizando o app após essa data você precisa selecionar um plano.';
+$lang['parabens_voce_ja_selecionou_um_plano'] = 'Parabéns, você já selecionou um plano.';
+$lang['na_data_de'] = 'Na data de';
+$lang['finaliza_seu_periodo_trial_e_sera_feita_uma_cobranca_no_metodo_de_pagamento_selecionado'] = ' finaliza seu período trial e sera feita uma cobrança no método de pagamento selecionado.';
+$lang['assinatura_selecione_o_seu_plano'] = 'Assinatura - Selecione o seu plano';
+$lang['as'] = 'as';
+$lang['plano_atual'] = 'Plano Atual:';
+$lang['proximo_vencimento'] = 'Próximo vencimento:';
+$lang['data_de_instalacao'] = 'Data de instalação:';
+$lang['ultimo_pagamento'] = 'Último pagamento:';
+$lang['cartao_cadastrado'] = 'Cartão cadastrado:';
+$lang['alterar'] = ' Alterar';
+$lang['nenhum_cartao_cadastrado'] = 'Nenhum cartão cadastrado';
+$lang['selecionar'] = 'Selecionar';
+$lang['faturas'] = 'Faturas';
+$lang['n_transacao'] = 'N.° Transação';
+$lang['plano'] = 'Plano';
+$lang['data'] = 'Data';
+$lang['valor'] = 'Valor';
+$lang['voce_nao_possui_nenhuma_fatura'] = 'Você não possui nenhuma fatura';
+$lang['credito'] = 'Credito';
+$lang['numero_do_cartao'] = 'Número do cartão';
+$lang['nome_do_titular'] = 'Nome do titular';
+$lang['mm_aa'] = 'MM/AA';
+$lang['data_de_validade'] = 'Data de validade';
+$lang['cvv'] = 'CVV';
+$lang['finalizar_compra'] = 'Finalizar Compra';
+
+//pageCuponsMassa-cake
+$lang['importar_cupons_em_massa'] = 'Importar cupons em massa';
+$lang['download_csv_modelo'] = ' Download CSV modelo';
+$lang['integrar_com_a_nuvemshop'] = 'Integrar com a Nuvemshop';
+$lang['tipo'] = 'Tipo';
+$lang['preco_minimo'] = 'Preço minimo';
+$lang['data_de_inicio'] = 'Data de inicio';
+$lang['data_de_termino'] = 'Data de término';
+$lang['categorias'] = 'Categorias';
+$lang['marcar_primeira_compra'] = 'Marcar primeira compra';
+$lang['marcar_unica_compra'] = 'Marcar única compra';
+$lang['importar_cupons'] = ' Importar Cupons';
+$lang['recomendamos_que_assista_o_video_tutorial_abaixo_para_configurar_corretamente_o_seu_aplicativo'] = 'Recomendamos que assista o vídeo tutorial abaixo, para configurar corretamente o seu aplicativo.';

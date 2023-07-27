@@ -1,0 +1,378 @@
+Array
+(
+    [0] => Array
+        (
+            [email] => andrey@teste.com.br
+            [due_date] => 2022-09-18
+            [customer_id] => 59821E545BCA49EBB12FBD8FFF5FE000
+            [payable_with] => card_credit
+            [discount_cents] => 0
+            [ignore_due_email] => 
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [description] => Tenha acesso a experiência Básico do Salve a Data
+                            [quantity] => 1
+                            [price_cents] => 79
+                        )
+
+                )
+
+            [external_reference] => 4_1
+            [order_id] => 
+            [notification_url] => http://localhost/salveadata/Pagamentos/retornoPagamento
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [email] => andrey@teste.com.br
+            [due_date] => 2022-09-18
+            [customer_id] => CEB19A06889344508582DEDEBB7AF8BC
+            [payable_with] => card_credit
+            [discount_cents] => 0
+            [ignore_due_email] => 
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [description] => Tenha acesso a experiência Básico do Salve a Data
+                            [quantity] => 1
+                            [price_cents] => 79
+                        )
+
+                )
+
+            [external_reference] => 4_1
+            [order_id] => 
+            [notification_url] => http://localhost/salveadata/Pagamentos/retornoPagamento
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [email] => andrey@teste.com.br
+            [due_date] => 2022-09-18
+            [customer_id] => 238784C5064D489495C791E89C1E36D9
+            [payable_with] => credit_card
+            [discount_cents] => 0
+            [ignore_due_email] => 
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [description] => Tenha acesso a experiência Básico do Salve a Data
+                            [quantity] => 1
+                            [price_cents] => 79
+                        )
+
+                )
+
+            [external_reference] => 4_1
+            [order_id] => 
+            [notification_url] => http://localhost/salveadata/Pagamentos/retornoPagamento
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [email] => andrey@teste.com.br
+            [due_date] => 2022-09-18
+            [customer_id] => 89DC8F65F3E54D1AA49125F082DD1F28
+            [payable_with] => credit_card
+            [discount_cents] => 0
+            [ignore_due_email] => 
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [description] => Tenha acesso a experiência Básico do Salve a Data
+                            [quantity] => 1
+                            [price_cents] => 7900
+                        )
+
+                )
+
+            [external_reference] => 4_1
+            [order_id] => 
+            [notification_url] => http://localhost/salveadata/Pagamentos/retornoPagamento
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [email] => andrey@teste.com.br
+            [due_date] => 2022-09-18
+            [customer_id] => FB5C191644E040288B87E8015E2FEC32
+            [payable_with] => credit_card
+            [discount_cents] => 0
+            [ignore_due_email] => 
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [description] => Tenha acesso a experiência Básico do Salve a Data
+                            [quantity] => 1
+                            [price_cents] => 7900
+                        )
+
+                )
+
+            [external_reference] => 4_1
+            [order_id] => 
+            [notification_url] => http://localhost/salveadata/Pagamentos/retornoPagamento
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [email] => andrey@teste.com.br
+            [due_date] => 2022-09-18
+            [customer_id] => 
+            [payable_with] => bank_slip
+            [discount_cents] => 0
+            [ignore_due_email] => 
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [description] => 
+                            [quantity] => 1
+                            [price_cents] => 0
+                        )
+
+                )
+
+            [external_reference] => 4_
+            [order_id] => 
+            [notification_url] => http://localhost/salveadata/Pagamentos/retornoPagamento
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [email] => andrey@teste.com.br
+            [due_date] => 2022-09-18
+            [customer_id] => 
+            [payable_with] => bank_slip
+            [discount_cents] => 0
+            [ignore_due_email] => 
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [description] => Tenha acesso a experiência Básico do Salve a Data
+                            [quantity] => 1
+                            [price_cents] => 7900
+                        )
+
+                )
+
+            [external_reference] => 4_1
+            [order_id] => 
+            [notification_url] => http://localhost/salveadata/Pagamentos/retornoPagamento
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [email] => andrey@teste.com.br
+            [due_date] => 2022-09-18
+            [customer_id] => D224DF1CB7A743B7B08747990B6FBC08
+            [payable_with] => bank_slip
+            [discount_cents] => 0
+            [ignore_due_email] => 
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [description] => Tenha acesso a experiência Básico do Salve a Data
+                            [quantity] => 1
+                            [price_cents] => 7900
+                        )
+
+                )
+
+            [external_reference] => 4_1
+            [order_id] => 
+            [notification_url] => http://localhost/salveadata/Pagamentos/retornoPagamento
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [email] => andrey@teste.com.br
+            [due_date] => 2022-09-18
+            [customer_id] => D
+            [payable_with] => pix
+            [discount_cents] => 0
+            [ignore_due_email] => 
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [description] => Tenha acesso a experiência Básico do Salve a Data
+                            [quantity] => 1
+                            [price_cents] => 7900
+                        )
+
+                )
+
+            [external_reference] => 4_1
+            [order_id] => 
+            [notification_url] => http://localhost/salveadata/Pagamentos/retornoPagamento
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [email] => andrey@teste.com.br
+            [due_date] => 2022-09-18
+            [customer_id] => D224DF1CB7A743B7B08747990B6FBC08
+            [payable_with] => pix
+            [discount_cents] => 0
+            [ignore_due_email] => 
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [description] => Tenha acesso a experiência Básico do Salve a Data
+                            [quantity] => 1
+                            [price_cents] => 7900
+                        )
+
+                )
+
+            [external_reference] => 4_1
+            [order_id] => 
+            [notification_url] => http://localhost/salveadata/Pagamentos/retornoPagamento
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [email] => andrey@teste.com.br
+            [due_date] => 2022-09-18
+            [customer_id] => D224DF1CB7A743B7B08747990B6FBC08
+            [payable_with] => pix
+            [discount_cents] => 0
+            [ignore_due_email] => 
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [description] => Tenha acesso a experiência Básico do Salve a Data
+                            [quantity] => 1
+                            [price_cents] => 7900
+                        )
+
+                )
+
+            [external_reference] => 4_1
+            [order_id] => 
+            [notification_url] => http://localhost/salveadata/Pagamentos/retornoPagamento
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [email] => andrey@teste.com.br
+            [due_date] => 2022-09-18
+            [customer_id] => D224DF1CB7A743B7B08747990B6FBC08
+            [payable_with] => pix
+            [discount_cents] => 0
+            [ignore_due_email] => 
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [description] => Tenha acesso a experiência Básico do Salve a Data
+                            [quantity] => 1
+                            [price_cents] => 7900
+                        )
+
+                )
+
+            [external_reference] => 4_1
+            [order_id] => 
+            [notification_url] => http://localhost/salveadata/Pagamentos/retornoPagamento
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [email] => andrey@teste.com.br
+            [due_date] => 2022-09-18
+            [customer_id] => D224DF1CB7A743B7B08747990B6FBC08
+            [payable_with] => pix
+            [discount_cents] => 0
+            [ignore_due_email] => 
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [description] => Tenha acesso a experiência Básico do Salve a Data
+                            [quantity] => 1
+                            [price_cents] => 7900
+                        )
+
+                )
+
+            [external_reference] => 4_1
+            [order_id] => 
+            [notification_url] => http://localhost/salveadata/Pagamentos/retornoPagamento
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [email] => andrey@teste.com.br
+            [due_date] => 2022-09-19
+            [customer_id] => D224DF1CB7A743B7B08747990B6FBC08
+            [payable_with] => pix
+            [discount_cents] => 0
+            [ignore_due_email] => 
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [description] => Tenha acesso a experiência Básico do Salve a Data
+                            [quantity] => 1
+                            [price_cents] => 7900
+                        )
+
+                )
+
+            [external_reference] => 4_1
+            [order_id] => 
+            [notification_url] => http://localhost/salveadata/Pagamentos/retornoPagamento
+        )
+
+)
