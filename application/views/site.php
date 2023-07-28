@@ -415,192 +415,239 @@
                 </div>
             </div>
         </div>
-
-        <div id="cadastro" class="modal fade" role="dialog" aria-labelledby="exampleModalLiveLabel">
-            <div class="modal-dialog" role="document">
-                <div class="modal-content">
-                    <div class="modal-header text-center">
-                        <h5 class="modal-title" id="exampleModalLiveLabel">Bem-vindo!</h5>
-                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                            <span aria-hidden="true">×</span>
-                        </button>
+    </div>
+   
+    <!-- footer -->
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <div class="content">
+                        <div class="brand"><img src="<?=base_url("site/images/logo.png")?>" alt=""></div>
+                        <p>Copyright © Salve a Data 2022 Todos os direitos reservados</p>
                     </div>
-                    <form action="<?=base_url("Cadastro/novoUsuario")?>" method="post" class="row ajax">
-                        <div class="modal-body">
-                            <div class="row">
-                                <div class="col-sm-6 campoInput">
-                                    <label>Primeiro nome</label>
-                                    <input type="text" class="form-control" placeholder="Primeiro nome" name="nome">
-                                </div>
-                                <div class="col-sm-6 campoInput">
-                                    <label>Último nome</label>
-                                    <input type="text" class="form-control" placeholder="Último nome" name="sobrenome">
-                                </div>
-                                <div class="col-sm-12 campoInput">
-                                    <label>Endereço de e-mail </label>
-                                    <input type="email" class="form-control" placeholder="Endereço de Email"
-                                        name="login">
-                                </div>
-
-                                <div class="col-sm-12 campoInput">
-                                    <label>Senha</label>
-                                    <input type="password" class="form-control" placeholder="Digite a sua senha"
-                                        name="senha">
-                                </div>
-                                <div class="col-sm-12 campoInput text-left">
-                                    <label><input type="checkbox" name="termos"><span>Li e aceito os <a
-                                                href="<?=base_url("politicas/contratosalveadata.pdf")?>" target="_BLANK"
-                                                class="linkForm">Termos de Serviço e Políticas de
-                                                Privacidade</a></span></label>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="modal-footer text-center">
-                            <button type="submit" class="btn btn-primary">Começar agora</button>
-                            <span>Já tem uma conta? <a href="#" class="linkForm iniLogin">Fazer login</a></span>
-                        </div>
-                    </form>
+                </div>
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <div class="content">
+                        <h5>Serviços</h5>
+                        <ul>
+                            <li><a href="#" class="iniCadastro">Site para evento</a></li>
+                            <li><a href="#about">Personalize seu tema</a></li>
+                            <li><a href="#services">Lista de presentes</a></li>
+                            <li><a href="#news">Novidades</a></li>
+                            <li><a href="#portfolio">Álbum de mídias</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <div class="content">
+                        <h5>Suporte</h5>
+                        <ul>
+                            <li><a href="mailto:contato@salveadata.com.br">contato@salveadata.com.br</a></li>
+                            <li><a href="mailto:suporte@salveadata.com.br">suporte@salveadata.com.br</a></li>
+                            <li><a href="https://wa.me/5555996880204" target="_BLANK">55 9 9688-0204
+                                </a></li>
+                            <li><a href="<?=base_url("politicas/contratosalveadata.pdf")?>" target="_BLANK">Termos e
+                                    condições</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <div class="content">
+                        <h5>Redes sociais</h5>
+                        <ul class="social">
+                            <li><a href="https://www.facebook.com/Salve-a-Data-110251628492094"><i
+                                        class="icon ion-logo-facebook"></i> Facebook</a></li>
+                            <li><a href="https://instagram.com/salveadataoficial?igshid=YmMyMTA2M2Y="
+                                    target="_BLANK"><i class="icon ion-logo-instagram"></i> Instagram</a></li>
+                        </ul>
+                    </div>
                 </div>
             </div>
         </div>
+    </footer>
+    <!-- end footer -->
 
-        <div id="recuperarsenha" class="modal fade" role="dialog" aria-labelledby="exampleModalLiveLabel">
-            <form action="<?=base_url("Usuario/recuperarSenha")?>" method="post" class="row ajax">
-                <div class="modal-dialog" role="document">
-                    <div class="modal-content">
-                        <div class="modal-header text-center">
-                            <h5 class="modal-title" id="exampleModalLiveLabel">Recuperação de senha</h5>
-                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                <span aria-hidden="true">×</span>
-                            </button>
-                            <span>Digite seu e-mail para recuperar sua senha</span>
-                        </div>
-                        <div class="modal-body">
-
-                            <div class="col-sm-12 campoInput recSenhaAlvo">
-                                <label>Endereço de Email </label>
-                                <input type="email" class="form-control" placeholder="Digite seu e-mail de cadastro"
-                                    name="email">
+    <div id="cadastro" class="modal fade" role="dialog" aria-labelledby="exampleModalLiveLabel">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header text-center">
+                    <h5 class="modal-title" id="exampleModalLiveLabel">Bem-vindo!</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">×</span>
+                    </button>
+                </div>
+                <form action="<?=base_url("Cadastro/novoUsuario")?>" method="post" class="row ajax">
+                    <div class="modal-body">
+                        <div class="row">
+                            <div class="col-sm-6 campoInput">
+                                <label>Primeiro nome</label>
+                                <input type="text" class="form-control" placeholder="Primeiro nome" name="nome">
+                            </div>
+                            <div class="col-sm-6 campoInput">
+                                <label>Último nome</label>
+                                <input type="text" class="form-control" placeholder="Último nome" name="sobrenome">
+                            </div>
+                            <div class="col-sm-12 campoInput">
+                                <label>Endereço de e-mail </label>
+                                <input type="email" class="form-control" placeholder="Endereço de Email"
+                                    name="login">
                             </div>
 
-                        </div>
-                        <div class="modal-footer text-center">
-                            <button type="submit" class="btn btn-primary">Recuperar minha senha</button>
-                            <span>Lembrei minha senha <a href="#" class="linkForm iniCadastro">Fazer login</a></span>
+                            <div class="col-sm-12 campoInput">
+                                <label>Senha</label>
+                                <input type="password" class="form-control" placeholder="Digite a sua senha"
+                                    name="senha">
+                            </div>
+                            <div class="col-sm-12 campoInput text-left">
+                                <label><input type="checkbox" name="termos"><span>Li e aceito os <a href="<?=base_url("politicas/contratosalveadata.pdf")?>" target="_BLANK" class="linkForm">Termos de Serviço e Políticas de Privacidade</a></span></label>
+                            </div>
                         </div>
                     </div>
-                </div>
-            </form>
+                    <div class="modal-footer text-center">
+                        <button type="submit" class="btn btn-primary">Começar agora</button>
+                    </div>
+                </form>
+            </div>
         </div>
-        <!-- end footer bottom -->
+    </div>
 
-        <!-- Style modal -->
-        <style>
-        .modal-title {
-            margin-bottom: 0;
-            line-height: 1.5;
-            display: inline-block;
-            width: 100%;
-            font-size: 30px;
-        }
+    <div id="recuperarsenha" class="modal fade" role="dialog" aria-labelledby="exampleModalLiveLabel">
+        <form action="<?=base_url("Usuario/recuperarSenha")?>" method="post" class="row ajax">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header text-center">
+                        <h5 class="modal-title" id="exampleModalLiveLabel">Recuperação de senha</h5>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">×</span>
+                        </button>
+                        <span>Digite seu e-mail para recuperar sua senha</span>
+                    </div>
+                    <div class="modal-body">
 
-        .campoInput {
-            margin: 15px 0px;
-        }
+                        <div class="col-sm-12 campoInput recSenhaAlvo">
+                            <label>Endereço de Email </label>
+                            <input type="email" class="form-control" placeholder="Digite seu e-mail de cadastro"
+                                name="email">
+                        </div>
 
-        .campoInput input.form-control {
-            border-radius: 3px !important;
-            border: none;
-            padding: 25px;
-            background: #E7ECF3;
-        }
+                    </div>
+                    <div class="modal-footer text-center">
+                        <button type="submit" class="btn btn-primary">Recuperar minha senha</button>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+    <!-- end footer bottom -->
 
-        .campoInput label {
-            font-size: 15px;
-            color: #000000;
-        }
+    <!-- Style modal -->
+    <style>
+    .modal-title {
+        margin-bottom: 0;
+        line-height: 1.5;
+        display: inline-block;
+        width: 100%;
+        font-size: 30px;
+    }
 
-        .modal-content {
-            padding: 20px;
-        }
+    .campoInput {
+        margin: 15px 0px;
+    }
 
-        .linkForm {
-            color: #316BFF;
+    .campoInput input.form-control {
+        border-radius: 3px !important;
+        border: none;
+        padding: 25px;
+        background: #E7ECF3;
+    }
 
-        }
+    .campoInput label {
+        font-size: 15px;
+        color: #000000;
+    }
+
+    .modal-content {
+        padding: 20px;
+    }
+
+    .linkForm {
+        color: #316BFF;
+
+    }
 
 
-        button.btn.btn-primary {
-            background: linear-gradient(180deg, #283B6B 0%, #1E305E 100%);
-            border-radius: 4px;
-            width: 100%;
-            font-size: 21px;
-        }
+    button.btn.btn-primary {
+        background: linear-gradient(180deg, #283B6B 0%, #1E305E 100%);
+        border-radius: 4px;
+        width: 100%;
+        font-size: 21px;
+    }
 
-        a.button {
-            background: linear-gradient(180deg, #283B6B 0%, #1E305E 100%);
-            border-radius: 4px;
-            width: 100%;
-        }
+    a.button {
+        background: linear-gradient(180deg, #283B6B 0%, #1E305E 100%);
+        border-radius: 4px;
+        width: 100%;
+    }
 
-        .modal-header .close {
-            padding: 0.5rem 0.9rem;
-            margin: -1rem -1rem -1rem auto;
-            top: -80px;
-            position: relative;
-            right: -40px;
-            background: #ffffff;
-            border-radius: 50%;
-            opacity: 100;
-        }
+    .modal-header .close {
+        padding: 0.5rem 0.9rem;
+        margin: -1rem -1rem -1rem auto;
+        top: -80px;
+        position: relative;
+        right: -40px;
+        background: #ffffff;
+        border-radius: 50%;
+        opacity: 100;
+    }
 
-        .campoInput input[type="checkbox"] {
-            width: 20px;
-            display: inline-block;
-            margin-right: 8px;
-            top: 0px;
-            position: relative;
-        }
-        </style>
-        <!-- Fim Style modal -->
-        <!-- script -->
-        <script src="<?=base_url("site/js/jquery-3.5.1.min.js")?>"></script>
-        <script src="<?=base_url("site/js/bootstrap.bundle.min.js")?>"></script>
-        <script src="<?=base_url("site/js/jquery.filterizr.min.js")?>"></script>
-        <script src="<?=base_url("site/js/imagesloaded.pkgd.min.js")?>"></script>
-        <script src="<?=base_url("site/js/magnific-popup.min.js")?>"></script>
-        <script src="<?=base_url("site/js/contact-form.js")?>"></script>
-        <script src="<?=base_url("site/js/main.js")?>"></script>
-        <script src="<?= base_url("js/sweetalert/sweetalert2.all.min.js") ?>"></script>
-        <link rel="stylesheet" href="<?= base_url("js/sweetalert/sweetalert2.min.css") ?>" crossorigin="anonymous"
-            referrerpolicy="no-referrer" />
-        <script src="<?= base_url('js/func_jqueryPHP.js') ?>"></script>
-        <script src="<?= base_url('js/js.js') ?>"></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/izitoast/1.4.0/js/iziToast.min.js"
-            integrity="sha512-Zq9o+E00xhhR/7vJ49mxFNJ0KQw1E1TMWkPTxrWcnpfEFDEXgUiwJHIKit93EW/XxE31HSI5GEOW06G6BF1AtA=="
-            crossorigin="anonymous"></script>
+    .campoInput input[type="checkbox"] {
+        width: 20px;
+        display: inline-block;
+        margin-right: 8px;
+        top: 0px;
+        position: relative;
+    }
+    </style>
+    <!-- Fim Style modal -->
+    <!-- script -->
+    <script src="<?=base_url("site/js/jquery-3.5.1.min.js")?>"></script>
+    <script src="<?=base_url("site/js/bootstrap.bundle.min.js")?>"></script>
+    <script src="<?=base_url("site/js/jquery.filterizr.min.js")?>"></script>
+    <script src="<?=base_url("site/js/imagesloaded.pkgd.min.js")?>"></script>
+    <script src="<?=base_url("site/js/magnific-popup.min.js")?>"></script>
+    <script src="<?=base_url("site/js/contact-form.js")?>"></script>
+    <script src="<?=base_url("site/js/main.js")?>"></script>
+    <script src="<?= base_url("js/sweetalert/sweetalert2.all.min.js") ?>"></script>
+    <link rel="stylesheet" href="<?= base_url("js/sweetalert/sweetalert2.min.css") ?>" crossorigin="anonymous"
+        referrerpolicy="no-referrer" />
+    <script src="<?= base_url('js/func_jqueryPHP.js') ?>"></script>
+    <script src="<?= base_url('js/js.js') ?>"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/izitoast/1.4.0/js/iziToast.min.js"
+        integrity="sha512-Zq9o+E00xhhR/7vJ49mxFNJ0KQw1E1TMWkPTxrWcnpfEFDEXgUiwJHIKit93EW/XxE31HSI5GEOW06G6BF1AtA=="
+        crossorigin="anonymous"></script>
 
-        <script>
-        $(document).ready(function() {
-            $('.carousel2').carousel();
-            $(".iniCadastro").click(function() {
-                $("#login").modal("hide");
-                $("#recuperarsenha").modal("hide");
-                $("#cadastro").modal("show");
-            });
-            $(".iniLogin").click(function() {
-                $("#recuperarsenha").modal("hide");
-                $("#cadastro").modal("hide");
-                $("#login").modal("show");
-            });
-            $(".iniSenha").click(function() {
-                $("#login").modal("hide");
-
-                $("#cadastro").modal("hide");
-                $("#recuperarsenha").modal("show");
-            });
+    <script>
+    $(document).ready(function() {
+        $('.carousel2').carousel();
+        $(".iniCadastro").click(function() {
+            $("#login").modal("hide");
+            $("#recuperarsenha").modal("hide");
+            $("#cadastro").modal("show");
         });
-        </script>
+        $(".iniLogin").click(function() {
+            $("#recuperarsenha").modal("hide");
+            $("#cadastro").modal("hide");
+            $("#login").modal("show");
+        });
+        $(".iniSenha").click(function() {
+            $("#login").modal("hide");
+
+            $("#cadastro").modal("hide");
+            $("#recuperarsenha").modal("show");
+        });
+    });
+    </script>
 
 </body>
 
