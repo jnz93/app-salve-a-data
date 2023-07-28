@@ -376,28 +376,10 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="#home">Home</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#about">Personalize seu site</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#portfolio">Mídias e álbuns</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#services">Lista de presentes</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#leads">Novidades</a>
+                        <a class="nav-link" href="https://salveadata.com.br">Site</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="<?=base_url("contato")?>">Contato</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link iniLogin" href="#">Login</a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="#" class="button iniCadastro"><?=$bt_criar_site?></a>
                     </li>
                 </ul>
             </div>
