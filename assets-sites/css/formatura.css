@@ -72,12 +72,43 @@ h2.titlePrincipal {
     color: #3B3E44;
 }
 
-#home .container {
+/* #home .container {
     margin-top: -141px !important;
+} */
+
+
+div#home {
+    margin: 0 auto;
+    padding: 0;
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    min-height: 550px;
+}
+#home::before{
+    content: '';
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.6);
 }
 
 #countdown h3.titleCentro {
-    margin-bottom: 30px !important;
+    font-size: 32px !important;
+    font-weight: normal !important;
+    margin: 12px auto !important;
+    line-height: 48px;
+}
+#countdown ul li {
+    border: 1px solid rgba(20, 20, 22, 0.2) !important;
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.1) !important;
+    border-radius: 15px !important;
+    width: 132px !important;
 }
 
 p.descricaoEsquerda {
@@ -156,7 +187,6 @@ footer ul li a {
     font-size: 16px;
     line-height: 24px;
     text-align: center;
-    color: #ffffff;
 }
 
 .flipper {
@@ -573,10 +603,10 @@ button.btn.btn-link.btn-block.text-left {
     color: #8a8a8a;
 }
 
-.container {
+/* .container {
     display: inline-block;
     min-height: 38px;
-}
+} */
 
 .section-bottom-only {
     padding-bottom: 90px;
@@ -606,11 +636,11 @@ div#process-work {
     font-size: 18px !important;
 }
 
-#countdown li span {
+/* #countdown li span {
     display: block;
     font-size: 3.5rem !important;
     height: 65px;
-}
+} */
 
 div#presenca {
     height: 434px;
@@ -637,10 +667,10 @@ div#carouselExampleControls {
     margin-top: 37px;
 }
 
-#portfolio .row {
+/* #portfolio .row {
     width: 100% !important;
     display: inline-block !important;
-}
+} */
 
 h2.titlePrincipal span {
     font-size: 73px !important;
@@ -666,6 +696,69 @@ div#endereco {
     margin-top: 80px !important;
 }
 
+ul.navbar-nav.ml-auto {
+    margin: 0 auto !important;
+}
+
+/* .container {
+    display: inline-block;
+    min-height: 38px;
+    width: 100% !important;
+    max-width: 100%;
+} */
+
+div#portfolio {
+    background: #f7f9fd !important;
+    width: 100%;
+    margin: 0;
+    display: inline-block;
+}
+
+.topoPrincipal{
+    margin: 0 auto !important;
+}
+
+#countdown li {
+    background: rgba(177, 181, 196, 0.1) !important;
+    border: 1px solid rgba(20, 20, 22, 0.2) !important;
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.1) !important;
+    border-radius: 4px !important;
+    padding: 0 !important;
+    width: 132px !important;
+}
+
+/* .row {
+    width: 100%;
+} */
+
+.textoPadrao p {
+    width: 100%;
+    max-width: 700px;
+    margin: 10px auto;
+}
+
+#sobre .row.no-gutters.filter-container {
+    padding-top: 70px!important;
+}
+img.imgSobre {
+    max-width: 415px;
+    width: 100%;
+    border-radius: 50%;
+    height: auto;
+}
+
+li.dataEvento {
+    width: 100%;
+    color: #ffffff;
+    font-size: 25px;
+    font-weight: bold;
+    padding-top: 20px;
+}
+
+#portfolio h3.titleCentro{
+    margin: 0 !important;
+}
+
 @media (max-width: 767px) {
 
     h3, h2 {
@@ -677,16 +770,16 @@ div#endereco {
     }
 
     #presenca h3.titleEsquerda {
-        font-size: 38px !important;
+        font-size: 24px !important;
     }
 
     #presenca h3.titleDireito {
         margin-top: 40px !important;
-        font-size: 30px !IMPORTANT;
+        font-size: 24px !important;
     }
 
     #process-work h3.titleDireito {
-        font-size: 30px !IMPORTANT;
+        font-size: 30px !important;
     }
     div#countdown {
         margin-top: 1px !important;
@@ -694,12 +787,21 @@ div#endereco {
 
     #portfolio h3.titleCentro {
         margin-top: 20px !important;
+        font-size: 32px !important;
+    }
+    
+    h2.titlePrincipal span {
+        font-size: 52px !important;
+        line-height: 64px;
     }
 
     div#home.bgBannerMobile {
         height: 602px !important;
         margin: 0 auto;
         padding: 0;
+        align-items: center;
+        justify-content: center;
+        display: flex !important;
     }
 
     #countdown h3.titleCentro {
@@ -718,18 +820,18 @@ div#endereco {
     }
 
     #countdown h3.titleCentro {
-       
-        font-size: 36px !important;
+        font-size: 24px !important;
+        margin-bottom: 16px;
     }
 
     .carousel-item img {
         width: 100% !important;
     }
 
-    #countdown li span {
+    /* #countdown li span {
         font-size: 1.5rem !important;
         height: 40px !important;
-    }
+    } */
 
     #countdown li {
         font-size: 10px !important;
@@ -780,63 +882,6 @@ div#endereco {
     }
 }
 
-ul.navbar-nav.ml-auto {
-    margin: 0 auto !important;
-}
-
-.container {
-    display: inline-block;
-    min-height: 38px;
-    width: 100% !important;
-    max-width: 100%;
-}
-
-.topoPrincipal{
-    margin: 0 auto !important;
-}
-
-#countdown li {
-    background: rgba(177, 181, 196, 0.1) !important;
-
-
-border: 1px solid rgba(20, 20, 22, 0.2) !important;
-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.1) !important;
-border-radius: 4px !important;
-    padding: 0 !important;
-    width: 132px !important;
-}
-
-
-
-.row {
-    width: 100%;
-}
-
-.textoPadrao p {
-    width: 100%;
-    max-width: 700px;
-    margin: 10px auto;
-}
-
-#sobre .row.no-gutters.filter-container {
-    padding-top: 70px!important;
-}
-img.imgSobre {
-    max-width: 415px;
-    width: 100%;
-    border-radius: 50%;
-    height: auto;
-}
-
-li.dataEvento {
-    width: 100%;
-    color: #ffffff;
-    font-size: 25px;
-    font-weight: bold;
-    padding-top: 20px;
-}
-
-
 @media (max-width: 1386px) {
     .home-intro {
         padding: 50px 0 !important;
@@ -847,6 +892,31 @@ li.dataEvento {
 
     div#process-work {
         margin-top: -40px !important;
+    }
+
+    img.imgSobre {
+        width: 300px;
+        height: 300px;
+        border-radius: 10% !important;
+        box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    }
+    
+}
+
+@media (min-width: 980px){
+    #portfolio{
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+
+    #portfolio .section-title {
+        text-align: center;
+        margin-bottom: 7px !important;
+        margin-top: 0 !important;
+    }
+    
+    #sobre .row.no-gutters.filter-container {
+        padding: 70px 100px 0!important;
     }
 }
 

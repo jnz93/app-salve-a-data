@@ -19,23 +19,18 @@
         <div class="section-title">
             <h3 class="titleCentro"><?=$introducao["titulo"]?></h3>
         </div>
-        
 
         <div class="row no-gutters filter-container">
-            <div class="row">
-                <div class="col-12 text-center textoPadrao">
-                  
-
-                    <?=$introducao["texto"]?>
-                </div>
+            <div class="col-12 text-center textoPadrao">
+                <?=$introducao["texto"]?>
             </div>
         </div>
 
         <?php
-    if($evento["contagemRegressiva"]){
-         $this->load->view("blocos/clock");
-    }
-    ?>
+            if($evento["contagemRegressiva"]){
+                $this->load->view("blocos/clock");
+            }
+        ?>
 
     </div>
 </div>
@@ -45,24 +40,18 @@
     <div class="container">
 
         <div class="row no-gutters filter-container">
-            <?php
-                    foreach($protagonistas as $protagonista){
-                        ?>
-            <div class="row">
-                <div class="col-12 col-sm-4">
-                    <img src="<?=($protagonista["foto"] != "" ? $protagonista["foto"] : base_url("assets/images/users/avatar-2.jpg"))?>"
-                        class="imgSobre">
-                </div>
-                <div class="col-12 col-sm-8  textoSobre">
-                    <h2 class="tituloSobre">Sobre <?=$protagonista["firstName"]?></h2>
-                    <p><?=$protagonista["descricao"]?></p>
+            <?php foreach($protagonistas as $protagonista){ ?>
+                <div class="row align-items-center">
+                    <div class="col-12 col-sm-4">
+                        <img src="<?=($protagonista["foto"] != "" ? $protagonista["foto"] : base_url("assets/images/users/avatar-2.jpg"))?>" class="imgSobre">
+                    </div>
+                    <div class="col-12 col-sm-8  textoSobre">
+                        <h2 class="tituloSobre">Sobre <?=$protagonista["firstName"]?></h2>
+                        <p><?=$protagonista["descricao"]?></p>
 
+                    </div>
                 </div>
-            </div>
-
-            <?php
-                    }
-                ?>
+            <?php } ?>
 
         </div>
 
@@ -73,34 +62,35 @@
     <div class="container">
         <div class="row">
 
-            <div class="col-12 text-center">
+            <div class="col-12 text-center d-flex align-items-center justify-content-center">
                 <div class="">
                     <h3 class="titleDireito">
                         <?=($config["titMsg"] != "" ? $config["titMsg"] : "Mensagens")?> </h3>
                     <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
                         <div class="carousel-inner">
-                            <?php
-                                    foreach($mensagens as $i=>$mensagem){
-                                        ?>
-                            <div class="carousel-item <?=($i > 0 ? "" : "active")?>">
-                                <p class="descricaoMensagem"><?=$mensagem["mensagem"]?></p>
-                                <p class="descricaoMensagem">Ass: <?=$mensagem["nome"]?></p>
-                            </div>
-                            <?php
-                                    }
-                                ?>
-
+                            <?php if(empty($mensagens)) : ?>
+                                <div class="carousel-item active">
+                                    <p class="descricaoMensagem"></p>
+                                </div>
+                            <?php else : ?>
+                                <?php foreach($mensagens as $i=>$mensagem){ ?>
+                                    <div class="carousel-item <?=($i > 0 ? "" : "active")?>">
+                                        <p class="descricaoMensagem"><?=$mensagem["mensagem"]?></p>
+                                        <p class="descricaoMensagem">Ass: <?=$mensagem["nome"]?></p>
+                                    </div>
+                                <?php } ?>
+                                <a class="carousel-control-prev" href="#carouselExampleControls" role="button"
+                                    data-slide="prev">
+                                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                    <span class="sr-only">Previous</span>
+                                </a>
+                                <a class="carousel-control-next" href="#carouselExampleControls" role="button"
+                                    data-slide="next">
+                                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                    <span class="sr-only">Next</span>
+                                </a>
+                            <?php endif; ?>
                         </div>
-                        <a class="carousel-control-prev" href="#carouselExampleControls" role="button"
-                            data-slide="prev">
-                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                            <span class="sr-only">Previous</span>
-                        </a>
-                        <a class="carousel-control-next" href="#carouselExampleControls" role="button"
-                            data-slide="next">
-                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                            <span class="sr-only">Next</span>
-                        </a>
                     </div>
 
 
@@ -202,18 +192,23 @@
 <!-- end services -->
 
 <!-- footer -->
-<footer>
+<footer class="pt-5 pb-5">
     <div class="container">
         <div class="row">
-            <div class="col-md-9 col-sm-9 col-xs-9">
-                <div class="content">
-                    <div class="brand"><img src="<?=base_url("site/images/logo.png")?>" alt=""></div>
+            <div class="col-12 col-md-12 col-sm-12 col-xs-12">
+                <div class="content d-flex align-items-center justify-content-center flex-wrap">
+                    <div class="brand">
+                        <a href="https://www.salveadata.com.br/" class="" target="_blank">
+                            <img src="<?=base_url("site/images/logo.png")?>" alt="">
+                        </a>
+                    </div>
+                    <span class="w-100 text-center">Esta página foi feita através da plataforma <a href="https://www.salveadata.com.br/" class="" target="_blank"><b>Salve a Data<b></a></span>
                 </div>
             </div>
 
 
-            <div class="col-md-3 col-sm-3 col-xs-3">
-                <div class="content">
+            <div class="col-6 col-md-3 col-sm-3 col-xs-3">
+                <div class="content d-none">
                     <a href="<?=base_url("Site/index")?>" class="botaoCriarSite">Criar site</a>
 
                 </div>
@@ -221,4 +216,4 @@
         </div>
     </div>
 </footer>
-<!-- end footer -->
+<!-- end footer --> 

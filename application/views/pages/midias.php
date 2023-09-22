@@ -35,13 +35,9 @@
                 <div class="card-body">
                     <div class="tab-content p-3 text-muted">
                         <div class="card-body">
-                        <?php
-        if($evento["id_plano"] == 2){
-            ?>
-        <a href="<?=base_url("albunsmidia")?>" type="button" class="btn btn-primary btn-sm waves-effect waves-light voltaPagina"><span class="mdi mdi-folder-multiple-image"></span> Voltar para albúns</a>
-            <?php
-        }
-    ?>
+                            <?php if($evento["id_plano"] == 2){ ?>
+                                <a href="<?=base_url("albunsmidia")?>" type="button" class="btn btn-primary btn-sm waves-effect waves-light voltaPagina"><span class="mdi mdi-folder-multiple-image"></span> Voltar para albúns</a>
+                            <?php } ?>
                             <h4 class="card-title">Álbum de fotos - <?=$album["titulo"]?></h4>
                             <p class="card-title-desc">Compartilhe com seus convidados suas melhores fotos.</p>
                             <div class="row nomeAlbumForm">
@@ -100,11 +96,11 @@
                                         <?php
                                     }else{
                                         ?>
-                                            <div class="uploadFotos row box-filtro" style="display:none;">
+                                        <div class="uploadFotos row box-filtro" style="display:none;">
                                         
-                                        <a href="<?=base_url("assinaturas")?>" type="button"
-                                        class="btn btn-primary btn-sm waves-effect waves-light abreEnviaImagens"><span
-                                            class="mdi mdi-plus-thick"></span> Você atingiu o limite máximo de fotos do seu plano, clique aqui para selecionar um plano ou exclua arquivos existentes.</a>
+                                        <a href="<?=base_url("assinaturas")?>" type="button" class="btn btn-primary btn-sm waves-effect waves-light abreEnviaImagens">
+                                            <span class="mdi mdi-plus-thick"></span> Você atingiu o limite máximo de fotos do seu plano, clique aqui para selecionar um plano ou exclua arquivos existentes.
+                                        </a>
     
                                         <div>
                                             
@@ -115,23 +111,25 @@
                                 ?>
                             </div>
                             <div class="row albuns">
-                                <?php
-                                    foreach($midias as $midia){
-                                        ?>
-                                <div class="col-sm-3">
-                                    <div class="linhaAlbumMidia">
-                                        <img src="<?=$midia["midia"]?>" class="midiaAlbum">
-                                        <a href="<?=base_url("Ajax/deletarMidia/".$midia["id_midia"]."/".$album["id_album"])?>"
-                                            class="deletarFoto ajax" data-bs-toggle="tooltip" data-bs-placement="top"
-                                            title="Deletar Imagem"><span
-                                                class="mdi mdi-delete-circle-outline"></span></a>
+                                <?php # echo '<pre>'; print_r($midias); echo '</pre>'; ?>
+                                <?php foreach($midias as $midia){ ?>
+                                    <div class="col-sm-3">
+                                        <div class="linhaAlbumMidia">
+                                            <?php
+                                            $extensao = strtolower(pathinfo($midia['midia'], PATHINFO_EXTENSION));
+                                            $allowedImages = ['jpg', 'jpeg', 'png', 'gif'];
+                                            $allowedVideos = ['mp4', 'avi', 'mkv', 'mov', 'wmv'];
+                                            if(in_array($extensao, $allowedImages)): ?>
+                                                <img src="<?=$midia["midia"]?>" class="midiaAlbum">
+                                            <?php else : ?>
+                                                <video src="<?=$midia['midia']?>" autoplay="false" controls style="max-width: 245px;"></video>
+                                            <?php endif; ?>
+                                            <a href="<?=base_url("Ajax/deletarMidia/".$midia["id_midia"]."/".$album["id_album"])?>" class="deletarFoto ajax" data-bs-toggle="tooltip" data-bs-placement="top" title="Deletar Imagem">
+                                                <span class="mdi mdi-delete-circle-outline"></span>
+                                            </a>
+                                        </div>
                                     </div>
-                                </div>
-
-                                <?php
-                                    }
-                                ?>
-
+                                <?php } ?>
                             </div>
 
                         </div>

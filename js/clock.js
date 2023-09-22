@@ -30,17 +30,18 @@
             const now = new Date().getTime(),
                 distance = countDown - now;
                // console.log(distance);
-               var faltaMeses = Math.floor(distance / (month));
-               if(faltaMeses > 0){
+            var faltaMeses = Math.floor(distance / (month));
+            if(faltaMeses > 0){
                 $(".meses").html(faltaMeses);
                 $(".dias").html(Math.floor((distance % (month)) / (day)));
-               }else{
-                $(".meses").html(0);
+            }else{
+                // $(".meses").html(0);
+                $(".meses").parents('li').remove();
                 $(".dias").html(Math.floor(distance / (day)));
-               }
-               $(".horas").html(Math.floor((distance % (day)) / (hour)));
-               $(".minutos").html(Math.floor((distance % (hour)) / (minute)));
-               $(".segundos").html(Math.floor((distance % (minute)) / second));
+            }
+            $(".horas").html(Math.floor((distance % (day)) / (hour)));
+            $(".minutos").html(Math.floor((distance % (hour)) / (minute)));
+            $(".segundos").html(Math.floor((distance % (minute)) / second));
             //do something later when date is reached
             if (distance < 0) {
                 document.getElementById("headlineClock").innerText = textoHoje;

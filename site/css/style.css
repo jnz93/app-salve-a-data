@@ -81,6 +81,26 @@ a {
     color: #020312;
 }
 
+.fs-1{
+    font-size: 67px !important;
+}
+
+.fs-2{
+    font-size: 52px !important;
+}
+
+.fs-3{
+    font-size: 42px !important;
+}
+
+.fs-4{
+    font-size: 32px !important;
+}
+
+.fs-5{
+    font-size: 21px !important;
+}
+
 a:hover {
     text-decoration: none;
     transition: .5s ease-out;
@@ -90,20 +110,20 @@ h2.titlePrincipal {
     margin-top: 150px;
 }
 
-.container {
+/* .container {
     display: inline-block;
     min-height: 38px;
     width: 100% !important;
     max-width: 100% !important;
-}
+} */
 
 #lista h3.titleDireito {
     margin-top: 140px !important;
 }
 
-#portfolio .container {
+/* #portfolio .container {
     max-width: 80% !important;
-}
+} */
 
 div#final {
     height: 515px;
@@ -118,7 +138,7 @@ div#lista {
 }
 
 div#home {
-    height: 620px;
+    height: 60vh !important;
 }
 
 .img-fluid img {
@@ -612,7 +632,7 @@ form textarea {
 
 /* footer */
 footer {
-    background: #020312;
+    background: #fff;
     padding: 90px 0 80px;
 }
 
@@ -624,7 +644,7 @@ footer .brand {
 }
 
 footer .brand img {
-    width: 55px;
+    width: 148px !important;
 }
 
 footer h5 {
@@ -702,7 +722,10 @@ div#final {
 }
 
 @media (max-width:767px) {
-
+    h2.tituloSobre{
+        font-size: 32px !important;
+        margin-bottom: 8px;
+    }
     #lista h3.titleDireito {
         margin-top: 214px !important;
     }
@@ -725,27 +748,35 @@ div#final {
         font-size: 16px;
         line-height: 24px;
         color: #FFFFFF;
-        padding: 0 80px !important;
+        padding: 0 !important;
     }
 
     .home-intro .content h2 {
-        font-size: 40px;
-        margin-top: 156px !important;
+        font-size: 52px;
+        line-height: 64px;
+        /* margin-top: 156px !important; */
     }
+    
 
-    #portfolio .container {
+    /* #portfolio .container {
         max-width: 100% !important;
-    }
+    } */
 
     .img-fluid img {
-        height: 70px !important;
         width: auto;
-        border-radius: 19px;
+        height: 96px !important;
+        border-radius: 8px;
+        margin-bottom: 8px;
     }
     h3.titleDireito {
         font-size: 20px !important;
         line-height: normal !important;
     }
+
+    h3.titleCentro{
+        font-size: 32px !important;
+    }
+
     .navbar .navbar-nav {
         background: #fff;
         box-shadow: 0 12px 30px -15px rgba(0, 0, 0, 0.2);

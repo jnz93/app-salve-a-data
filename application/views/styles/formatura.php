@@ -33,44 +33,29 @@
 
     
 
-    footer {
+    /* footer {
         background: <?=$config["corPrincipal"]?>;
         padding: 0;
-    }
+    } */
 
     .bannerMensagens{
         background: <?=$config["corFundoMsg"]?>;
         height: auto !important;
     }
 
-    #portfolio h3.titleCentro,#countdown .titleCentro {
+    /* #portfolio h3.titleCentro, */
+    #countdown .titleCentro {
         color: <?=$config["corTextosBanner"]?> !important;
-}
-
-
-
-
-    <?php
-        if($config["corContadorTempo"] != ""){
-            ?>
-            /* #countdown li{
-                background: <?=$config["corContadorTempo"]?> !important;
-            } */
-            
-            <?php
-        }
-    ?>
-
-   
+    }
 
     nav.navbar.navbar-expand-md.navbar-light {
         background: <?=$config["corPrincipal"]?>;
         padding: 0px;
     }
 
-    div#portfolio {
-    background: <?=$config["corPrincipal"]?>;
-}
+    /* div#portfolio {
+        background: <?=$config["corPrincipal"]?>;
+    } */
 
     .navbar .navbar-nav li .nav-link {
         font-size: 15px;
@@ -121,6 +106,21 @@
         background-color:<?=$config["corPrincipal"]?> !important;
     }
    
-
+    <?php
+        if(strlen($config["corContadorTempo"]) > 1 ){
+            ?>
+            #countdown li{
+                background: <?= $config["corContadorTempo"]?> !important;
+            }
+            
+            <?php
+        } else {
+            ?>
+            #countdown li{
+                background: <?=$config["corPrincipal"]?> !important;
+            }
+            <?php
+        }
+    ?>
    
     </style>

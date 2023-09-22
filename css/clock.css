@@ -2,6 +2,7 @@
     color: #333;
     margin: 0 auto;
     text-align: center;
+    margin-top: 64px;
 }
 
 #countdown h1 {
@@ -13,18 +14,23 @@
 #countdown li {
     width: 205px;
     display: inline-block;
-    font-size: 1.5em;
     list-style-type: none;
     text-transform: uppercase;
-    padding: 30px 40px;
+    padding: 16px !important;
     border-radius: 50%;
     background: #000000;
     color: #ffffff;
 }
 
-#countdown li span {
+#countdown li span.clock-time {
+    width: 100%;
     display: block;
-    font-size: 4.5rem;
+    font-size: 2.5rem;
+}
+#countdown li span.clock-label{
+    width: 100%;
+    display: block;
+    font-size: .8rem;
 }
 
 #countdown.emoji {

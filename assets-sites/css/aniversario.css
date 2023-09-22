@@ -22,8 +22,31 @@ a.nav-link {
     padding: 36px 0;
 }
 
+nav.navbar.navbar-expand-md.navbar-light {
+    background: #000000;
+    padding: 0px;
+    z-index: 2;
+}
+
+div#home{
+    position: relative;
+    overflow: hidden;
+}
+
+div#home:before {
+    content: '';
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.4);
+}
+
 #presenca h3.titleDireito {
-    margin-top: 140px !important;
+    margin-top: 50px!important;
+    line-height: 50px;
 }
 
 .section-title {
@@ -397,7 +420,8 @@ footer ul li a {
 }
 
 .textoSobre {
-    padding: 30px;
+    padding: 40px 30px 0;
+    text-align: left;
 }
 
 .btTransparente {
@@ -450,8 +474,12 @@ label {
     color: #84878B;
 }
 
+.process-work .row {
+    min-height: auto!important;
+}
+
 .campoForm {
-    padding: 15px;
+    padding: 8px;
 }
 
 div#mapa {
@@ -507,6 +535,7 @@ img.imgSobre {
 .bgBanner {
     background-size: 100%;
     background-position: center;
+    min-height: 550px;
 }
 
 .boxEdicao {
@@ -570,21 +599,35 @@ button.btn.btn-link.btn-block.text-left {
 }
 
 #process-work.bannerMensagens {
-    padding-bottom: 47px !important;
+    padding-top: 60px;
+    padding-bottom: 70px!important;
+    min-height: auto;
 }
 
 #countdown h3.titleCentro {
     margin-bottom: 30px !important;
 }
 
-.container {
+/* .container {
     display: inline-block;
     min-height: 38px;
-}
+} */
 
 .section-bottom-only {
     padding-bottom: 70px;
     text-align: center;
+    padding-top: 70px;
+    border-bottom: 1px solid;
+}
+
+.fundoListaPresente {
+    border-radius: 30px;
+    padding: 0 60px;
+    height: 330px;
+}
+
+div#fotos {
+    padding-top: 100px;
 }
 
 div#presenca {
@@ -598,12 +641,24 @@ div#process-work {
     width: 100% !important;
 }
 
+div#portfolio {
+    padding-top: 100px;
+    padding-bottom: 60px;
+}
+
+li.m-1.d-flex.justify-content-center.align-items-center.flex-wrap {
+    border-radius: 15px!important;
+    width: 150px!important;
+}
+
 div#presenca {
-    height: 452px !important;
+    height: auto!important;
+    min-height: auto;
+    padding-bottom: 0;
 }
 
 h3.titleCentro {
-    margin-top: 15px;
+    margin-top: 15px!important;
 }
 
 #endereco h3.titleCentro {
@@ -614,19 +669,30 @@ div#endereco {
     margin-top: 40px;
 }
 
+.video-sec-bg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* O vídeo preencherá toda a seção */
+}
+
 @media (max-width: 767px) {
 
     #endereco h3.titleCentro {
         margin-top: 90px !important;
     }
 
-    div#endereco {
+    /* div#endereco {
         margin-top: 290px !important;
-    }
+    } */
     div#home.bgBanner {
         height: 603px !important;
         margin: 0 auto;
         padding: 0;
+        background-size: cover !important;
+        background-position: center;
     }
     #presenca h2.tituloSobre {
         font-size: 33px !important;
@@ -697,11 +763,6 @@ div#endereco {
 
     .fundoListaPresente h3.titleDireito {
         font-size: 27px !important;
-    }
-
-    .bgBanner {
-        background-size: auto !important;
-        background-position: center;
     }
 
     .textoSobre,

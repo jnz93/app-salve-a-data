@@ -203,29 +203,29 @@
                                             gratuita</span>
                                     </div>
                                     <div class="row p-4 text-muted mt-2 text-center"
-                                        style="text-align: justify !important;">
+                                        style="text-align: left !important;">
 
-                                        <div class="col-12 checkSuccess">
+                                        <div class="col-12 checkSuccess d-flex align-items-center  mb-2">
                                             <i class="bx bxs-check-circle"></i>
                                             <p>Lista editável de presentes</p>
                                         </div>
-                                        <div class="col-12 checkSuccess">
+                                        <div class="col-12 checkSuccess d-flex align-items-center  mb-2">
                                             <i class="bx bxs-check-circle"></i>
                                             <p>Lista de convidados</p>
                                         </div>
-                                        <div class="col-12 checkSuccess">
+                                        <div class="col-12 checkSuccess d-flex align-items-center  mb-2">
                                             <i class="bx bxs-check-circle"></i>
                                             <p>Confirmação de convidados</p>
                                         </div>
-                                        <div class="col-12 checkSuccess">
+                                        <div class="col-12 checkSuccess d-flex align-items-center  mb-2">
                                             <i class="bx bxs-check-circle"></i>
                                             <p>Recados de seus convidados</p>
                                         </div>
-                                        <div class="col-12 checkSuccess">
+                                        <div class="col-12 checkSuccess d-flex align-items-center  mb-2">
                                             <i class="bx bxs-check-circle"></i>
                                             <p>Um layout</p>
                                         </div>
-                                        <div class="col-12 checkSuccess">
+                                        <div class="col-12 checkSuccess d-flex align-items-center  mb-2">
                                             <i class="bx bxs-check-circle"></i>
                                             <p>Até cinco fotos na galeria</p>
                                         </div>
@@ -269,32 +269,32 @@
                                             Data</span>
                                     </div>
                                     <div class="row p-4 text-muted mt-2 text-center"
-                                        style="text-align: justify !important;">
-                                        <div class="col-12 checkSuccess">
+                                        style="text-align: left !important;">
+                                        <div class="col-12 checkSuccess d-flex align-items-center  mb-2">
                                             <i class="bx bxs-check-circle"></i>
                                             <p>Lista editável de presentes</p>
                                         </div>
-                                        <div class="col-12 checkSuccess">
+                                        <div class="col-12 checkSuccess d-flex align-items-center  mb-2">
                                             <i class="bx bxs-check-circle"></i>
                                             <p>Lista de convidados</p>
                                         </div>
-                                        <div class="col-12 checkSuccess">
+                                        <div class="col-12 checkSuccess d-flex align-items-center  mb-2">
                                             <i class="bx bxs-check-circle"></i>
                                             <p>Confirmação de convidados</p>
                                         </div>
-                                        <div class="col-12 checkSuccess">
+                                        <div class="col-12 checkSuccess d-flex align-items-center  mb-2">
                                             <i class="bx bxs-check-circle"></i>
                                             <p>Recados de seus convidados</p>
                                         </div>
-                                        <div class="col-12 checkSuccess">
+                                        <div class="col-12 checkSuccess d-flex align-items-center  mb-2">
                                             <i class="bx bxs-check-circle"></i>
                                             <p>Páginas personalizadas</p>
                                         </div>
-                                        <div class="col-12 checkSuccess">
+                                        <div class="col-12 checkSuccess d-flex align-items-center  mb-2">
                                             <i class="bx bxs-check-circle"></i>
                                             <p>Acesso a todos os layouts</p>
                                         </div>
-                                        <div class="col-12 checkSuccess">
+                                        <div class="col-12 checkSuccess d-flex align-items-center  mb-2">
                                             <i class="bx bxs-check-circle"></i>
                                             <p>Até 10 fotos na galeria</p>
                                         </div>
@@ -341,44 +341,44 @@
                                             Data</span>
                                     </div>
                                     <div class="row p-4 text-muted mt-2 text-center"
-                                        style="text-align: justify !important;">
-                                        <div class="col-12 checkSuccess">
+                                        style="text-align: left !important;">
+                                        <div class="col-12 checkSuccess d-flex align-items-center  mb-2">
                                             <i class="bx bxs-check-circle"></i>
                                             <p>Lista editável de presentes</p>
                                         </div>
-                                        <div class="col-12 checkSuccess">
+                                        <div class="col-12 checkSuccess d-flex align-items-center  mb-2">
                                             <i class="bx bxs-check-circle"></i>
                                             <p>Lista de convidados</p>
                                         </div>
-                                        <div class="col-12 checkSuccess">
+                                        <div class="col-12 checkSuccess d-flex align-items-center  mb-2">
                                             <i class="bx bxs-check-circle"></i>
                                             <p>Confirmação de convidados</p>
                                         </div>
-                                        <div class="col-12 checkSuccess">
+                                        <div class="col-12 checkSuccess d-flex align-items-center  mb-2">
                                             <i class="bx bxs-check-circle"></i>
                                             <p>Recados de seus convidados</p>
                                         </div>
-                                        <div class="col-12 checkSuccess">
+                                        <div class="col-12 checkSuccess d-flex align-items-center  mb-2">
                                             <i class="bx bxs-check-circle"></i>
                                             <p>Páginas personalizadas</p>
                                         </div>
-                                        <div class="col-12 checkSuccess">
+                                        <div class="col-12 checkSuccess d-flex align-items-center  mb-2">
                                             <i class="bx bxs-check-circle"></i>
                                             <p>Música a sua escolha</p>
                                         </div>
-                                        <div class="col-12 checkSuccess">
+                                        <div class="col-12 checkSuccess d-flex align-items-center  mb-2">
                                             <i class="bx bxs-check-circle"></i>
                                             <p>Domínio personalizado</p>
                                         </div>
-                                        <div class="col-12 checkSuccess">
+                                        <div class="col-12 checkSuccess d-flex align-items-center  mb-2">
                                             <i class="bx bxs-check-circle"></i>
                                             <p>Acesso a todos os layouts</p>
                                         </div>
-                                        <div class="col-12 checkSuccess">
+                                        <div class="col-12 checkSuccess d-flex align-items-center  mb-2">
                                             <i class="bx bxs-check-circle"></i>
                                             <p>Fotos ilimitadas pré e pós evento</p>
                                         </div>
-                                        <div class="col-12 checkSuccess">
+                                        <div class="col-12 checkSuccess d-flex align-items-center  mb-2">
                                             <i class="bx bxs-check-circle"></i>
                                             <p>Assessoria personalizada</p>
                                         </div>

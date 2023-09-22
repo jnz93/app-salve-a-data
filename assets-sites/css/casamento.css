@@ -12,7 +12,8 @@
 
 
 h3.titleCentro,h3.titleDireito,h2.tituloSobre,.about .content h3,h2 span,h3.titleEsquerda {
-    font-family: 'californication' !important; 
+    font-family: monospace;
+    font-weight: 400!important;
 }
 
 p, span, button, label, a {
@@ -25,7 +26,7 @@ p, span, button, label, a {
 
 #presenca .titleEsquerda, #presenca .titleDireito {
     text-align: center !important;
-    font-size: 53px !important;
+    font-size: 38px !important;
 }
 
 h2.titlePrincipal {
@@ -36,9 +37,51 @@ h3.titleCentro, h2.tituloSobre,h3.titleDireito {
     font-size: 53px !important;
 }
 
+div#home {
+    height: 600px!important;
+}
+
 
 div#carouselExampleControls {
     margin-top: 20px;
+}
+
+div#home:before {
+    content: '';
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.6);
+}
+
+.img-fluid img {
+    border-radius: 0;
+}
+
+.process-work .row {
+    min-height: 0;
+}
+
+div#fotos {
+    padding-bottom: 0;
+    padding-top: 50px;
+}
+
+p.descricaoMensagem {
+    padding: 0 240px;
+}
+
+nav.navbar.navbar-expand-md.navbar-light {
+    background: #CCB9D6;
+    padding: 0px;
+    z-index: 2;
+}
+
+h3.titleCentro {
+    margin: 30px 0 0 0!important;
 }
 
 img.imgSobre {
@@ -48,6 +91,8 @@ img.imgSobre {
 #home span.color-highlight {
     margin-top: 0px !important;
     display: inline-block;
+    font-size: 58px;
+    line-height: 65px;
 }
 
 .home-intro .content h2.titlePrincipal {
@@ -474,7 +519,7 @@ label {
 }
 
 .campoForm {
-    padding: 15px;
+    padding: 6px;
 }
 
 div#mapa {
@@ -595,12 +640,16 @@ button.btn.btn-link.btn-block.text-left {
     min-height: 38px;
 }
 
+p.descricaoMensagem {
+    padding: 0 220px;
+}
+
 div#portfolio .row {
     display: inline-block !important;
 }
 
 .section-bottom-only {
-    padding-bottom: 90px;
+    padding-bottom: 70px;
     text-align: center;
 }
 
@@ -610,6 +659,12 @@ div#presenca {
 
 div#process-work {
     text-align: center;
+}
+
+#countdown h3.titleCentro {
+    color: #FFFFFF;
+    font-size: 30px!important;
+    line-height: 40px;
 }
 
 #countdown h3.titleCentro {
@@ -639,6 +694,7 @@ div#presenca {
 
 #process-work.bannerMensagens {
     padding-bottom: 47px !important;
+    background-color: black;
 }
 
 #presenca h3.titleDireito {
@@ -868,7 +924,7 @@ border-radius: 4px !important;
 }
 
 #sobre .row.no-gutters.filter-container {
-    padding-top: 70px!important;
+padding: 70px 100px 0!important;
 }
 img.imgSobre {
     max-width: 415px;
@@ -897,4 +953,3 @@ li.dataEvento {
         margin-top: -40px !important;
     }
 }
-

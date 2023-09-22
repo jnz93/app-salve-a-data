@@ -42,23 +42,10 @@
 
     
 
-    footer {
+    /* footer {
         background: <?=$config["corPrincipal"]?>;
         padding: 0;
-    }
-
-    <?php
-        if($config["corContadorTempo"] != ""){
-            ?>
-            /* #countdown li{
-                background: <?=$config["corContadorTempo"]?> !important;
-            } */
-            
-            <?php
-        }
-    ?>
-
-   
+    } */
 
     nav.navbar.navbar-expand-md.navbar-light {
         background: <?=$config["corPrincipal"]?>;
@@ -66,8 +53,8 @@
     }
 
     div#portfolio {
-    background: <?=$config["corPrincipal"]?>;
-}
+        background: <?=$config["corPrincipal"]?>;
+    }
 
     .navbar .navbar-nav li .nav-link {
         font-size: 15px;
@@ -122,7 +109,21 @@
         background-color:<?=$config["corPrincipal"]?> !important;
     }
 
-   
-
+    <?php
+        if(strlen($config["corContadorTempo"]) > 1 ){
+            ?>
+            #countdown li{
+                background: <?= $config["corContadorTempo"]?> !important;
+            }
+            
+            <?php
+        } else {
+            ?>
+            #countdown li{
+                background: <?=$config["corPrincipal"]?> !important;
+            }
+            <?php
+        }
+    ?>
    
     </style>

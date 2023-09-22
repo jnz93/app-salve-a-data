@@ -75,18 +75,16 @@
 
     <!-- home intro -->
     
-    <div class="container">
+    <div class="container" style="margin-top: 140px;">
         <div class="row">
             <div class="col-12">
                 <div class="section-title">
-                    <h3 class="titleCentro" style="
-    margin-bottom: 55px;
-">Listagem dos presentes</h3>
+                    <h3 class="titleCentro" style="margin-bottom: 55px;">Listagem dos presentes</h3>
                 </div>
             </div>
         </div>
     </div>
-    <div class="container">
+    <div class="container" style="margin-bottom: 140px;>
         <div class="row">
 
         <?php

@@ -94,10 +94,10 @@
     }
 
     h3.titleCentro {
-        font-style: normal;
+        /* font-style: normal;
         font-weight: 700;
         font-size: 48px;
-        line-height: 70px;
+        line-height: 70px; */
         text-align: center;
         letter-spacing: -0.005em;
         color: <?=$config["corTitulos"]?>;

@@ -31,10 +31,10 @@
     color: <?=$config["corTextoMenu"]?> !important;
 }
 
-    footer {
+    /* footer {
         background: <?=$config["corPrincipal"]?>;
         padding: 0;
-    }
+    } */
     .bannerMensagens{
         background: <?=$config["corFundoMsg"]?>;
         height: auto !important;
@@ -48,19 +48,6 @@
         background: <?=$config["corPrincipal"]?>;
         padding: 0px;
     }
-
-    <?php
-        if($config["corContadorTempo"] != ""){
-            ?>
-            #countdown li{
-                background: <?=$config["corContadorTempo"]?> !important;
-            }
-            
-            <?php
-        }
-    ?>
-
- 
 
     .navbar .navbar-nav li .nav-link {
         font-size: 15px;
@@ -108,14 +95,27 @@
         padding: 0 140px;
     }
     div#portfolio {
-    background: <?=$config["corPrincipal"]?>;
-}
+        background: <?=$config["corPrincipal"]?>;
+    }
 
-.home-intro.bgBanner{
+    .home-intro.bgBanner{
         background-color:<?=$config["corPrincipal"]?> !important;
     }
    
-
-
-   
+    <?php
+        if(strlen($config["corContadorTempo"]) > 1 ){
+            ?>
+            #countdown li{
+                background: <?= $config["corContadorTempo"]?> !important;
+            }
+            
+            <?php
+        } else {
+            ?>
+            #countdown li{
+                background: <?=$config["corPrincipal"]?> !important;
+            }
+            <?php
+        }
+    ?>
     </style>

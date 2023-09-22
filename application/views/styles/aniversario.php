@@ -36,10 +36,10 @@
 
     
 
-    footer {
+    /* footer {
         background: <?=$config["corPrincipal"]?>;
         padding: 0;
-    }
+    } */
 
    
 
@@ -48,12 +48,18 @@
         padding: 0px;
     }
     <?php
-        if($config["corContadorTempo"] != ""){
+        if(strlen($config["corContadorTempo"]) > 1 ){
             ?>
             #countdown li{
-                background: <?=$config["corContadorTempo"]?> !important;
+                background: <?= $config["corContadorTempo"]?> !important;
             }
             
+            <?php
+        } else {
+            ?>
+            #countdown li{
+                background: <?=$config["corPrincipal"]?> !important;
+            }
             <?php
         }
     ?>
@@ -115,7 +121,7 @@
         padding: 0 140px;
     }
 
-    div#portfolio {
+div#portfolio {
     background: <?=$config["corPrincipal"]?> !important;
 }
 

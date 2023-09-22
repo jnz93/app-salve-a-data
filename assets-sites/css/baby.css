@@ -3,6 +3,14 @@
     font-family: 'chocolate';    
     font-weight: normal;
 } 
+h1, h2, h3, h4, h5, h6{
+    font-family: 'chocolate';
+}
+
+h3.titleCentro {
+    font-weight: 100!important;
+}
+
 
 a.navbar-brand.inicialTopo.topoBaby {
     font-family: 'chocolate';
@@ -26,22 +34,48 @@ h3.titleCentro,h3.titleDireito,h2.tituloSobre,.about .content h3 {
 }
 
 div#presenca {
-    height: 410px !important;
+    /* height: 410px !important; */
 }
 
-#home .container {
+/* #home .container {
     background-size: 100%;
-}
+} */
 
 div#home {
-    height: 604px;
     margin: 0 auto;
     padding: 0;
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    min-height: 550px;
+}
+#home::before{
+    content: '';
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.6);
 }
 
 #countdown h3.titleCentro {
-    margin-bottom: 4    0px !important;
+    font-size: 32px !important;
+    font-weight: normal !important;
+    margin: 12px auto !important;
+    line-height: 48px;
 }
+#countdown ul li {
+    border: 1px solid rgba(20, 20, 22, 0.2) !important;
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.1) !important;
+    border-radius: 15px !important;
+    width: 132px !important;
+}
+
+
 
 #portfolio .row {
     display: inline-block !important;
@@ -55,12 +89,8 @@ div#home {
 }
 
 #presenca h3.titleDireito {
-    margin-top: 165px;
-}
-
-#sobre.section-bottom-only,#fotos.section-bottom-only {
-    padding-bottom: 50px !important;
-    text-align: center;
+    margin-top: 50px;
+    line-height: 65px;
 }
 
 a.nav-link {
@@ -106,7 +136,7 @@ p.descricaoEsquerda {
 }
 
 .boxTextoCentro {
-    padding: 50px 20px 0;
+    padding: 0 20px 0;
 }
 
 img.modelosSite {
@@ -149,8 +179,8 @@ button.botaoLead {
 }
 
 .brand img {
-    width: 58px !important;
-    margin: 10px 0;
+    width: 160px !important;
+    margin: 0;
 }
 
 footer h5 {
@@ -173,7 +203,7 @@ footer ul li a {
     font-size: 16px;
     line-height: 24px;
     text-align: center;
-    color: #84878B;
+    color: black;
 }
 
 .flipper {
@@ -473,8 +503,27 @@ label {
     color: #84878B;
 }
 
+div#fotos {
+    padding-top: 50px;
+    border-bottom: 1px solid lightgrey;
+    margin-bottom: 50px;
+}
+
+.process-work .row {
+    min-height: 0;
+}
+
+.boxLista {
+    border-radius: 30px;
+    padding: 0 60px;
+}
+
+button.btn.btn-primary.waves-effect.waves-light.btConfirma {
+    margin-top: 10px;
+}
+
 .campoForm {
-    padding: 15px;
+    padding: 6px;
 }
 
 div#mapa {
@@ -590,18 +639,19 @@ button.btn.btn-link.btn-block.text-left {
     color: #8a8a8a;
 }
 
-.container {
+/* .container {
     display: inline-block;
     min-height: 38px;
-}
+} */
 
 .section-bottom-only {
     padding-bottom: 90px;
-    text-align: center;
+    /* text-align: center; */
 }
 
 div#presenca {
     text-align: center;
+    padding-top: 20px;
 }
 
 div#process-work {
@@ -614,11 +664,15 @@ div#process-work {
 }
 
 h3.titleCentro{
-    margin: 30px 0 0 0 !important;
+    margin: 0!important;
 }
 
 h3.titleDireito{
     margin-top: 17px;
+}
+
+h3.titleDireito {
+    font-weight: 100!important;
 }
 
 .carousel-inner {
@@ -635,11 +689,14 @@ h3.titleDireito{
 }
 
 #process-work.bannerMensagens {
-    padding-bottom: 47px !important;
+    padding-bottom: 70px !important;
+    background-color: black;
 }
 
-div#endereco {
-    margin: 75px 0 0 0;
+#endereco {
+    background: #f7f9fd;
+    padding-top: 80px;
+    padding-bottom: 0px !important;
 }
 
 
@@ -651,7 +708,7 @@ div#endereco {
     }
 
     div#endereco {
-        margin: 230px 0 0 0 !important;
+        margin: 330px 0 0 0 !important;
     }
 
     a.nav-link {
@@ -686,7 +743,7 @@ div#endereco {
     }
 
     div#portfolio.section-bottom-only {
-        padding-bottom: 20px !important;
+        /* padding-bottom: 20px !important; */
     }
 
     #home span.color-highlight {
@@ -722,11 +779,11 @@ div#endereco {
     img.imgSobre{
         min-height: auto !important;
     }
-    .container .row {
+    /* .container .row {
         display: inline-block;
         width: 100%;
         margin: 0 auto;
-    }
+    } */
     #process-work .col-12.text-center {
         margin-top: 115px !important;
     }
@@ -748,9 +805,9 @@ div#endereco {
         padding: 70px 0;
     }
 
-    .container {
+    /* .container {
         width: 100% !important;
-    }
+    } */
 
     .textoSobre,
     .textoPadrao {
@@ -797,7 +854,7 @@ ul.navbar-nav.ml-auto {
 h2.titlePrincipal {
     margin-top: 10px !important;
 }
-.container {
+/* .container {
     display: inline-block;
     min-height: 38px;
     width: 90%;
@@ -805,13 +862,13 @@ h2.titlePrincipal {
     height: 100%;
     margin: 0 auto;
     display: block;
-}
+} */
 
 div#portfolio {
-    background: #e5e5b8;
+    background: #f7f9fd !important;
+    width: 100%;
     margin: 0;
     display: inline-block;
-    width: 100%;
 }
 
 .topoPrincipal {
@@ -820,22 +877,9 @@ div#portfolio {
 }
 
 
-#countdown li {
-    background: #ADCECA !important;
-
-
-border: 1px solid rgba(20, 20, 22, 0.2) !important;
-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.1) !important;
-border-radius: 4px !important;
-    padding: 0 !important;
-    width: 132px !important;
-}
-
-
-
-.row {
+/* .row {
     width: 100%;
-}
+} */
 
 .textoPadrao p {
     width: 100%;
@@ -843,9 +887,6 @@ border-radius: 4px !important;
     margin: 10px auto;
 }
 
-#sobre .row.no-gutters.filter-container {
-    padding-top: 70px!important;
-}
 img.imgSobre {
     max-width: 415px;
     width: 100%;
@@ -875,4 +916,23 @@ div#process-work {
 }
 
 
+@media (min-width: 980px){
+    #portfolio{
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
 
+    #portfolio .section-title {
+        text-align: center;
+        margin-bottom: 7px !important;
+        margin-top: 0 !important;
+    }
+    
+    #sobre .row.no-gutters.filter-container {
+        padding: 70px 100px 0!important;
+    }
+
+    #sobre .row.no-gutters.filter-container .textoSobre {
+        text-align: left!important;
+    }
+}

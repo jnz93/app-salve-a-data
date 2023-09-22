@@ -191,31 +191,35 @@
             </style>
         
         <div class="row albuns">
-                        <div class="col-sm-12">
-                            <div class="row ">
-                                <div class="col-12 popup-gallery">
-                                    
-                                    <?php
-                                    foreach($midias[$albuns[1]["id_album"]] as $midia){
-                                        ?>
-                                    <a class="float-start midia" href="<?=$midia["midia"]?>" title="">
-                                        <div class="img-fluid">
-                                            <img src="<?=$midia["midia"]?>" alt="" width=" 120">
-                                        </div>
-                                    </a>
-                                    <?php
-                                    }
-                                ?>
-
-
-                                </div>
-                            </div>
-                            
-                        </div>
-                        
-                        
+            <div class="col-sm-12">
+                <div class="row ">
+                    <div class="col-12 popup-gallery d-flex flex-wrap justify-content-center justify-content-md-center text-left">
+                        <?php
+                        foreach($midias[$albuns[1]["id_album"]] as $midia):
+                            if(empty($midia)) continue;
+                            $extensao = strtolower(pathinfo($midia['midia'], PATHINFO_EXTENSION));
+                            $allowedImages = ['jpg', 'jpeg', 'png', 'gif'];
+                            $allowedVideos = ['mp4', 'avi', 'mkv', 'mov', 'wmv'];
+                            if(in_array($extensao, $allowedImages)): ?>
+                                <a class="float-start midia m-1" href="<?=$midia["midia"]?>" title="">
+                                    <div class="img-fluid">
+                                        <img src="<?=$midia["midia"]?>" alt="" width="120">
+                                    </div>
+                                </a>
+                            <?php else : ?>
+                                <a class="float-start midia m-1" href="<?=$midia["midia"]?>" title="">
+                                    <div class="img-fluid">
+                                        <video src="<?=$midia['midia']?>" autoplay="false" controls style="max-width: 245px;"></video>
+                                    </div>
+                                </a>
+                            <?php endif; 
+                        endforeach; 
+                        ?>
                     </div>
-        <?php
+                </div>
+            </div>
+        </div>
+    <?php
 
    // }
 ?>

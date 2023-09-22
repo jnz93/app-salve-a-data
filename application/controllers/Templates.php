@@ -273,7 +273,8 @@ class Templates extends CI_Controller
         }
        
         
-        if($insert["nome"] != "" && $insert["email"] != "" && $insert["telefone"] != ""){
+        // if($insert["nome"] != "" && $insert["email"] != "" && $insert["telefone"] != ""){
+        if($insert["nome"] != ""){
             $this->db->where("emailConvidado",$insert["email"]);
             $this->db->or_where("telefoneConvidado",$insert["telefone"]);
             $convidado = $this->db->get("convidados")->row_array();
